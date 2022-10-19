@@ -1,0 +1,3801 @@
+,equipo1,posicion1,equipo2,posicion2,mes,fin_de_semana,publico
+0,Real Madrid CF,1,FC Barcelona,4,8,1,67765
+1,Real Madrid CF,1,FC Barcelona,2,4,0,56479
+2,Real Madrid CF,3,FC Barcelona,5,6,1,72441
+3,Real Madrid CF,4,FC Barcelona,1,5,1,69815
+4,Real Madrid CF,1,FC Barcelona,5,1,1,76697
+5,Real Madrid CF,1,FC Barcelona,5,3,1,81044
+6,Real Madrid CF,2,FC Barcelona,3,5,1,80986
+7,Real Madrid CF,2,FC Barcelona,1,5,0,71060
+8,Real Madrid CF,3,FC Barcelona,1,2,1,81044
+9,Real Madrid CF,1,FC Barcelona,4,6,1,67385
+10,Real Madrid CF,1,Atlético de Madrid,2,3,1,64130
+11,Real Madrid CF,4,Atlético de Madrid,6,6,1,60954
+12,Real Madrid CF,1,Atlético de Madrid,6,3,1,73083
+13,Real Madrid CF,1,Atlético de Madrid,3,9,1,64711
+14,Real Madrid CF,3,Atlético de Madrid,6,3,1,57960
+15,Real Madrid CF,4,Atlético de Madrid,2,1,1,66300
+16,Real Madrid CF,4,Atlético de Madrid,1,12,1,61969
+17,Real Madrid CF,4,Atlético de Madrid,1,8,1,71404
+18,Real Madrid CF,1,Atlético de Madrid,4,1,1,50671
+19,Real Madrid CF,1,Atlético de Madrid,6,9,0,50105
+20,Real Madrid CF,1,Sevilla FC,3,6,1,58027
+21,Real Madrid CF,1,Sevilla FC,4,4,1,81044
+22,Real Madrid CF,4,Sevilla FC,2,6,0,48921
+23,Real Madrid CF,1,Sevilla FC,7,4,1,64370
+24,Real Madrid CF,1,Sevilla FC,2,11,1,57950
+25,Real Madrid CF,2,Sevilla FC,1,4,1,80147
+26,Real Madrid CF,4,Sevilla FC,7,3,1,70861
+27,Real Madrid CF,4,Sevilla FC,2,10,1,72361
+28,Real Madrid CF,3,Sevilla FC,5,9,1,54378
+29,Real Madrid CF,2,Sevilla FC,1,9,0,60076
+30,Real Madrid CF,3,Real Betis Balompié,5,8,1,63206
+31,Real Madrid CF,1,Real Betis Balompié,3,11,1,75952
+32,Real Madrid CF,1,Real Betis Balompié,4,5,1,77959
+33,Real Madrid CF,1,Real Betis Balompié,5,8,1,67889
+34,Real Madrid CF,4,Real Betis Balompié,5,12,1,56900
+35,Real Madrid CF,4,Real Betis Balompié,8,12,1,55629
+36,Real Madrid CF,1,Real Betis Balompié,3,11,0,35891
+37,Real Madrid CF,3,Real Betis Balompié,6,9,1,62148
+38,Real Madrid CF,4,Real Betis Balompié,7,6,1,60095
+39,Real Madrid CF,2,Real Betis Balompié,4,2,1,69898
+40,Real Madrid CF,3,Real Sociedad,6,6,0,49692
+41,Real Madrid CF,1,Real Sociedad,7,6,1,75135
+42,Real Madrid CF,1,Real Sociedad,5,12,0,41964
+43,Real Madrid CF,1,Real Sociedad,8,9,0,61899
+44,Real Madrid CF,2,Real Sociedad,9,11,1,56101
+45,Real Madrid CF,2,Real Sociedad,9,12,1,62776
+46,Real Madrid CF,2,Real Sociedad,7,5,1,60760
+47,Real Madrid CF,1,Real Sociedad,9,2,1,68108
+48,Real Madrid CF,2,Real Sociedad,7,3,1,65454
+49,Real Madrid CF,1,Real Sociedad,4,11,1,81044
+50,Real Madrid CF,1,Villarreal CF,4,4,0,54108
+51,Real Madrid CF,1,Villarreal CF,10,10,1,73424
+52,Real Madrid CF,1,Villarreal CF,8,9,1,66998
+53,Real Madrid CF,1,Villarreal CF,9,2,1,60319
+54,Real Madrid CF,2,Villarreal CF,5,8,1,81044
+55,Real Madrid CF,1,Villarreal CF,6,1,1,75150
+56,Real Madrid CF,1,Villarreal CF,7,2,1,65914
+57,Real Madrid CF,4,Villarreal CF,10,6,1,80795
+58,Real Madrid CF,1,Villarreal CF,5,8,1,61236
+59,Real Madrid CF,1,Villarreal CF,10,1,1,63341
+60,Real Madrid CF,1,Athletic Club,9,11,1,73707
+61,Real Madrid CF,1,Athletic Club,5,1,1,81044
+62,Real Madrid CF,2,Athletic Club,7,2,1,63394
+63,Real Madrid CF,1,Athletic Club,9,3,1,66722
+64,Real Madrid CF,1,Athletic Club,8,1,1,65875
+65,Real Madrid CF,2,Athletic Club,8,8,1,76663
+66,Real Madrid CF,1,Athletic Club,10,5,1,81044
+67,Real Madrid CF,1,Athletic Club,5,11,1,63444
+68,Real Madrid CF,3,Athletic Club,6,12,1,55824
+69,Real Madrid CF,1,Athletic Club,6,10,1,64596
+70,Real Madrid CF,1,Valencia CF,11,1,0,31385
+71,Real Madrid CF,1,Valencia CF,6,1,1,76087
+72,Real Madrid CF,1,Valencia CF,7,8,1,66680
+73,Real Madrid CF,2,Valencia CF,9,2,0,51036
+74,Real Madrid CF,2,Valencia CF,12,12,0,33029
+75,Real Madrid CF,1,Valencia CF,8,9,0,49325
+76,Real Madrid CF,1,Valencia CF,10,5,0,40666
+77,Real Madrid CF,1,Valencia CF,12,12,0,49429
+78,Real Madrid CF,4,Valencia CF,10,6,1,65705
+79,Real Madrid CF,1,Valencia CF,9,11,1,52615
+80,Real Madrid CF,3,CA Osasuna,12,3,1,69048
+81,Real Madrid CF,4,CA Osasuna,12,4,1,70831
+82,Real Madrid CF,1,CA Osasuna,9,11,1,65492
+83,Real Madrid CF,2,CA Osasuna,7,6,0,54265
+84,Real Madrid CF,1,CA Osasuna,10,4,1,81044
+85,Real Madrid CF,1,CA Osasuna,13,2,1,62949
+86,Real Madrid CF,2,CA Osasuna,8,2,1,75523
+87,Real Madrid CF,2,CA Osasuna,12,3,0,52642
+88,Real Madrid CF,3,CA Osasuna,9,4,1,68876
+89,Real Madrid CF,1,CA Osasuna,12,9,1,65277
+90,Real Madrid CF,1,RC Celta de Vigo,9,8,1,63636
+91,Real Madrid CF,1,RC Celta de Vigo,14,8,1,68974
+92,Real Madrid CF,2,RC Celta de Vigo,14,9,1,43213
+93,Real Madrid CF,4,RC Celta de Vigo,9,8,1,59720
+94,Real Madrid CF,1,RC Celta de Vigo,8,6,1,70903
+95,Real Madrid CF,3,RC Celta de Vigo,8,1,0,42695
+96,Real Madrid CF,2,RC Celta de Vigo,11,3,1,81044
+97,Real Madrid CF,1,RC Celta de Vigo,10,12,1,49892
+98,Real Madrid CF,2,RC Celta de Vigo,10,5,1,65718
+99,Real Madrid CF,1,RC Celta de Vigo,11,8,1,67180
+100,Real Madrid CF,2,Rayo Vallecano,14,5,0,34385
+101,Real Madrid CF,1,Rayo Vallecano,14,11,0,50038
+102,Real Madrid CF,1,Rayo Vallecano,13,3,1,58516
+103,Real Madrid CF,3,Rayo Vallecano,10,2,1,63449
+104,Real Madrid CF,2,Rayo Vallecano,9,10,1,81044
+105,Real Madrid CF,1,Rayo Vallecano,14,6,0,74704
+106,Real Madrid CF,2,Rayo Vallecano,11,5,0,50221
+107,Real Madrid CF,1,Rayo Vallecano,9,5,1,81044
+108,Real Madrid CF,1,Rayo Vallecano,12,1,1,48462
+109,Real Madrid CF,4,Rayo Vallecano,10,3,1,66454
+110,Real Madrid CF,1,Elche CF,13,3,0,46006
+111,Real Madrid CF,2,Elche CF,14,8,0,35437
+112,Real Madrid CF,1,Elche CF,10,4,1,78781
+113,Real Madrid CF,4,Elche CF,15,5,1,60071
+114,Real Madrid CF,3,Elche CF,11,2,0,52688
+115,Real Madrid CF,1,Elche CF,11,2,0,53722
+116,Real Madrid CF,4,Elche CF,11,2,1,81044
+117,Real Madrid CF,1,Elche CF,13,1,1,69552
+118,Real Madrid CF,1,Elche CF,11,4,1,74528
+119,Real Madrid CF,4,Elche CF,14,10,1,52899
+120,Real Madrid CF,2,RCD Espanyol,11,9,1,61890
+121,Real Madrid CF,1,RCD Espanyol,12,12,1,69186
+122,Real Madrid CF,1,RCD Espanyol,15,3,0,47548
+123,Real Madrid CF,2,RCD Espanyol,16,9,1,59394
+124,Real Madrid CF,4,RCD Espanyol,11,5,1,77308
+125,Real Madrid CF,1,RCD Espanyol,17,12,0,45200
+126,Real Madrid CF,1,RCD Espanyol,13,11,1,59797
+127,Real Madrid CF,1,RCD Espanyol,13,3,1,68348
+128,Real Madrid CF,3,RCD Espanyol,11,12,1,70991
+129,Real Madrid CF,1,RCD Espanyol,15,6,0,54423
+130,Real Madrid CF,3,Getafe CF,15,12,1,69082
+131,Real Madrid CF,2,Getafe CF,13,1,1,73611
+132,Real Madrid CF,4,Getafe CF,13,5,0,54207
+133,Real Madrid CF,1,Getafe CF,13,5,1,58129
+134,Real Madrid CF,1,Getafe CF,12,3,1,71679
+135,Real Madrid CF,2,Getafe CF,14,10,1,47847
+136,Real Madrid CF,1,Getafe CF,13,10,0,52144
+137,Real Madrid CF,1,Getafe CF,16,2,1,42219
+138,Real Madrid CF,1,Getafe CF,12,9,1,68360
+139,Real Madrid CF,4,Getafe CF,15,12,0,42330
+140,Real Madrid CF,3,RCD Mallorca,18,12,1,59821
+141,Real Madrid CF,2,RCD Mallorca,19,9,1,67726
+142,Real Madrid CF,1,RCD Mallorca,17,12,1,60510
+143,Real Madrid CF,1,RCD Mallorca,13,12,1,73885
+144,Real Madrid CF,1,RCD Mallorca,13,8,1,57106
+145,Real Madrid CF,1,RCD Mallorca,13,11,1,63468
+146,Real Madrid CF,3,RCD Mallorca,15,4,1,71789
+147,Real Madrid CF,1,RCD Mallorca,16,9,1,65350
+148,Real Madrid CF,4,RCD Mallorca,19,5,1,62472
+149,Real Madrid CF,1,RCD Mallorca,19,8,1,63234
+150,Real Madrid CF,3,Cádiz CF,17,3,1,58409
+151,Real Madrid CF,1,Cádiz CF,17,6,0,51223
+152,Real Madrid CF,3,Cádiz CF,16,2,1,66010
+153,Real Madrid CF,1,Cádiz CF,15,12,1,59047
+154,Real Madrid CF,1,Cádiz CF,17,11,1,52175
+155,Real Madrid CF,1,Cádiz CF,14,10,1,61533
+156,Real Madrid CF,1,Cádiz CF,15,10,1,70473
+157,Real Madrid CF,1,Cádiz CF,15,1,0,48103
+158,Real Madrid CF,1,Cádiz CF,15,10,1,55483
+159,Real Madrid CF,1,Cádiz CF,16,6,1,73590
+160,Real Madrid CF,3,UD Almería,19,2,1,65761
+161,Real Madrid CF,1,UD Almería,17,12,1,77932
+162,Real Madrid CF,2,UD Almería,19,4,1,48348
+163,Real Madrid CF,1,UD Almería,20,11,1,53473
+164,Real Madrid CF,3,UD Almería,20,1,1,66134
+165,Real Madrid CF,1,UD Almería,18,10,1,52836
+166,Real Madrid CF,1,UD Almería,16,2,1,63084
+167,Real Madrid CF,1,UD Almería,15,5,0,45562
+168,Real Madrid CF,1,UD Almería,20,11,0,40121
+169,Real Madrid CF,1,UD Almería,15,8,1,55736
+170,Real Madrid CF,1,Real Valladolid CF,20,9,1,63937
+171,Real Madrid CF,3,Real Valladolid CF,19,3,1,52445
+172,Real Madrid CF,4,Real Valladolid CF,16,3,1,59758
+173,Real Madrid CF,1,Real Valladolid CF,20,2,1,47322
+174,Real Madrid CF,4,Real Valladolid CF,20,5,1,50056
+175,Real Madrid CF,1,Real Valladolid CF,20,11,1,50353
+176,Real Madrid CF,2,Real Valladolid CF,19,12,1,63197
+177,Real Madrid CF,3,Real Valladolid CF,19,5,1,65195
+178,Real Madrid CF,4,Real Valladolid CF,19,1,1,51324
+179,Real Madrid CF,1,Real Valladolid CF,18,4,1,56557
+180,Real Madrid CF,3,Girona FC,19,3,1,81044
+181,Real Madrid CF,1,Girona FC,17,11,1,78779
+182,Real Madrid CF,2,Girona FC,20,5,1,75895
+183,Real Madrid CF,1,Girona FC,18,12,1,59389
+184,Real Madrid CF,1,Girona FC,20,3,0,47198
+185,Real Madrid CF,1,Girona FC,20,5,1,60951
+186,Real Madrid CF,1,Girona FC,17,10,0,35887
+187,Real Madrid CF,2,Girona FC,20,1,1,56278
+188,Real Madrid CF,1,Girona FC,19,10,1,43672
+189,Real Madrid CF,3,Girona FC,19,6,1,59794
+190,FC Barcelona,5,Real Madrid CF,1,1,1,96663
+191,FC Barcelona,3,Real Madrid CF,2,8,1,85072
+192,FC Barcelona,2,Real Madrid CF,1,10,0,77738
+193,FC Barcelona,5,Real Madrid CF,3,8,1,95215
+194,FC Barcelona,2,Real Madrid CF,1,3,1,98255
+195,FC Barcelona,4,Real Madrid CF,2,3,1,99354
+196,FC Barcelona,1,Real Madrid CF,2,9,1,83877
+197,FC Barcelona,3,Real Madrid CF,2,8,1,96199
+198,FC Barcelona,3,Real Madrid CF,1,1,1,99354
+199,FC Barcelona,5,Real Madrid CF,2,12,0,87328
+200,FC Barcelona,2,Atlético de Madrid,3,4,1,97901
+201,FC Barcelona,3,Atlético de Madrid,5,1,0,75730
+202,FC Barcelona,5,Atlético de Madrid,3,2,1,99354
+203,FC Barcelona,5,Atlético de Madrid,2,11,1,94107
+204,FC Barcelona,3,Atlético de Madrid,6,3,0,64538
+205,FC Barcelona,3,Atlético de Madrid,1,2,1,93725
+206,FC Barcelona,5,Atlético de Madrid,3,1,0,64326
+207,FC Barcelona,1,Atlético de Madrid,2,5,1,99354
+208,FC Barcelona,2,Atlético de Madrid,6,8,1,82328
+209,FC Barcelona,1,Atlético de Madrid,5,11,1,99354
+210,FC Barcelona,4,Sevilla FC,6,3,1,85825
+211,FC Barcelona,4,Sevilla FC,7,3,1,86877
+212,FC Barcelona,1,Sevilla FC,4,9,1,99354
+213,FC Barcelona,1,Sevilla FC,7,3,1,99354
+214,FC Barcelona,1,Sevilla FC,7,9,1,79660
+215,FC Barcelona,1,Sevilla FC,4,6,1,99354
+216,FC Barcelona,1,Sevilla FC,5,1,0,60547
+217,FC Barcelona,1,Sevilla FC,7,9,1,92512
+218,FC Barcelona,1,Sevilla FC,4,4,1,88988
+219,FC Barcelona,5,Sevilla FC,2,4,1,90969
+220,FC Barcelona,1,Real Betis Balompié,8,6,1,82423
+221,FC Barcelona,3,Real Betis Balompié,8,1,1,99354
+222,FC Barcelona,2,Real Betis Balompié,4,3,1,93317
+223,FC Barcelona,2,Real Betis Balompié,5,12,1,87361
+224,FC Barcelona,4,Real Betis Balompié,8,4,1,80850
+225,FC Barcelona,3,Real Betis Balompié,5,6,1,87279
+226,FC Barcelona,3,Real Betis Balompié,2,10,0,79619
+227,FC Barcelona,5,Real Betis Balompié,2,12,0,84241
+228,FC Barcelona,2,Real Betis Balompié,6,1,0,90962
+229,FC Barcelona,1,Real Betis Balompié,2,6,0,82544
+230,FC Barcelona,2,Real Sociedad,6,6,0,68722
+231,FC Barcelona,1,Real Sociedad,6,9,0,98988
+232,FC Barcelona,1,Real Sociedad,8,1,1,97437
+233,FC Barcelona,5,Real Sociedad,9,5,1,95937
+234,FC Barcelona,5,Real Sociedad,4,2,1,84201
+235,FC Barcelona,1,Real Sociedad,8,3,1,92391
+236,FC Barcelona,2,Real Sociedad,4,8,1,99354
+237,FC Barcelona,4,Real Sociedad,8,2,1,76335
+238,FC Barcelona,3,Real Sociedad,9,4,1,99354
+239,FC Barcelona,5,Real Sociedad,8,9,1,84400
+240,FC Barcelona,1,Villarreal CF,10,6,1,90308
+241,FC Barcelona,1,Villarreal CF,5,5,1,99212
+242,FC Barcelona,5,Villarreal CF,8,6,1,99354
+243,FC Barcelona,3,Villarreal CF,7,2,0,56826
+244,FC Barcelona,5,Villarreal CF,9,1,1,63548
+245,FC Barcelona,1,Villarreal CF,9,6,1,80682
+246,FC Barcelona,5,Villarreal CF,8,11,1,91504
+247,FC Barcelona,5,Villarreal CF,9,5,1,99354
+248,FC Barcelona,3,Villarreal CF,5,10,1,99354
+249,FC Barcelona,1,Villarreal CF,10,9,1,92595
+250,FC Barcelona,3,Athletic Club,7,10,1,75348
+251,FC Barcelona,4,Athletic Club,9,8,1,85127
+252,FC Barcelona,1,Athletic Club,10,8,1,95314
+253,FC Barcelona,3,Athletic Club,6,2,0,68446
+254,FC Barcelona,5,Athletic Club,9,1,1,85237
+255,FC Barcelona,1,Athletic Club,10,3,0,75967
+256,FC Barcelona,3,Athletic Club,10,5,0,74149
+257,FC Barcelona,2,Athletic Club,7,1,1,87408
+258,FC Barcelona,2,Athletic Club,11,4,0,51301
+259,FC Barcelona,1,Athletic Club,11,12,1,99354
+260,FC Barcelona,1,Valencia CF,8,10,1,74074
+261,FC Barcelona,1,Valencia CF,6,2,1,97138
+262,FC Barcelona,1,Valencia CF,8,12,1,92752
+263,FC Barcelona,2,Valencia CF,12,3,1,99354
+264,FC Barcelona,4,Valencia CF,7,4,1,99354
+265,FC Barcelona,3,Valencia CF,10,3,0,62265
+266,FC Barcelona,1,Valencia CF,6,9,1,99354
+267,FC Barcelona,2,Valencia CF,7,12,1,79518
+268,FC Barcelona,4,Valencia CF,9,1,1,93854
+269,FC Barcelona,1,Valencia CF,7,5,1,99354
+270,FC Barcelona,3,CA Osasuna,7,10,1,83456
+271,FC Barcelona,1,CA Osasuna,8,5,1,99354
+272,FC Barcelona,4,CA Osasuna,13,5,1,79322
+273,FC Barcelona,2,CA Osasuna,8,2,1,84748
+274,FC Barcelona,3,CA Osasuna,9,1,0,77334
+275,FC Barcelona,1,CA Osasuna,13,6,1,86294
+276,FC Barcelona,1,CA Osasuna,13,2,1,89782
+277,FC Barcelona,1,CA Osasuna,10,4,1,99354
+278,FC Barcelona,4,CA Osasuna,11,5,1,99354
+279,FC Barcelona,1,CA Osasuna,11,3,1,94320
+280,FC Barcelona,3,RC Celta de Vigo,12,2,0,65247
+281,FC Barcelona,2,RC Celta de Vigo,13,6,1,75241
+282,FC Barcelona,2,RC Celta de Vigo,11,9,1,91388
+283,FC Barcelona,1,RC Celta de Vigo,14,9,1,88251
+284,FC Barcelona,1,RC Celta de Vigo,9,2,1,73187
+285,FC Barcelona,4,RC Celta de Vigo,12,5,1,95799
+286,FC Barcelona,1,RC Celta de Vigo,12,4,1,99354
+287,FC Barcelona,2,RC Celta de Vigo,13,10,1,99354
+288,FC Barcelona,5,RC Celta de Vigo,13,12,1,87291
+289,FC Barcelona,3,RC Celta de Vigo,8,10,1,82073
+290,FC Barcelona,3,Rayo Vallecano,10,1,1,88656
+291,FC Barcelona,3,Rayo Vallecano,15,1,1,80048
+292,FC Barcelona,2,Rayo Vallecano,14,11,1,99354
+293,FC Barcelona,1,Rayo Vallecano,13,8,0,66193
+294,FC Barcelona,1,Rayo Vallecano,14,8,1,78915
+295,FC Barcelona,1,Rayo Vallecano,14,3,1,94345
+296,FC Barcelona,1,Rayo Vallecano,15,12,1,85519
+297,FC Barcelona,3,Rayo Vallecano,9,4,1,99354
+298,FC Barcelona,3,Rayo Vallecano,9,4,1,99354
+299,FC Barcelona,1,Rayo Vallecano,14,3,1,89287
+300,FC Barcelona,1,Elche CF,15,12,0,47119
+301,FC Barcelona,1,Elche CF,15,5,0,83940
+302,FC Barcelona,4,Elche CF,13,1,0,49162
+303,FC Barcelona,1,Elche CF,15,1,1,98554
+304,FC Barcelona,1,Elche CF,16,5,1,82954
+305,FC Barcelona,5,Elche CF,15,10,1,99354
+306,FC Barcelona,1,Elche CF,10,2,1,93857
+307,FC Barcelona,1,Elche CF,13,10,1,99354
+308,FC Barcelona,3,Elche CF,12,6,1,82833
+309,FC Barcelona,1,Elche CF,14,11,1,79227
+310,FC Barcelona,2,RCD Espanyol,15,10,1,88662
+311,FC Barcelona,2,RCD Espanyol,15,1,1,85380
+312,FC Barcelona,1,RCD Espanyol,12,9,1,94315
+313,FC Barcelona,2,RCD Espanyol,14,5,1,81619
+314,FC Barcelona,3,RCD Espanyol,14,9,0,54710
+315,FC Barcelona,3,RCD Espanyol,14,8,1,90067
+316,FC Barcelona,2,RCD Espanyol,14,9,1,90937
+317,FC Barcelona,5,RCD Espanyol,15,12,0,68176
+318,FC Barcelona,5,RCD Espanyol,14,3,1,76477
+319,FC Barcelona,4,RCD Espanyol,11,10,1,81723
+320,FC Barcelona,5,Getafe CF,13,3,0,86435
+321,FC Barcelona,1,Getafe CF,15,6,1,85889
+322,FC Barcelona,2,Getafe CF,16,9,1,78869
+323,FC Barcelona,5,Getafe CF,16,6,1,78736
+324,FC Barcelona,5,Getafe CF,15,8,1,89507
+325,FC Barcelona,5,Getafe CF,13,5,1,88810
+326,FC Barcelona,3,Getafe CF,16,6,0,58049
+327,FC Barcelona,2,Getafe CF,15,6,1,92299
+328,FC Barcelona,1,Getafe CF,14,12,1,86901
+329,FC Barcelona,1,Getafe CF,14,4,1,99354
+330,FC Barcelona,1,RCD Mallorca,19,1,0,75267
+331,FC Barcelona,1,RCD Mallorca,19,3,0,70843
+332,FC Barcelona,4,RCD Mallorca,15,12,1,90901
+333,FC Barcelona,5,RCD Mallorca,19,9,1,59648
+334,FC Barcelona,1,RCD Mallorca,16,6,1,81746
+335,FC Barcelona,1,RCD Mallorca,17,8,1,91400
+336,FC Barcelona,2,RCD Mallorca,16,6,1,86513
+337,FC Barcelona,4,RCD Mallorca,19,11,1,99354
+338,FC Barcelona,2,RCD Mallorca,18,8,0,64497
+339,FC Barcelona,1,RCD Mallorca,16,8,1,63091
+340,FC Barcelona,3,Cádiz CF,20,11,0,54681
+341,FC Barcelona,1,Cádiz CF,18,9,0,48159
+342,FC Barcelona,1,Cádiz CF,14,10,1,73149
+343,FC Barcelona,1,Cádiz CF,18,3,1,99354
+344,FC Barcelona,1,Cádiz CF,15,11,1,71773
+345,FC Barcelona,2,Cádiz CF,15,6,1,83471
+346,FC Barcelona,1,Cádiz CF,18,12,1,96135
+347,FC Barcelona,2,Cádiz CF,20,3,1,81751
+348,FC Barcelona,1,Cádiz CF,19,4,1,86430
+349,FC Barcelona,1,Cádiz CF,14,1,0,76043
+350,FC Barcelona,4,UD Almería,15,8,1,91433
+351,FC Barcelona,1,UD Almería,17,3,1,89451
+352,FC Barcelona,2,UD Almería,16,5,1,98885
+353,FC Barcelona,1,UD Almería,19,12,1,97919
+354,FC Barcelona,1,UD Almería,18,3,1,90641
+355,FC Barcelona,2,UD Almería,16,8,0,46501
+356,FC Barcelona,1,UD Almería,20,2,1,76251
+357,FC Barcelona,1,UD Almería,18,11,1,99354
+358,FC Barcelona,2,UD Almería,15,6,1,77491
+359,FC Barcelona,1,UD Almería,15,3,1,94470
+360,FC Barcelona,3,Real Valladolid CF,19,3,1,79880
+361,FC Barcelona,5,Real Valladolid CF,16,3,1,90270
+362,FC Barcelona,4,Real Valladolid CF,20,8,0,65905
+363,FC Barcelona,1,Real Valladolid CF,20,1,1,78967
+364,FC Barcelona,4,Real Valladolid CF,19,4,1,96694
+365,FC Barcelona,1,Real Valladolid CF,20,6,1,90760
+366,FC Barcelona,4,Real Valladolid CF,20,11,1,72786
+367,FC Barcelona,2,Real Valladolid CF,20,11,0,70964
+368,FC Barcelona,4,Real Valladolid CF,16,4,1,84292
+369,FC Barcelona,2,Real Valladolid CF,17,11,1,99354
+370,FC Barcelona,4,Girona FC,18,5,1,90227
+371,FC Barcelona,1,Girona FC,18,11,1,89236
+372,FC Barcelona,1,Girona FC,20,2,1,75663
+373,FC Barcelona,2,Girona FC,20,4,1,83114
+374,FC Barcelona,1,Girona FC,20,4,1,96965
+375,FC Barcelona,4,Girona FC,19,9,1,87739
+376,FC Barcelona,4,Girona FC,17,4,0,65492
+377,FC Barcelona,5,Girona FC,20,3,1,99354
+378,FC Barcelona,2,Girona FC,20,8,1,61891
+379,FC Barcelona,3,Girona FC,20,12,1,83988
+380,Atlético de Madrid,5,Real Madrid CF,3,2,1,68456
+381,Atlético de Madrid,3,Real Madrid CF,1,2,0,61774
+382,Atlético de Madrid,1,Real Madrid CF,4,5,0,42042
+383,Atlético de Madrid,5,Real Madrid CF,2,1,0,41238
+384,Atlético de Madrid,1,Real Madrid CF,2,8,1,68456
+385,Atlético de Madrid,1,Real Madrid CF,3,1,0,49940
+386,Atlético de Madrid,4,Real Madrid CF,3,5,1,56700
+387,Atlético de Madrid,2,Real Madrid CF,1,3,1,58170
+388,Atlético de Madrid,2,Real Madrid CF,1,4,1,68045
+389,Atlético de Madrid,3,Real Madrid CF,2,4,1,66229
+390,Atlético de Madrid,6,FC Barcelona,1,3,0,55776
+391,Atlético de Madrid,5,FC Barcelona,4,5,1,57435
+392,Atlético de Madrid,3,FC Barcelona,1,4,1,52683
+393,Atlético de Madrid,2,FC Barcelona,1,4,0,56509
+394,Atlético de Madrid,3,FC Barcelona,1,9,1,68456
+395,Atlético de Madrid,6,FC Barcelona,1,2,1,68456
+396,Atlético de Madrid,6,FC Barcelona,4,6,1,65746
+397,Atlético de Madrid,2,FC Barcelona,1,10,1,63810
+398,Atlético de Madrid,5,FC Barcelona,1,3,1,68456
+399,Atlético de Madrid,5,FC Barcelona,3,3,1,68456
+400,Atlético de Madrid,1,Sevilla FC,6,2,0,53291
+401,Atlético de Madrid,6,Sevilla FC,3,1,1,60505
+402,Atlético de Madrid,1,Sevilla FC,2,9,1,68456
+403,Atlético de Madrid,1,Sevilla FC,6,11,1,65097
+404,Atlético de Madrid,3,Sevilla FC,5,1,1,68456
+405,Atlético de Madrid,1,Sevilla FC,3,6,1,68456
+406,Atlético de Madrid,1,Sevilla FC,3,11,0,44433
+407,Atlético de Madrid,1,Sevilla FC,6,10,1,66094
+408,Atlético de Madrid,5,Sevilla FC,7,1,1,68456
+409,Atlético de Madrid,2,Sevilla FC,6,11,1,68456
+410,Atlético de Madrid,5,Real Betis Balompié,8,10,0,55663
+411,Atlético de Madrid,6,Real Betis Balompié,3,6,1,57889
+412,Atlético de Madrid,1,Real Betis Balompié,5,10,1,55264
+413,Atlético de Madrid,3,Real Betis Balompié,8,10,1,66628
+414,Atlético de Madrid,1,Real Betis Balompié,4,8,0,50199
+415,Atlético de Madrid,1,Real Betis Balompié,2,9,0,54216
+416,Atlético de Madrid,1,Real Betis Balompié,2,8,1,68456
+417,Atlético de Madrid,2,Real Betis Balompié,7,4,1,62939
+418,Atlético de Madrid,3,Real Betis Balompié,5,2,0,37847
+419,Atlético de Madrid,4,Real Betis Balompié,5,1,1,55217
+420,Atlético de Madrid,5,Real Sociedad,6,2,1,68456
+421,Atlético de Madrid,1,Real Sociedad,7,3,0,52429
+422,Atlético de Madrid,1,Real Sociedad,4,11,1,68456
+423,Atlético de Madrid,1,Real Sociedad,7,4,1,68456
+424,Atlético de Madrid,4,Real Sociedad,3,11,0,61944
+425,Atlético de Madrid,1,Real Sociedad,8,8,1,66445
+426,Atlético de Madrid,2,Real Sociedad,7,5,1,59027
+427,Atlético de Madrid,6,Real Sociedad,8,12,1,59711
+428,Atlético de Madrid,4,Real Sociedad,5,12,1,68456
+429,Atlético de Madrid,1,Real Sociedad,3,9,1,68063
+430,Atlético de Madrid,4,Villarreal CF,5,10,1,46209
+431,Atlético de Madrid,4,Villarreal CF,8,11,1,68456
+432,Atlético de Madrid,4,Villarreal CF,9,9,0,57577
+433,Atlético de Madrid,1,Villarreal CF,5,6,1,68456
+434,Atlético de Madrid,1,Villarreal CF,10,11,1,61150
+435,Atlético de Madrid,3,Villarreal CF,4,10,1,66552
+436,Atlético de Madrid,4,Villarreal CF,7,2,1,68456
+437,Atlético de Madrid,2,Villarreal CF,6,2,1,57436
+438,Atlético de Madrid,1,Villarreal CF,7,2,1,63676
+439,Atlético de Madrid,3,Villarreal CF,9,10,1,66506
+440,Atlético de Madrid,1,Athletic Club,11,4,1,61554
+441,Atlético de Madrid,1,Athletic Club,11,6,1,64099
+442,Atlético de Madrid,6,Athletic Club,11,3,1,68456
+443,Atlético de Madrid,6,Athletic Club,8,1,1,66172
+444,Atlético de Madrid,1,Athletic Club,9,11,1,64316
+445,Atlético de Madrid,2,Athletic Club,8,10,1,56793
+446,Atlético de Madrid,1,Athletic Club,7,10,1,55800
+447,Atlético de Madrid,2,Athletic Club,8,4,1,64398
+448,Atlético de Madrid,1,Athletic Club,8,2,0,44735
+449,Atlético de Madrid,5,Athletic Club,9,6,1,54180
+450,Atlético de Madrid,5,Valencia CF,6,2,1,62771
+451,Atlético de Madrid,3,Valencia CF,11,9,0,47498
+452,Atlético de Madrid,1,Valencia CF,6,1,1,62435
+453,Atlético de Madrid,5,Valencia CF,12,6,1,51632
+454,Atlético de Madrid,1,Valencia CF,9,10,1,60107
+455,Atlético de Madrid,1,Valencia CF,10,8,1,67940
+456,Atlético de Madrid,4,Valencia CF,9,12,0,56374
+457,Atlético de Madrid,1,Valencia CF,11,3,1,68456
+458,Atlético de Madrid,1,Valencia CF,9,11,1,51842
+459,Atlético de Madrid,2,Valencia CF,12,10,1,60344
+460,Atlético de Madrid,1,CA Osasuna,11,8,1,64783
+461,Atlético de Madrid,1,CA Osasuna,13,4,1,68456
+462,Atlético de Madrid,6,CA Osasuna,11,9,1,58574
+463,Atlético de Madrid,5,CA Osasuna,9,11,1,57200
+464,Atlético de Madrid,4,CA Osasuna,11,8,1,64243
+465,Atlético de Madrid,5,CA Osasuna,8,5,1,60681
+466,Atlético de Madrid,1,CA Osasuna,8,1,1,68456
+467,Atlético de Madrid,4,CA Osasuna,8,11,1,68456
+468,Atlético de Madrid,1,CA Osasuna,8,12,1,68456
+469,Atlético de Madrid,4,CA Osasuna,9,6,1,60379
+470,Atlético de Madrid,6,RC Celta de Vigo,13,11,1,61871
+471,Atlético de Madrid,5,RC Celta de Vigo,14,6,1,68456
+472,Atlético de Madrid,2,RC Celta de Vigo,9,5,1,66189
+473,Atlético de Madrid,1,RC Celta de Vigo,10,6,1,65086
+474,Atlético de Madrid,3,RC Celta de Vigo,8,1,1,54281
+475,Atlético de Madrid,3,RC Celta de Vigo,14,12,1,60195
+476,Atlético de Madrid,5,RC Celta de Vigo,14,9,0,37524
+477,Atlético de Madrid,3,RC Celta de Vigo,10,3,1,67225
+478,Atlético de Madrid,1,RC Celta de Vigo,12,3,1,54622
+479,Atlético de Madrid,4,RC Celta de Vigo,10,11,1,57574
+480,Atlético de Madrid,1,Rayo Vallecano,9,10,1,66254
+481,Atlético de Madrid,1,Rayo Vallecano,12,9,1,52587
+482,Atlético de Madrid,1,Rayo Vallecano,12,4,1,68456
+483,Atlético de Madrid,1,Rayo Vallecano,11,10,1,62507
+484,Atlético de Madrid,3,Rayo Vallecano,15,8,1,42209
+485,Atlético de Madrid,6,Rayo Vallecano,15,9,1,56252
+486,Atlético de Madrid,1,Rayo Vallecano,11,6,1,67763
+487,Atlético de Madrid,1,Rayo Vallecano,13,1,1,58904
+488,Atlético de Madrid,6,Rayo Vallecano,11,6,0,46578
+489,Atlético de Madrid,4,Rayo Vallecano,14,6,1,68456
+490,Atlético de Madrid,1,Elche CF,13,10,1,60899
+491,Atlético de Madrid,1,Elche CF,12,4,1,61835
+492,Atlético de Madrid,1,Elche CF,16,5,0,41273
+493,Atlético de Madrid,3,Elche CF,15,1,0,48915
+494,Atlético de Madrid,2,Elche CF,15,10,1,61084
+495,Atlético de Madrid,4,Elche CF,10,11,0,51368
+496,Atlético de Madrid,6,Elche CF,16,5,1,50937
+497,Atlético de Madrid,3,Elche CF,11,6,1,55339
+498,Atlético de Madrid,3,Elche CF,11,2,1,50211
+499,Atlético de Madrid,1,Elche CF,10,12,0,45670
+500,Atlético de Madrid,5,RCD Espanyol,16,6,1,45440
+501,Atlético de Madrid,5,RCD Espanyol,17,2,1,68109
+502,Atlético de Madrid,6,RCD Espanyol,15,1,1,68456
+503,Atlético de Madrid,3,RCD Espanyol,15,8,1,62475
+504,Atlético de Madrid,1,RCD Espanyol,11,8,1,62204
+505,Atlético de Madrid,5,RCD Espanyol,14,11,1,47780
+506,Atlético de Madrid,3,RCD Espanyol,15,2,1,68456
+507,Atlético de Madrid,1,RCD Espanyol,13,11,1,55358
+508,Atlético de Madrid,3,RCD Espanyol,16,5,1,68456
+509,Atlético de Madrid,6,RCD Espanyol,15,10,1,47678
+510,Atlético de Madrid,6,Getafe CF,17,9,1,63964
+511,Atlético de Madrid,3,Getafe CF,13,3,1,66677
+512,Atlético de Madrid,5,Getafe CF,13,11,1,56330
+513,Atlético de Madrid,3,Getafe CF,13,1,1,55378
+514,Atlético de Madrid,2,Getafe CF,15,2,1,59448
+515,Atlético de Madrid,5,Getafe CF,15,3,1,60776
+516,Atlético de Madrid,3,Getafe CF,12,1,1,53743
+517,Atlético de Madrid,1,Getafe CF,12,6,1,67607
+518,Atlético de Madrid,1,Getafe CF,13,6,1,54316
+519,Atlético de Madrid,6,Getafe CF,18,3,1,64767
+520,Atlético de Madrid,6,RCD Mallorca,18,8,0,45283
+521,Atlético de Madrid,2,RCD Mallorca,17,4,0,46564
+522,Atlético de Madrid,6,RCD Mallorca,13,8,1,64951
+523,Atlético de Madrid,6,RCD Mallorca,15,3,1,46765
+524,Atlético de Madrid,5,RCD Mallorca,13,9,1,59582
+525,Atlético de Madrid,4,RCD Mallorca,18,6,0,32661
+526,Atlético de Madrid,3,RCD Mallorca,15,3,1,58066
+527,Atlético de Madrid,3,RCD Mallorca,14,11,1,67284
+528,Atlético de Madrid,4,RCD Mallorca,15,6,1,65760
+529,Atlético de Madrid,1,RCD Mallorca,17,3,1,64249
+530,Atlético de Madrid,1,Cádiz CF,20,3,1,63299
+531,Atlético de Madrid,3,Cádiz CF,16,1,1,68456
+532,Atlético de Madrid,4,Cádiz CF,15,9,1,65491
+533,Atlético de Madrid,1,Cádiz CF,20,5,0,40523
+534,Atlético de Madrid,1,Cádiz CF,16,2,1,58618
+535,Atlético de Madrid,4,Cádiz CF,17,2,0,39321
+536,Atlético de Madrid,1,Cádiz CF,18,11,1,66451
+537,Atlético de Madrid,2,Cádiz CF,19,12,1,59524
+538,Atlético de Madrid,5,Cádiz CF,18,4,1,52661
+539,Atlético de Madrid,1,Cádiz CF,18,10,0,53755
+540,Atlético de Madrid,3,UD Almería,20,6,1,56545
+541,Atlético de Madrid,2,UD Almería,20,8,1,68456
+542,Atlético de Madrid,1,UD Almería,19,5,1,52252
+543,Atlético de Madrid,3,UD Almería,16,6,1,55937
+544,Atlético de Madrid,5,UD Almería,20,4,1,58327
+545,Atlético de Madrid,1,UD Almería,20,11,1,68456
+546,Atlético de Madrid,5,UD Almería,18,8,0,30799
+547,Atlético de Madrid,1,UD Almería,18,4,1,64251
+548,Atlético de Madrid,1,UD Almería,20,4,1,65034
+549,Atlético de Madrid,2,UD Almería,18,3,1,68456
+550,Atlético de Madrid,1,Real Valladolid CF,18,3,1,68451
+551,Atlético de Madrid,2,Real Valladolid CF,18,6,1,61658
+552,Atlético de Madrid,5,Real Valladolid CF,18,6,1,43352
+553,Atlético de Madrid,1,Real Valladolid CF,19,11,1,60243
+554,Atlético de Madrid,1,Real Valladolid CF,20,4,0,55684
+555,Atlético de Madrid,1,Real Valladolid CF,17,4,1,64716
+556,Atlético de Madrid,1,Real Valladolid CF,16,9,1,63687
+557,Atlético de Madrid,4,Real Valladolid CF,19,9,1,55028
+558,Atlético de Madrid,5,Real Valladolid CF,20,2,1,56190
+559,Atlético de Madrid,1,Real Valladolid CF,16,12,1,50980
+560,Atlético de Madrid,5,Girona FC,20,10,1,58260
+561,Atlético de Madrid,6,Girona FC,19,3,1,47699
+562,Atlético de Madrid,4,Girona FC,20,10,1,53748
+563,Atlético de Madrid,1,Girona FC,18,6,1,55698
+564,Atlético de Madrid,1,Girona FC,18,5,1,56663
+565,Atlético de Madrid,1,Girona FC,20,8,1,55360
+566,Atlético de Madrid,1,Girona FC,20,8,1,55523
+567,Atlético de Madrid,6,Girona FC,17,6,1,50161
+568,Atlético de Madrid,1,Girona FC,20,4,1,62242
+569,Atlético de Madrid,3,Girona FC,17,12,1,67359
+570,Sevilla FC,5,Real Madrid CF,3,11,1,43883
+571,Sevilla FC,4,Real Madrid CF,2,11,1,34911
+572,Sevilla FC,6,Real Madrid CF,3,2,0,37267
+573,Sevilla FC,6,Real Madrid CF,1,12,1,43883
+574,Sevilla FC,2,Real Madrid CF,1,10,1,43883
+575,Sevilla FC,5,Real Madrid CF,4,10,1,35472
+576,Sevilla FC,7,Real Madrid CF,1,11,1,43671
+577,Sevilla FC,3,Real Madrid CF,1,6,0,30365
+578,Sevilla FC,4,Real Madrid CF,2,8,0,26923
+579,Sevilla FC,5,Real Madrid CF,3,3,1,43883
+580,Sevilla FC,5,FC Barcelona,1,6,1,39270
+581,Sevilla FC,7,FC Barcelona,2,4,1,43291
+582,Sevilla FC,1,FC Barcelona,4,12,1,43883
+583,Sevilla FC,3,FC Barcelona,2,2,1,43883
+584,Sevilla FC,6,FC Barcelona,1,2,0,38410
+585,Sevilla FC,6,FC Barcelona,1,1,1,43883
+586,Sevilla FC,7,FC Barcelona,1,11,1,41654
+587,Sevilla FC,7,FC Barcelona,2,9,1,43883
+588,Sevilla FC,6,FC Barcelona,4,3,1,43883
+589,Sevilla FC,6,FC Barcelona,5,1,1,35047
+590,Sevilla FC,3,Atlético de Madrid,1,10,1,43883
+591,Sevilla FC,3,Atlético de Madrid,4,9,1,42905
+592,Sevilla FC,1,Atlético de Madrid,5,11,0,31801
+593,Sevilla FC,4,Atlético de Madrid,5,5,1,37275
+594,Sevilla FC,4,Atlético de Madrid,1,5,1,37963
+595,Sevilla FC,2,Atlético de Madrid,6,10,1,42209
+596,Sevilla FC,2,Atlético de Madrid,1,8,1,41247
+597,Sevilla FC,1,Atlético de Madrid,6,1,1,40295
+598,Sevilla FC,2,Atlético de Madrid,3,6,0,30532
+599,Sevilla FC,2,Atlético de Madrid,1,11,1,32294
+600,Sevilla FC,6,Real Betis Balompié,5,8,1,37236
+601,Sevilla FC,4,Real Betis Balompié,5,10,0,28639
+602,Sevilla FC,1,Real Betis Balompié,2,11,0,30910
+603,Sevilla FC,7,Real Betis Balompié,8,4,1,37582
+604,Sevilla FC,5,Real Betis Balompié,3,8,0,29407
+605,Sevilla FC,4,Real Betis Balompié,5,6,1,36509
+606,Sevilla FC,1,Real Betis Balompié,2,1,1,42714
+607,Sevilla FC,1,Real Betis Balompié,8,8,1,42831
+608,Sevilla FC,6,Real Betis Balompié,7,9,1,42557
+609,Sevilla FC,2,Real Betis Balompié,5,10,1,37894
+610,Sevilla FC,2,Real Sociedad,6,6,1,41997
+611,Sevilla FC,6,Real Sociedad,7,9,1,35791
+612,Sevilla FC,7,Real Sociedad,3,6,1,36807
+613,Sevilla FC,7,Real Sociedad,6,12,1,43883
+614,Sevilla FC,2,Real Sociedad,3,10,1,43883
+615,Sevilla FC,1,Real Sociedad,3,6,1,43883
+616,Sevilla FC,3,Real Sociedad,6,8,1,38040
+617,Sevilla FC,2,Real Sociedad,4,1,1,43482
+618,Sevilla FC,1,Real Sociedad,3,4,1,43272
+619,Sevilla FC,6,Real Sociedad,3,9,1,42098
+620,Sevilla FC,1,Villarreal CF,5,5,1,43883
+621,Sevilla FC,7,Villarreal CF,8,1,1,39308
+622,Sevilla FC,4,Villarreal CF,5,12,1,43882
+623,Sevilla FC,6,Villarreal CF,5,4,1,40227
+624,Sevilla FC,5,Villarreal CF,7,3,1,39676
+625,Sevilla FC,3,Villarreal CF,10,12,1,41665
+626,Sevilla FC,6,Villarreal CF,4,12,1,38774
+627,Sevilla FC,2,Villarreal CF,7,5,1,40030
+628,Sevilla FC,3,Villarreal CF,5,12,1,43634
+629,Sevilla FC,6,Villarreal CF,9,4,0,26994
+630,Sevilla FC,7,Athletic Club,10,2,1,35982
+631,Sevilla FC,4,Athletic Club,8,10,1,39655
+632,Sevilla FC,2,Athletic Club,7,1,1,41268
+633,Sevilla FC,7,Athletic Club,6,2,1,43883
+634,Sevilla FC,5,Athletic Club,10,1,1,34310
+635,Sevilla FC,1,Athletic Club,8,1,1,35068
+636,Sevilla FC,1,Athletic Club,9,11,0,29335
+637,Sevilla FC,7,Athletic Club,9,12,1,38411
+638,Sevilla FC,6,Athletic Club,7,10,1,43130
+639,Sevilla FC,2,Athletic Club,8,6,1,38938
+640,Sevilla FC,3,Valencia CF,9,12,0,30897
+641,Sevilla FC,5,Valencia CF,6,4,1,36892
+642,Sevilla FC,4,Valencia CF,12,12,1,38135
+643,Sevilla FC,1,Valencia CF,9,2,1,37454
+644,Sevilla FC,7,Valencia CF,9,11,1,32034
+645,Sevilla FC,5,Valencia CF,10,12,1,36663
+646,Sevilla FC,6,Valencia CF,9,10,1,39529
+647,Sevilla FC,3,Valencia CF,12,4,1,38338
+648,Sevilla FC,1,Valencia CF,9,10,1,38769
+649,Sevilla FC,5,Valencia CF,10,5,1,38383
+650,Sevilla FC,5,CA Osasuna,8,10,1,43883
+651,Sevilla FC,6,CA Osasuna,13,8,1,33500
+652,Sevilla FC,7,CA Osasuna,8,4,0,32380
+653,Sevilla FC,7,CA Osasuna,13,6,1,43883
+654,Sevilla FC,4,CA Osasuna,13,2,1,39985
+655,Sevilla FC,6,CA Osasuna,10,2,1,40352
+656,Sevilla FC,1,CA Osasuna,10,2,1,40050
+657,Sevilla FC,5,CA Osasuna,8,8,1,34575
+658,Sevilla FC,7,CA Osasuna,12,6,1,40266
+659,Sevilla FC,3,CA Osasuna,7,1,1,41294
+660,Sevilla FC,2,RC Celta de Vigo,13,6,1,37949
+661,Sevilla FC,5,RC Celta de Vigo,12,11,1,33294
+662,Sevilla FC,2,RC Celta de Vigo,10,4,1,42449
+663,Sevilla FC,1,RC Celta de Vigo,14,10,1,41144
+664,Sevilla FC,2,RC Celta de Vigo,13,5,1,43883
+665,Sevilla FC,6,RC Celta de Vigo,9,8,1,38607
+666,Sevilla FC,1,RC Celta de Vigo,9,9,1,37151
+667,Sevilla FC,7,RC Celta de Vigo,11,6,1,43883
+668,Sevilla FC,7,RC Celta de Vigo,11,1,1,38312
+669,Sevilla FC,2,RC Celta de Vigo,8,9,0,32709
+670,Sevilla FC,3,Rayo Vallecano,14,9,1,30609
+671,Sevilla FC,4,Rayo Vallecano,12,9,1,36932
+672,Sevilla FC,5,Rayo Vallecano,10,2,1,34666
+673,Sevilla FC,3,Rayo Vallecano,15,1,1,35255
+674,Sevilla FC,7,Rayo Vallecano,11,4,1,41437
+675,Sevilla FC,5,Rayo Vallecano,9,2,0,33927
+676,Sevilla FC,4,Rayo Vallecano,15,12,1,41922
+677,Sevilla FC,4,Rayo Vallecano,13,6,1,30727
+678,Sevilla FC,7,Rayo Vallecano,13,11,1,34596
+679,Sevilla FC,1,Rayo Vallecano,10,5,0,38651
+680,Sevilla FC,2,Elche CF,12,5,1,42183
+681,Sevilla FC,1,Elche CF,16,10,1,43388
+682,Sevilla FC,7,Elche CF,13,8,1,35966
+683,Sevilla FC,4,Elche CF,15,11,1,40465
+684,Sevilla FC,3,Elche CF,11,1,1,40460
+685,Sevilla FC,5,Elche CF,15,12,1,42922
+686,Sevilla FC,3,Elche CF,16,8,1,33401
+687,Sevilla FC,7,Elche CF,11,2,1,43263
+688,Sevilla FC,1,Elche CF,10,8,1,29867
+689,Sevilla FC,1,Elche CF,10,8,1,43883
+690,Sevilla FC,2,RCD Espanyol,12,12,0,32820
+691,Sevilla FC,2,RCD Espanyol,15,3,1,43883
+692,Sevilla FC,7,RCD Espanyol,13,5,0,29720
+693,Sevilla FC,6,RCD Espanyol,11,4,0,33280
+694,Sevilla FC,5,RCD Espanyol,16,8,1,31599
+695,Sevilla FC,5,RCD Espanyol,11,5,0,29082
+696,Sevilla FC,1,RCD Espanyol,12,12,1,32126
+697,Sevilla FC,7,RCD Espanyol,17,1,1,36581
+698,Sevilla FC,4,RCD Espanyol,15,9,1,41463
+699,Sevilla FC,7,RCD Espanyol,16,9,1,43883
+700,Sevilla FC,7,Getafe CF,17,9,1,37152
+701,Sevilla FC,3,Getafe CF,17,1,1,36656
+702,Sevilla FC,1,Getafe CF,16,12,1,37122
+703,Sevilla FC,2,Getafe CF,15,9,1,32089
+704,Sevilla FC,7,Getafe CF,15,11,0,29570
+705,Sevilla FC,5,Getafe CF,14,10,1,38784
+706,Sevilla FC,2,Getafe CF,17,6,0,35568
+707,Sevilla FC,4,Getafe CF,17,9,1,41724
+708,Sevilla FC,5,Getafe CF,12,1,1,34810
+709,Sevilla FC,7,Getafe CF,12,3,1,38952
+710,Sevilla FC,3,RCD Mallorca,17,9,1,27641
+711,Sevilla FC,1,RCD Mallorca,14,12,1,32575
+712,Sevilla FC,2,RCD Mallorca,17,1,1,36367
+713,Sevilla FC,2,RCD Mallorca,18,11,0,23171
+714,Sevilla FC,5,RCD Mallorca,17,2,1,37048
+715,Sevilla FC,7,RCD Mallorca,18,1,0,23793
+716,Sevilla FC,3,RCD Mallorca,17,6,1,38899
+717,Sevilla FC,1,RCD Mallorca,19,10,1,30637
+718,Sevilla FC,5,RCD Mallorca,17,9,1,31813
+719,Sevilla FC,5,RCD Mallorca,16,2,0,25493
+720,Sevilla FC,7,Cádiz CF,19,1,1,42217
+721,Sevilla FC,1,Cádiz CF,18,3,1,34670
+722,Sevilla FC,1,Cádiz CF,18,10,1,38300
+723,Sevilla FC,4,Cádiz CF,19,3,1,34900
+724,Sevilla FC,5,Cádiz CF,18,9,0,25371
+725,Sevilla FC,4,Cádiz CF,15,10,1,38319
+726,Sevilla FC,2,Cádiz CF,18,1,1,29756
+727,Sevilla FC,2,Cádiz CF,19,2,1,40404
+728,Sevilla FC,7,Cádiz CF,20,9,1,33611
+729,Sevilla FC,3,Cádiz CF,17,10,1,42048
+730,Sevilla FC,7,UD Almería,18,8,1,32041
+731,Sevilla FC,2,UD Almería,20,11,1,42167
+732,Sevilla FC,4,UD Almería,18,11,1,37304
+733,Sevilla FC,1,UD Almería,18,4,1,40219
+734,Sevilla FC,2,UD Almería,20,4,1,37307
+735,Sevilla FC,1,UD Almería,20,3,1,39122
+736,Sevilla FC,6,UD Almería,17,5,1,37677
+737,Sevilla FC,7,UD Almería,17,10,1,39930
+738,Sevilla FC,7,UD Almería,16,8,1,30923
+739,Sevilla FC,6,UD Almería,18,1,1,36218
+740,Sevilla FC,3,Real Valladolid CF,19,9,1,31974
+741,Sevilla FC,5,Real Valladolid CF,19,3,1,39930
+742,Sevilla FC,7,Real Valladolid CF,20,2,1,36792
+743,Sevilla FC,2,Real Valladolid CF,19,6,0,29041
+744,Sevilla FC,3,Real Valladolid CF,16,9,1,42792
+745,Sevilla FC,6,Real Valladolid CF,20,9,1,40281
+746,Sevilla FC,5,Real Valladolid CF,20,6,1,34024
+747,Sevilla FC,4,Real Valladolid CF,18,3,0,27870
+748,Sevilla FC,5,Real Valladolid CF,19,5,1,30932
+749,Sevilla FC,6,Real Valladolid CF,17,12,1,38221
+750,Sevilla FC,5,Girona FC,19,5,1,34059
+751,Sevilla FC,1,Girona FC,17,6,1,41835
+752,Sevilla FC,6,Girona FC,19,5,1,39007
+753,Sevilla FC,4,Girona FC,20,10,1,34442
+754,Sevilla FC,3,Girona FC,20,12,1,34981
+755,Sevilla FC,6,Girona FC,20,11,1,43883
+756,Sevilla FC,6,Girona FC,20,10,0,30335
+757,Sevilla FC,3,Girona FC,18,4,1,31495
+758,Sevilla FC,7,Girona FC,20,10,1,42803
+759,Sevilla FC,7,Girona FC,18,9,1,36369
+760,Real Betis Balompié,3,Real Madrid CF,1,2,1,59378
+761,Real Betis Balompié,2,Real Madrid CF,4,2,1,56200
+762,Real Betis Balompié,6,Real Madrid CF,1,3,1,59378
+763,Real Betis Balompié,6,Real Madrid CF,2,8,0,34002
+764,Real Betis Balompié,2,Real Madrid CF,1,2,1,57507
+765,Real Betis Balompié,7,Real Madrid CF,2,3,1,59378
+766,Real Betis Balompié,4,Real Madrid CF,1,12,1,53903
+767,Real Betis Balompié,4,Real Madrid CF,3,6,1,58795
+768,Real Betis Balompié,7,Real Madrid CF,1,4,1,51419
+769,Real Betis Balompié,7,Real Madrid CF,1,2,1,51648
+770,Real Betis Balompié,6,FC Barcelona,3,6,1,43488
+771,Real Betis Balompié,5,FC Barcelona,1,11,1,50426
+772,Real Betis Balompié,3,FC Barcelona,5,8,0,41736
+773,Real Betis Balompié,6,FC Barcelona,1,2,1,54953
+774,Real Betis Balompié,7,FC Barcelona,5,12,0,42015
+775,Real Betis Balompié,8,FC Barcelona,1,8,0,31527
+776,Real Betis Balompié,7,FC Barcelona,5,10,1,51832
+777,Real Betis Balompié,6,FC Barcelona,5,12,1,54669
+778,Real Betis Balompié,8,FC Barcelona,3,8,1,50295
+779,Real Betis Balompié,7,FC Barcelona,1,11,0,49481
+780,Real Betis Balompié,5,Atlético de Madrid,2,4,1,46498
+781,Real Betis Balompié,4,Atlético de Madrid,6,9,1,52411
+782,Real Betis Balompié,4,Atlético de Madrid,5,1,1,59378
+783,Real Betis Balompié,2,Atlético de Madrid,5,12,1,53239
+784,Real Betis Balompié,2,Atlético de Madrid,3,11,0,47470
+785,Real Betis Balompié,8,Atlético de Madrid,2,12,0,40173
+786,Real Betis Balompié,5,Atlético de Madrid,1,9,1,59272
+787,Real Betis Balompié,4,Atlético de Madrid,2,4,1,54743
+788,Real Betis Balompié,3,Atlético de Madrid,1,2,0,51698
+789,Real Betis Balompié,8,Atlético de Madrid,2,6,1,50650
+790,Real Betis Balompié,2,Sevilla FC,4,10,1,47737
+791,Real Betis Balompié,4,Sevilla FC,2,5,1,45436
+792,Real Betis Balompié,7,Sevilla FC,2,3,1,49656
+793,Real Betis Balompié,6,Sevilla FC,7,1,1,45627
+794,Real Betis Balompié,7,Sevilla FC,2,9,1,47125
+795,Real Betis Balompié,6,Sevilla FC,7,1,1,53230
+796,Real Betis Balompié,2,Sevilla FC,5,9,1,49529
+797,Real Betis Balompié,8,Sevilla FC,6,4,1,53944
+798,Real Betis Balompié,2,Sevilla FC,6,8,1,50568
+799,Real Betis Balompié,4,Sevilla FC,5,10,1,56399
+800,Real Betis Balompié,7,Real Sociedad,8,6,1,48990
+801,Real Betis Balompié,6,Real Sociedad,4,12,1,52430
+802,Real Betis Balompié,2,Real Sociedad,5,2,1,50830
+803,Real Betis Balompié,2,Real Sociedad,3,2,1,57482
+804,Real Betis Balompié,2,Real Sociedad,7,8,0,45290
+805,Real Betis Balompié,2,Real Sociedad,5,10,1,59378
+806,Real Betis Balompié,5,Real Sociedad,8,6,1,43698
+807,Real Betis Balompié,4,Real Sociedad,3,4,1,59141
+808,Real Betis Balompié,3,Real Sociedad,7,12,0,36404
+809,Real Betis Balompié,5,Real Sociedad,8,11,1,59378
+810,Real Betis Balompié,5,Villarreal CF,7,1,1,46633
+811,Real Betis Balompié,2,Villarreal CF,9,8,1,53294
+812,Real Betis Balompié,5,Villarreal CF,6,6,1,56350
+813,Real Betis Balompié,8,Villarreal CF,6,10,1,52659
+814,Real Betis Balompié,6,Villarreal CF,10,11,1,56303
+815,Real Betis Balompié,5,Villarreal CF,4,3,0,36315
+816,Real Betis Balompié,4,Villarreal CF,10,5,1,51592
+817,Real Betis Balompié,6,Villarreal CF,5,3,1,59378
+818,Real Betis Balompié,3,Villarreal CF,5,2,0,35638
+819,Real Betis Balompié,4,Villarreal CF,8,11,1,52218
+820,Real Betis Balompié,4,Athletic Club,8,11,1,52972
+821,Real Betis Balompié,3,Athletic Club,7,3,1,55945
+822,Real Betis Balompié,2,Athletic Club,10,12,1,57106
+823,Real Betis Balompié,2,Athletic Club,8,2,1,58685
+824,Real Betis Balompié,8,Athletic Club,10,1,1,50252
+825,Real Betis Balompié,6,Athletic Club,8,11,0,41333
+826,Real Betis Balompié,8,Athletic Club,6,6,1,45873
+827,Real Betis Balompié,6,Athletic Club,7,12,0,41517
+828,Real Betis Balompié,3,Athletic Club,10,1,1,56882
+829,Real Betis Balompié,2,Athletic Club,7,8,1,54110
+830,Real Betis Balompié,8,Valencia CF,9,6,1,51848
+831,Real Betis Balompié,2,Valencia CF,8,4,0,47906
+832,Real Betis Balompié,4,Valencia CF,12,2,1,45762
+833,Real Betis Balompié,7,Valencia CF,10,10,1,53880
+834,Real Betis Balompié,5,Valencia CF,7,4,0,48427
+835,Real Betis Balompié,3,Valencia CF,9,8,0,43263
+836,Real Betis Balompié,2,Valencia CF,12,10,1,53514
+837,Real Betis Balompié,5,Valencia CF,9,10,1,40756
+838,Real Betis Balompié,6,Valencia CF,11,3,1,54203
+839,Real Betis Balompié,3,Valencia CF,7,6,1,46797
+840,Real Betis Balompié,8,CA Osasuna,10,2,1,54054
+841,Real Betis Balompié,5,CA Osasuna,7,6,1,58016
+842,Real Betis Balompié,2,CA Osasuna,12,11,1,51155
+843,Real Betis Balompié,4,CA Osasuna,11,5,1,41861
+844,Real Betis Balompié,8,CA Osasuna,10,9,1,49142
+845,Real Betis Balompié,7,CA Osasuna,8,5,1,48648
+846,Real Betis Balompié,5,CA Osasuna,8,4,1,59378
+847,Real Betis Balompié,3,CA Osasuna,11,12,1,49745
+848,Real Betis Balompié,3,CA Osasuna,10,2,0,50319
+849,Real Betis Balompié,5,CA Osasuna,12,10,1,44708
+850,Real Betis Balompié,6,RC Celta de Vigo,11,1,1,46426
+851,Real Betis Balompié,2,RC Celta de Vigo,10,6,0,39676
+852,Real Betis Balompié,2,RC Celta de Vigo,8,5,1,47611
+853,Real Betis Balompié,8,RC Celta de Vigo,9,5,0,41849
+854,Real Betis Balompié,3,RC Celta de Vigo,11,2,1,55134
+855,Real Betis Balompié,2,RC Celta de Vigo,12,8,1,51833
+856,Real Betis Balompié,4,RC Celta de Vigo,11,8,1,46503
+857,Real Betis Balompié,7,RC Celta de Vigo,9,3,1,47088
+858,Real Betis Balompié,4,RC Celta de Vigo,8,1,1,47992
+859,Real Betis Balompié,4,RC Celta de Vigo,13,3,0,45870
+860,Real Betis Balompié,3,Rayo Vallecano,12,5,0,31980
+861,Real Betis Balompié,6,Rayo Vallecano,10,10,1,47184
+862,Real Betis Balompié,5,Rayo Vallecano,12,9,1,38685
+863,Real Betis Balompié,4,Rayo Vallecano,13,2,0,44104
+864,Real Betis Balompié,4,Rayo Vallecano,13,5,1,51607
+865,Real Betis Balompié,5,Rayo Vallecano,15,11,1,49253
+866,Real Betis Balompié,8,Rayo Vallecano,9,1,1,45556
+867,Real Betis Balompié,2,Rayo Vallecano,9,1,1,55424
+868,Real Betis Balompié,8,Rayo Vallecano,15,10,0,32537
+869,Real Betis Balompié,4,Rayo Vallecano,10,2,1,59378
+870,Real Betis Balompié,2,Elche CF,10,4,1,46494
+871,Real Betis Balompié,2,Elche CF,12,8,1,57574
+872,Real Betis Balompié,2,Elche CF,11,1,1,51820
+873,Real Betis Balompié,5,Elche CF,11,1,1,52711
+874,Real Betis Balompié,7,Elche CF,16,4,1,57426
+875,Real Betis Balompié,4,Elche CF,10,3,1,54928
+876,Real Betis Balompié,7,Elche CF,12,2,1,56431
+877,Real Betis Balompié,8,Elche CF,10,8,1,37726
+878,Real Betis Balompié,5,Elche CF,14,8,1,39325
+879,Real Betis Balompié,4,Elche CF,16,4,1,54740
+880,Real Betis Balompié,2,RCD Espanyol,16,11,0,45936
+881,Real Betis Balompié,7,RCD Espanyol,12,12,0,45824
+882,Real Betis Balompié,2,RCD Espanyol,14,8,1,49819
+883,Real Betis Balompié,2,RCD Espanyol,14,11,1,56047
+884,Real Betis Balompié,2,RCD Espanyol,14,8,1,50641
+885,Real Betis Balompié,8,RCD Espanyol,17,8,0,31782
+886,Real Betis Balompié,4,RCD Espanyol,11,8,0,38315
+887,Real Betis Balompié,4,RCD Espanyol,14,12,0,36873
+888,Real Betis Balompié,4,RCD Espanyol,13,8,1,38056
+889,Real Betis Balompié,4,RCD Espanyol,14,10,1,50003
+890,Real Betis Balompié,4,Getafe CF,16,2,1,46400
+891,Real Betis Balompié,3,Getafe CF,13,10,1,47709
+892,Real Betis Balompié,4,Getafe CF,14,12,1,55822
+893,Real Betis Balompié,3,Getafe CF,14,5,0,35686
+894,Real Betis Balompié,5,Getafe CF,14,12,0,25254
+895,Real Betis Balompié,8,Getafe CF,17,11,0,32627
+896,Real Betis Balompié,3,Getafe CF,17,10,0,45802
+897,Real Betis Balompié,4,Getafe CF,14,4,1,57309
+898,Real Betis Balompié,7,Getafe CF,14,10,1,50892
+899,Real Betis Balompié,5,Getafe CF,16,9,1,55061
+900,Real Betis Balompié,4,RCD Mallorca,14,8,0,35618
+901,Real Betis Balompié,3,RCD Mallorca,15,9,1,56592
+902,Real Betis Balompié,5,RCD Mallorca,16,5,1,53156
+903,Real Betis Balompié,8,RCD Mallorca,18,5,1,51981
+904,Real Betis Balompié,7,RCD Mallorca,18,2,0,38839
+905,Real Betis Balompié,8,RCD Mallorca,19,4,1,52193
+906,Real Betis Balompié,6,RCD Mallorca,15,10,1,46935
+907,Real Betis Balompié,6,RCD Mallorca,14,3,1,45719
+908,Real Betis Balompié,6,RCD Mallorca,14,2,1,44008
+909,Real Betis Balompié,6,RCD Mallorca,17,3,0,37369
+910,Real Betis Balompié,3,Cádiz CF,16,5,0,41146
+911,Real Betis Balompié,7,Cádiz CF,16,2,0,38266
+912,Real Betis Balompié,4,Cádiz CF,15,10,1,54273
+913,Real Betis Balompié,7,Cádiz CF,14,10,1,47488
+914,Real Betis Balompié,2,Cádiz CF,15,10,0,31415
+915,Real Betis Balompié,4,Cádiz CF,17,1,1,42787
+916,Real Betis Balompié,8,Cádiz CF,18,9,1,52979
+917,Real Betis Balompié,5,Cádiz CF,20,4,1,52458
+918,Real Betis Balompié,5,Cádiz CF,20,4,1,40131
+919,Real Betis Balompié,5,Cádiz CF,20,8,1,46381
+920,Real Betis Balompié,8,UD Almería,17,6,1,44571
+921,Real Betis Balompié,3,UD Almería,18,6,0,41589
+922,Real Betis Balompié,4,UD Almería,16,1,1,48306
+923,Real Betis Balompié,4,UD Almería,20,9,1,48619
+924,Real Betis Balompié,3,UD Almería,19,2,0,50667
+925,Real Betis Balompié,6,UD Almería,18,11,1,39228
+926,Real Betis Balompié,4,UD Almería,15,4,1,55833
+927,Real Betis Balompié,7,UD Almería,16,6,1,47078
+928,Real Betis Balompié,4,UD Almería,18,10,0,26893
+929,Real Betis Balompié,5,UD Almería,17,8,1,40323
+930,Real Betis Balompié,8,Real Valladolid CF,16,11,1,46073
+931,Real Betis Balompié,7,Real Valladolid CF,17,4,1,46631
+932,Real Betis Balompié,7,Real Valladolid CF,20,11,1,40948
+933,Real Betis Balompié,5,Real Valladolid CF,16,11,1,46620
+934,Real Betis Balompié,3,Real Valladolid CF,18,3,1,45855
+935,Real Betis Balompié,8,Real Valladolid CF,17,12,0,29966
+936,Real Betis Balompié,4,Real Valladolid CF,20,1,1,53518
+937,Real Betis Balompié,6,Real Valladolid CF,18,3,1,42707
+938,Real Betis Balompié,5,Real Valladolid CF,16,10,1,39722
+939,Real Betis Balompié,2,Real Valladolid CF,18,1,1,45222
+940,Real Betis Balompié,8,Girona FC,18,11,1,48179
+941,Real Betis Balompié,6,Girona FC,20,9,1,43887
+942,Real Betis Balompié,3,Girona FC,20,4,1,47834
+943,Real Betis Balompié,3,Girona FC,20,5,0,39997
+944,Real Betis Balompié,4,Girona FC,20,4,1,44092
+945,Real Betis Balompié,3,Girona FC,18,3,0,29822
+946,Real Betis Balompié,4,Girona FC,20,10,1,43175
+947,Real Betis Balompié,7,Girona FC,20,5,1,47470
+948,Real Betis Balompié,3,Girona FC,20,12,0,30361
+949,Real Betis Balompié,3,Girona FC,20,10,1,54548
+950,Real Sociedad,8,Real Madrid CF,4,10,1,27884
+951,Real Sociedad,7,Real Madrid CF,1,11,0,22511
+952,Real Sociedad,4,Real Madrid CF,1,1,1,39500
+953,Real Sociedad,4,Real Madrid CF,2,5,1,36377
+954,Real Sociedad,7,Real Madrid CF,1,2,1,35445
+955,Real Sociedad,3,Real Madrid CF,1,5,1,33390
+956,Real Sociedad,3,Real Madrid CF,1,9,1,29068
+957,Real Sociedad,9,Real Madrid CF,4,5,1,39500
+958,Real Sociedad,5,Real Madrid CF,3,3,1,32868
+959,Real Sociedad,7,Real Madrid CF,4,8,0,18330
+960,Real Sociedad,9,FC Barcelona,2,12,1,26417
+961,Real Sociedad,6,FC Barcelona,5,8,1,25847
+962,Real Sociedad,6,FC Barcelona,4,1,1,25020
+963,Real Sociedad,9,FC Barcelona,1,10,0,24756
+964,Real Sociedad,5,FC Barcelona,3,9,1,36744
+965,Real Sociedad,7,FC Barcelona,3,10,0,19551
+966,Real Sociedad,7,FC Barcelona,4,4,1,27678
+967,Real Sociedad,7,FC Barcelona,1,9,1,28653
+968,Real Sociedad,8,FC Barcelona,1,12,0,31009
+969,Real Sociedad,8,FC Barcelona,1,2,0,23254
+970,Real Sociedad,8,Atlético de Madrid,2,3,1,28376
+971,Real Sociedad,6,Atlético de Madrid,1,10,1,31143
+972,Real Sociedad,6,Atlético de Madrid,4,2,1,30463
+973,Real Sociedad,4,Atlético de Madrid,5,5,1,30343
+974,Real Sociedad,7,Atlético de Madrid,5,10,1,28530
+975,Real Sociedad,3,Atlético de Madrid,1,6,1,32356
+976,Real Sociedad,8,Atlético de Madrid,5,12,1,27766
+977,Real Sociedad,3,Atlético de Madrid,5,5,1,35687
+978,Real Sociedad,4,Atlético de Madrid,3,8,1,32206
+979,Real Sociedad,5,Atlético de Madrid,3,3,1,34613
+980,Real Sociedad,8,Sevilla FC,7,11,1,33696
+981,Real Sociedad,7,Sevilla FC,1,10,1,37098
+982,Real Sociedad,3,Sevilla FC,7,11,1,30370
+983,Real Sociedad,9,Sevilla FC,4,8,1,34867
+984,Real Sociedad,6,Sevilla FC,3,3,1,34001
+985,Real Sociedad,8,Sevilla FC,7,3,1,33674
+986,Real Sociedad,7,Sevilla FC,4,11,1,32230
+987,Real Sociedad,4,Sevilla FC,7,3,1,38065
+988,Real Sociedad,5,Sevilla FC,4,6,1,24797
+989,Real Sociedad,8,Sevilla FC,6,8,1,23819
+990,Real Sociedad,4,Real Betis Balompié,3,10,1,35039
+991,Real Sociedad,5,Real Betis Balompié,4,9,1,27886
+992,Real Sociedad,4,Real Betis Balompié,5,2,1,35809
+993,Real Sociedad,4,Real Betis Balompié,8,3,1,30868
+994,Real Sociedad,5,Real Betis Balompié,2,1,0,24367
+995,Real Sociedad,8,Real Betis Balompié,3,5,0,21680
+996,Real Sociedad,4,Real Betis Balompié,2,2,0,30366
+997,Real Sociedad,9,Real Betis Balompié,3,5,1,35827
+998,Real Sociedad,5,Real Betis Balompié,2,3,1,33709
+999,Real Sociedad,6,Real Betis Balompié,3,8,1,31480
+1000,Real Sociedad,3,Villarreal CF,7,12,1,33371
+1001,Real Sociedad,9,Villarreal CF,5,2,1,28698
+1002,Real Sociedad,8,Villarreal CF,10,12,0,17691
+1003,Real Sociedad,7,Villarreal CF,10,9,1,33646
+1004,Real Sociedad,9,Villarreal CF,8,1,1,36323
+1005,Real Sociedad,9,Villarreal CF,10,8,1,20928
+1006,Real Sociedad,7,Villarreal CF,5,6,1,30212
+1007,Real Sociedad,4,Villarreal CF,5,1,1,31469
+1008,Real Sociedad,4,Villarreal CF,5,1,1,38978
+1009,Real Sociedad,8,Villarreal CF,4,9,1,39193
+1010,Real Sociedad,6,Athletic Club,8,10,0,16641
+1011,Real Sociedad,4,Athletic Club,5,3,1,25010
+1012,Real Sociedad,5,Athletic Club,8,6,0,20769
+1013,Real Sociedad,3,Athletic Club,10,12,0,18938
+1014,Real Sociedad,4,Athletic Club,7,6,0,23847
+1015,Real Sociedad,8,Athletic Club,5,10,0,25524
+1016,Real Sociedad,8,Athletic Club,11,4,1,27438
+1017,Real Sociedad,4,Athletic Club,9,9,1,25833
+1018,Real Sociedad,4,Athletic Club,7,8,1,29077
+1019,Real Sociedad,6,Athletic Club,10,10,0,23965
+1020,Real Sociedad,3,Valencia CF,10,10,1,29821
+1021,Real Sociedad,4,Valencia CF,7,11,1,30570
+1022,Real Sociedad,7,Valencia CF,11,3,1,33394
+1023,Real Sociedad,9,Valencia CF,8,6,1,33462
+1024,Real Sociedad,8,Valencia CF,12,6,0,25730
+1025,Real Sociedad,4,Valencia CF,10,1,1,28456
+1026,Real Sociedad,9,Valencia CF,7,11,1,32776
+1027,Real Sociedad,4,Valencia CF,7,2,1,26929
+1028,Real Sociedad,3,Valencia CF,7,8,1,25147
+1029,Real Sociedad,5,Valencia CF,11,9,1,29823
+1030,Real Sociedad,8,CA Osasuna,7,8,1,33192
+1031,Real Sociedad,4,CA Osasuna,11,4,1,31924
+1032,Real Sociedad,4,CA Osasuna,11,12,0,23356
+1033,Real Sociedad,9,CA Osasuna,12,5,1,32656
+1034,Real Sociedad,9,CA Osasuna,10,2,1,36202
+1035,Real Sociedad,3,CA Osasuna,7,10,1,35779
+1036,Real Sociedad,6,CA Osasuna,8,1,1,28698
+1037,Real Sociedad,5,CA Osasuna,13,2,1,25062
+1038,Real Sociedad,5,CA Osasuna,13,5,1,31577
+1039,Real Sociedad,9,CA Osasuna,8,11,1,29217
+1040,Real Sociedad,6,RC Celta de Vigo,14,10,1,29847
+1041,Real Sociedad,7,RC Celta de Vigo,11,5,1,34650
+1042,Real Sociedad,4,RC Celta de Vigo,13,1,1,25927
+1043,Real Sociedad,8,RC Celta de Vigo,11,12,1,33561
+1044,Real Sociedad,9,RC Celta de Vigo,10,6,0,22267
+1045,Real Sociedad,5,RC Celta de Vigo,12,6,1,28172
+1046,Real Sociedad,9,RC Celta de Vigo,12,2,0,16834
+1047,Real Sociedad,5,RC Celta de Vigo,8,1,1,33595
+1048,Real Sociedad,3,RC Celta de Vigo,13,6,1,31207
+1049,Real Sociedad,6,RC Celta de Vigo,9,1,1,36433
+1050,Real Sociedad,8,Rayo Vallecano,12,4,0,21476
+1051,Real Sociedad,9,Rayo Vallecano,12,12,1,25465
+1052,Real Sociedad,4,Rayo Vallecano,9,3,1,36885
+1053,Real Sociedad,3,Rayo Vallecano,10,5,0,25974
+1054,Real Sociedad,8,Rayo Vallecano,13,11,1,25717
+1055,Real Sociedad,3,Rayo Vallecano,13,6,1,29048
+1056,Real Sociedad,5,Rayo Vallecano,12,5,1,23117
+1057,Real Sociedad,5,Rayo Vallecano,9,10,1,32537
+1058,Real Sociedad,7,Rayo Vallecano,15,5,1,30371
+1059,Real Sociedad,4,Rayo Vallecano,15,8,1,31674
+1060,Real Sociedad,3,Elche CF,12,11,0,18886
+1061,Real Sociedad,5,Elche CF,10,6,0,17329
+1062,Real Sociedad,6,Elche CF,14,6,1,25162
+1063,Real Sociedad,5,Elche CF,14,9,1,29230
+1064,Real Sociedad,5,Elche CF,12,9,0,14952
+1065,Real Sociedad,3,Elche CF,15,9,1,25848
+1066,Real Sociedad,7,Elche CF,14,10,0,21915
+1067,Real Sociedad,6,Elche CF,13,8,1,29128
+1068,Real Sociedad,3,Elche CF,16,10,1,28899
+1069,Real Sociedad,5,Elche CF,13,9,1,25197
+1070,Real Sociedad,5,RCD Espanyol,12,1,0,20289
+1071,Real Sociedad,6,RCD Espanyol,13,9,0,18275
+1072,Real Sociedad,3,RCD Espanyol,15,4,0,22306
+1073,Real Sociedad,9,RCD Espanyol,16,6,1,29168
+1074,Real Sociedad,8,RCD Espanyol,14,11,1,28291
+1075,Real Sociedad,6,RCD Espanyol,11,3,1,28008
+1076,Real Sociedad,4,RCD Espanyol,14,11,1,35570
+1077,Real Sociedad,9,RCD Espanyol,11,9,1,33445
+1078,Real Sociedad,3,RCD Espanyol,11,10,1,31903
+1079,Real Sociedad,3,RCD Espanyol,11,1,0,26833
+1080,Real Sociedad,8,Getafe CF,12,11,1,26749
+1081,Real Sociedad,3,Getafe CF,13,2,1,30488
+1082,Real Sociedad,8,Getafe CF,14,10,1,26929
+1083,Real Sociedad,4,Getafe CF,13,12,0,24278
+1084,Real Sociedad,3,Getafe CF,18,8,1,34985
+1085,Real Sociedad,7,Getafe CF,12,10,1,29294
+1086,Real Sociedad,5,Getafe CF,17,9,1,27852
+1087,Real Sociedad,3,Getafe CF,15,4,0,21167
+1088,Real Sociedad,8,Getafe CF,13,11,1,29192
+1089,Real Sociedad,5,Getafe CF,15,12,1,25504
+1090,Real Sociedad,7,RCD Mallorca,15,4,1,29315
+1091,Real Sociedad,8,RCD Mallorca,18,10,1,31286
+1092,Real Sociedad,5,RCD Mallorca,14,9,1,33440
+1093,Real Sociedad,8,RCD Mallorca,16,12,0,18502
+1094,Real Sociedad,5,RCD Mallorca,16,1,1,22057
+1095,Real Sociedad,3,RCD Mallorca,14,8,1,37520
+1096,Real Sociedad,8,RCD Mallorca,15,6,1,27939
+1097,Real Sociedad,4,RCD Mallorca,15,10,0,22232
+1098,Real Sociedad,5,RCD Mallorca,17,6,1,34209
+1099,Real Sociedad,8,RCD Mallorca,19,11,0,25496
+1100,Real Sociedad,6,Cádiz CF,19,8,1,26887
+1101,Real Sociedad,6,Cádiz CF,14,4,1,23771
+1102,Real Sociedad,4,Cádiz CF,18,11,0,17268
+1103,Real Sociedad,4,Cádiz CF,19,6,1,25748
+1104,Real Sociedad,4,Cádiz CF,17,10,1,28540
+1105,Real Sociedad,5,Cádiz CF,16,9,1,25814
+1106,Real Sociedad,8,Cádiz CF,15,10,1,25532
+1107,Real Sociedad,7,Cádiz CF,18,8,1,27966
+1108,Real Sociedad,8,Cádiz CF,16,4,1,28173
+1109,Real Sociedad,7,Cádiz CF,14,4,1,30847
+1110,Real Sociedad,6,UD Almería,20,5,0,18135
+1111,Real Sociedad,3,UD Almería,20,3,1,17682
+1112,Real Sociedad,9,UD Almería,18,10,1,27214
+1113,Real Sociedad,9,UD Almería,20,5,1,26126
+1114,Real Sociedad,6,UD Almería,18,6,1,28477
+1115,Real Sociedad,3,UD Almería,20,10,1,34657
+1116,Real Sociedad,8,UD Almería,17,5,0,15724
+1117,Real Sociedad,6,UD Almería,19,1,1,31842
+1118,Real Sociedad,8,UD Almería,19,6,0,17817
+1119,Real Sociedad,6,UD Almería,19,9,1,22424
+1120,Real Sociedad,5,Real Valladolid CF,18,11,1,27760
+1121,Real Sociedad,7,Real Valladolid CF,16,3,1,33094
+1122,Real Sociedad,3,Real Valladolid CF,17,3,0,20318
+1123,Real Sociedad,3,Real Valladolid CF,20,2,0,24922
+1124,Real Sociedad,9,Real Valladolid CF,19,2,1,18068
+1125,Real Sociedad,6,Real Valladolid CF,20,11,1,28105
+1126,Real Sociedad,7,Real Valladolid CF,20,2,1,24858
+1127,Real Sociedad,5,Real Valladolid CF,20,10,1,23232
+1128,Real Sociedad,7,Real Valladolid CF,20,4,1,25289
+1129,Real Sociedad,7,Real Valladolid CF,20,9,1,28064
+1130,Real Sociedad,9,Girona FC,20,10,1,23429
+1131,Real Sociedad,9,Girona FC,20,8,0,21838
+1132,Real Sociedad,9,Girona FC,18,8,1,27774
+1133,Real Sociedad,9,Girona FC,18,1,1,33070
+1134,Real Sociedad,7,Girona FC,20,8,1,28660
+1135,Real Sociedad,6,Girona FC,17,5,1,25908
+1136,Real Sociedad,4,Girona FC,20,6,1,27916
+1137,Real Sociedad,3,Girona FC,17,1,1,27219
+1138,Real Sociedad,7,Girona FC,20,2,0,24758
+1139,Real Sociedad,8,Girona FC,20,8,1,33391
+1140,Villarreal CF,7,Real Madrid CF,1,4,1,21714
+1141,Villarreal CF,10,Real Madrid CF,1,8,1,16547
+1142,Villarreal CF,7,Real Madrid CF,1,3,1,18528
+1143,Villarreal CF,5,Real Madrid CF,1,11,1,22288
+1144,Villarreal CF,5,Real Madrid CF,1,9,1,15119
+1145,Villarreal CF,7,Real Madrid CF,1,6,1,19748
+1146,Villarreal CF,8,Real Madrid CF,4,8,1,15948
+1147,Villarreal CF,6,Real Madrid CF,1,6,1,17850
+1148,Villarreal CF,5,Real Madrid CF,1,1,0,18724
+1149,Villarreal CF,8,Real Madrid CF,3,12,1,11715
+1150,Villarreal CF,10,FC Barcelona,4,9,0,13090
+1151,Villarreal CF,10,FC Barcelona,1,8,1,19076
+1152,Villarreal CF,10,FC Barcelona,5,3,1,19373
+1153,Villarreal CF,8,FC Barcelona,4,3,0,12545
+1154,Villarreal CF,9,FC Barcelona,3,12,1,17881
+1155,Villarreal CF,6,FC Barcelona,1,4,1,18803
+1156,Villarreal CF,9,FC Barcelona,3,11,1,20542
+1157,Villarreal CF,10,FC Barcelona,3,10,1,19755
+1158,Villarreal CF,10,FC Barcelona,1,10,1,18634
+1159,Villarreal CF,9,FC Barcelona,4,4,1,16557
+1160,Villarreal CF,6,Atlético de Madrid,3,9,1,22324
+1161,Villarreal CF,8,Atlético de Madrid,1,10,0,17133
+1162,Villarreal CF,7,Atlético de Madrid,6,1,1,13265
+1163,Villarreal CF,6,Atlético de Madrid,2,10,1,18812
+1164,Villarreal CF,5,Atlético de Madrid,3,11,0,15114
+1165,Villarreal CF,9,Atlético de Madrid,6,8,1,15533
+1166,Villarreal CF,5,Atlético de Madrid,2,11,1,20050
+1167,Villarreal CF,6,Atlético de Madrid,5,10,1,15833
+1168,Villarreal CF,5,Atlético de Madrid,1,11,1,15373
+1169,Villarreal CF,6,Atlético de Madrid,4,10,1,17003
+1170,Villarreal CF,7,Sevilla FC,3,10,1,22790
+1171,Villarreal CF,4,Sevilla FC,5,10,1,18383
+1172,Villarreal CF,8,Sevilla FC,6,2,1,15423
+1173,Villarreal CF,8,Sevilla FC,6,1,1,21110
+1174,Villarreal CF,7,Sevilla FC,3,9,1,16309
+1175,Villarreal CF,8,Sevilla FC,2,1,1,13690
+1176,Villarreal CF,10,Sevilla FC,4,10,0,12356
+1177,Villarreal CF,7,Sevilla FC,4,8,1,15860
+1178,Villarreal CF,5,Sevilla FC,4,11,1,18389
+1179,Villarreal CF,4,Sevilla FC,2,5,1,20632
+1180,Villarreal CF,9,Real Betis Balompié,5,10,1,14993
+1181,Villarreal CF,4,Real Betis Balompié,8,12,0,15980
+1182,Villarreal CF,6,Real Betis Balompié,2,6,1,21605
+1183,Villarreal CF,9,Real Betis Balompié,7,4,1,18381
+1184,Villarreal CF,4,Real Betis Balompié,8,3,1,17353
+1185,Villarreal CF,9,Real Betis Balompié,5,12,1,17707
+1186,Villarreal CF,10,Real Betis Balompié,5,1,1,19538
+1187,Villarreal CF,10,Real Betis Balompié,8,4,0,15343
+1188,Villarreal CF,9,Real Betis Balompié,6,6,1,19595
+1189,Villarreal CF,10,Real Betis Balompié,2,8,1,14704
+1190,Villarreal CF,7,Real Sociedad,4,10,1,17496
+1191,Villarreal CF,5,Real Sociedad,3,4,0,11513
+1192,Villarreal CF,8,Real Sociedad,5,10,0,13387
+1193,Villarreal CF,10,Real Sociedad,9,5,1,15936
+1194,Villarreal CF,4,Real Sociedad,8,11,0,13280
+1195,Villarreal CF,4,Real Sociedad,3,1,1,16215
+1196,Villarreal CF,10,Real Sociedad,4,1,1,19282
+1197,Villarreal CF,7,Real Sociedad,3,6,1,17916
+1198,Villarreal CF,5,Real Sociedad,3,3,0,14594
+1199,Villarreal CF,5,Real Sociedad,9,1,1,17687
+1200,Villarreal CF,5,Athletic Club,11,11,1,14998
+1201,Villarreal CF,4,Athletic Club,10,6,1,15913
+1202,Villarreal CF,7,Athletic Club,11,1,1,13799
+1203,Villarreal CF,6,Athletic Club,10,11,1,13034
+1204,Villarreal CF,6,Athletic Club,10,6,0,14201
+1205,Villarreal CF,4,Athletic Club,8,10,1,15988
+1206,Villarreal CF,8,Athletic Club,11,5,1,20648
+1207,Villarreal CF,8,Athletic Club,10,3,0,9929
+1208,Villarreal CF,5,Athletic Club,11,1,1,19291
+1209,Villarreal CF,7,Athletic Club,11,11,1,17010
+1210,Villarreal CF,6,Valencia CF,12,6,0,12980
+1211,Villarreal CF,4,Valencia CF,11,8,0,15868
+1212,Villarreal CF,5,Valencia CF,12,12,1,18114
+1213,Villarreal CF,9,Valencia CF,6,10,1,16983
+1214,Villarreal CF,5,Valencia CF,8,10,1,20506
+1215,Villarreal CF,4,Valencia CF,11,11,1,22269
+1216,Villarreal CF,4,Valencia CF,8,10,1,20852
+1217,Villarreal CF,4,Valencia CF,6,5,1,22091
+1218,Villarreal CF,4,Valencia CF,11,2,1,18638
+1219,Villarreal CF,4,Valencia CF,8,6,1,14246
+1220,Villarreal CF,5,CA Osasuna,7,4,1,18342
+1221,Villarreal CF,6,CA Osasuna,8,11,1,16528
+1222,Villarreal CF,8,CA Osasuna,11,6,1,10621
+1223,Villarreal CF,4,CA Osasuna,10,9,0,16107
+1224,Villarreal CF,8,CA Osasuna,12,11,1,20241
+1225,Villarreal CF,7,CA Osasuna,10,6,1,20771
+1226,Villarreal CF,7,CA Osasuna,12,6,0,13402
+1227,Villarreal CF,5,CA Osasuna,12,12,1,20385
+1228,Villarreal CF,5,CA Osasuna,11,10,0,15505
+1229,Villarreal CF,5,CA Osasuna,9,3,1,23500
+1230,Villarreal CF,7,RC Celta de Vigo,9,4,1,18010
+1231,Villarreal CF,6,RC Celta de Vigo,10,3,1,14121
+1232,Villarreal CF,4,RC Celta de Vigo,10,9,1,20517
+1233,Villarreal CF,8,RC Celta de Vigo,13,4,1,18457
+1234,Villarreal CF,6,RC Celta de Vigo,9,9,1,18444
+1235,Villarreal CF,7,RC Celta de Vigo,13,1,1,16561
+1236,Villarreal CF,5,RC Celta de Vigo,9,2,1,19256
+1237,Villarreal CF,10,RC Celta de Vigo,11,6,0,9397
+1238,Villarreal CF,6,RC Celta de Vigo,9,12,1,15727
+1239,Villarreal CF,6,RC Celta de Vigo,9,11,0,10462
+1240,Villarreal CF,6,Rayo Vallecano,10,3,1,17522
+1241,Villarreal CF,9,Rayo Vallecano,12,9,0,11961
+1242,Villarreal CF,6,Rayo Vallecano,10,9,1,18698
+1243,Villarreal CF,7,Rayo Vallecano,15,12,0,9730
+1244,Villarreal CF,4,Rayo Vallecano,13,1,1,18347
+1245,Villarreal CF,9,Rayo Vallecano,12,11,1,10801
+1246,Villarreal CF,6,Rayo Vallecano,9,3,1,19452
+1247,Villarreal CF,8,Rayo Vallecano,10,9,1,15531
+1248,Villarreal CF,9,Rayo Vallecano,10,1,1,14840
+1249,Villarreal CF,9,Rayo Vallecano,14,12,0,13419
+1250,Villarreal CF,6,Elche CF,14,8,1,15298
+1251,Villarreal CF,6,Elche CF,10,1,1,16308
+1252,Villarreal CF,8,Elche CF,14,4,1,16507
+1253,Villarreal CF,6,Elche CF,10,11,1,14542
+1254,Villarreal CF,6,Elche CF,14,5,0,8500
+1255,Villarreal CF,9,Elche CF,11,12,1,11850
+1256,Villarreal CF,4,Elche CF,16,5,1,20207
+1257,Villarreal CF,7,Elche CF,13,12,1,14115
+1258,Villarreal CF,10,Elche CF,16,1,0,15963
+1259,Villarreal CF,8,Elche CF,16,12,1,19050
+1260,Villarreal CF,10,RCD Espanyol,16,1,1,18108
+1261,Villarreal CF,4,RCD Espanyol,14,3,1,18599
+1262,Villarreal CF,7,RCD Espanyol,13,5,1,15232
+1263,Villarreal CF,8,RCD Espanyol,14,10,0,10926
+1264,Villarreal CF,9,RCD Espanyol,17,8,1,12429
+1265,Villarreal CF,8,RCD Espanyol,14,5,1,13695
+1266,Villarreal CF,7,RCD Espanyol,14,10,0,12634
+1267,Villarreal CF,5,RCD Espanyol,12,9,1,17592
+1268,Villarreal CF,9,RCD Espanyol,12,1,0,11602
+1269,Villarreal CF,10,RCD Espanyol,16,6,1,11105
+1270,Villarreal CF,4,Getafe CF,15,12,1,15596
+1271,Villarreal CF,8,Getafe CF,17,3,1,16390
+1272,Villarreal CF,4,Getafe CF,16,10,1,15604
+1273,Villarreal CF,6,Getafe CF,13,10,1,17848
+1274,Villarreal CF,5,Getafe CF,14,11,1,17284
+1275,Villarreal CF,9,Getafe CF,16,5,0,13663
+1276,Villarreal CF,4,Getafe CF,14,6,0,11064
+1277,Villarreal CF,6,Getafe CF,13,10,1,12803
+1278,Villarreal CF,6,Getafe CF,16,6,1,14083
+1279,Villarreal CF,6,Getafe CF,17,2,0,11284
+1280,Villarreal CF,8,RCD Mallorca,17,8,0,11229
+1281,Villarreal CF,8,RCD Mallorca,15,12,1,15678
+1282,Villarreal CF,4,RCD Mallorca,15,9,1,15858
+1283,Villarreal CF,7,RCD Mallorca,17,5,1,19072
+1284,Villarreal CF,6,RCD Mallorca,14,11,0,9658
+1285,Villarreal CF,7,RCD Mallorca,13,2,0,13271
+1286,Villarreal CF,8,RCD Mallorca,15,3,1,20264
+1287,Villarreal CF,8,RCD Mallorca,18,2,1,18897
+1288,Villarreal CF,9,RCD Mallorca,17,2,0,11767
+1289,Villarreal CF,8,RCD Mallorca,16,8,1,13906
+1290,Villarreal CF,9,Cádiz CF,17,10,0,12382
+1291,Villarreal CF,4,Cádiz CF,15,1,1,20192
+1292,Villarreal CF,8,Cádiz CF,20,1,1,14121
+1293,Villarreal CF,10,Cádiz CF,15,9,1,15049
+1294,Villarreal CF,7,Cádiz CF,15,9,1,17062
+1295,Villarreal CF,7,Cádiz CF,17,12,1,18724
+1296,Villarreal CF,7,Cádiz CF,15,1,1,18085
+1297,Villarreal CF,4,Cádiz CF,18,11,1,15764
+1298,Villarreal CF,6,Cádiz CF,17,3,1,16855
+1299,Villarreal CF,10,Cádiz CF,18,3,1,14773
+1300,Villarreal CF,4,UD Almería,16,1,1,18705
+1301,Villarreal CF,5,UD Almería,19,9,1,19344
+1302,Villarreal CF,10,UD Almería,20,8,1,15565
+1303,Villarreal CF,9,UD Almería,15,5,0,13152
+1304,Villarreal CF,7,UD Almería,17,6,1,14575
+1305,Villarreal CF,6,UD Almería,17,2,0,13077
+1306,Villarreal CF,4,UD Almería,20,11,1,14030
+1307,Villarreal CF,4,UD Almería,18,12,0,14118
+1308,Villarreal CF,6,UD Almería,20,10,1,17268
+1309,Villarreal CF,6,UD Almería,15,4,1,16483
+1310,Villarreal CF,5,Real Valladolid CF,16,2,1,17510
+1311,Villarreal CF,8,Real Valladolid CF,20,1,0,10645
+1312,Villarreal CF,7,Real Valladolid CF,18,8,1,17080
+1313,Villarreal CF,6,Real Valladolid CF,19,12,1,17216
+1314,Villarreal CF,10,Real Valladolid CF,20,10,1,15794
+1315,Villarreal CF,9,Real Valladolid CF,16,1,0,11747
+1316,Villarreal CF,6,Real Valladolid CF,18,5,1,14910
+1317,Villarreal CF,8,Real Valladolid CF,20,2,1,18139
+1318,Villarreal CF,5,Real Valladolid CF,20,6,1,13234
+1319,Villarreal CF,6,Real Valladolid CF,20,12,1,17935
+1320,Villarreal CF,10,Girona FC,17,1,1,15251
+1321,Villarreal CF,10,Girona FC,19,4,0,13916
+1322,Villarreal CF,9,Girona FC,20,4,0,10357
+1323,Villarreal CF,5,Girona FC,18,5,1,17280
+1324,Villarreal CF,8,Girona FC,17,8,1,13102
+1325,Villarreal CF,10,Girona FC,18,10,1,10795
+1326,Villarreal CF,7,Girona FC,20,12,1,17118
+1327,Villarreal CF,7,Girona FC,18,5,1,14471
+1328,Villarreal CF,5,Girona FC,20,4,1,17627
+1329,Villarreal CF,7,Girona FC,20,10,1,17435
+1330,Athletic Club,11,Real Madrid CF,1,8,1,36961
+1331,Athletic Club,7,Real Madrid CF,4,6,1,38455
+1332,Athletic Club,11,Real Madrid CF,2,5,1,42647
+1333,Athletic Club,8,Real Madrid CF,1,2,1,43984
+1334,Athletic Club,10,Real Madrid CF,4,1,1,41134
+1335,Athletic Club,9,Real Madrid CF,2,12,1,44078
+1336,Athletic Club,9,Real Madrid CF,1,6,1,44897
+1337,Athletic Club,7,Real Madrid CF,1,10,1,34441
+1338,Athletic Club,8,Real Madrid CF,2,5,1,43958
+1339,Athletic Club,5,Real Madrid CF,1,9,1,53289
+1340,Athletic Club,9,FC Barcelona,1,2,1,39723
+1341,Athletic Club,9,FC Barcelona,1,1,1,53289
+1342,Athletic Club,11,FC Barcelona,5,5,1,41022
+1343,Athletic Club,10,FC Barcelona,3,6,1,39825
+1344,Athletic Club,9,FC Barcelona,1,4,1,48608
+1345,Athletic Club,7,FC Barcelona,1,3,1,46472
+1346,Athletic Club,9,FC Barcelona,1,3,1,43652
+1347,Athletic Club,9,FC Barcelona,4,3,1,32434
+1348,Athletic Club,7,FC Barcelona,3,5,0,35775
+1349,Athletic Club,10,FC Barcelona,3,4,1,40658
+1350,Athletic Club,8,Atlético de Madrid,1,6,1,42111
+1351,Athletic Club,8,Atlético de Madrid,6,3,1,45349
+1352,Athletic Club,10,Atlético de Madrid,1,8,0,44427
+1353,Athletic Club,6,Atlético de Madrid,5,12,1,48952
+1354,Athletic Club,10,Atlético de Madrid,3,1,1,39810
+1355,Athletic Club,7,Atlético de Madrid,4,3,0,37860
+1356,Athletic Club,8,Atlético de Madrid,5,5,1,50706
+1357,Athletic Club,9,Atlético de Madrid,1,6,0,31004
+1358,Athletic Club,9,Atlético de Madrid,1,9,1,43660
+1359,Athletic Club,9,Atlético de Madrid,3,11,0,26446
+1360,Athletic Club,10,Sevilla FC,5,11,1,48987
+1361,Athletic Club,5,Sevilla FC,7,6,1,31352
+1362,Athletic Club,8,Sevilla FC,3,12,0,30889
+1363,Athletic Club,8,Sevilla FC,2,2,1,44601
+1364,Athletic Club,11,Sevilla FC,3,4,1,46376
+1365,Athletic Club,8,Sevilla FC,1,3,1,46969
+1366,Athletic Club,5,Sevilla FC,2,12,1,43437
+1367,Athletic Club,8,Sevilla FC,1,11,1,44830
+1368,Athletic Club,5,Sevilla FC,4,2,1,47168
+1369,Athletic Club,8,Sevilla FC,3,8,1,46619
+1370,Athletic Club,8,Real Betis Balompié,6,10,1,47870
+1371,Athletic Club,11,Real Betis Balompié,3,5,1,43712
+1372,Athletic Club,8,Real Betis Balompié,3,1,1,48711
+1373,Athletic Club,11,Real Betis Balompié,7,6,1,40794
+1374,Athletic Club,8,Real Betis Balompié,3,6,1,49514
+1375,Athletic Club,7,Real Betis Balompié,4,5,0,39390
+1376,Athletic Club,11,Real Betis Balompié,7,8,1,34876
+1377,Athletic Club,5,Real Betis Balompié,2,2,1,48040
+1378,Athletic Club,8,Real Betis Balompié,2,1,0,27920
+1379,Athletic Club,6,Real Betis Balompié,7,12,1,41427
+1380,Athletic Club,7,Real Sociedad,5,11,1,39228
+1381,Athletic Club,8,Real Sociedad,3,1,1,43105
+1382,Athletic Club,9,Real Sociedad,3,6,1,49601
+1383,Athletic Club,10,Real Sociedad,6,2,1,44359
+1384,Athletic Club,5,Real Sociedad,4,12,1,46108
+1385,Athletic Club,8,Real Sociedad,3,5,1,41563
+1386,Athletic Club,5,Real Sociedad,4,2,1,48579
+1387,Athletic Club,8,Real Sociedad,7,11,1,43464
+1388,Athletic Club,6,Real Sociedad,8,8,1,37156
+1389,Athletic Club,11,Real Sociedad,5,1,1,43534
+1390,Athletic Club,9,Villarreal CF,8,11,1,46853
+1391,Athletic Club,11,Villarreal CF,6,6,0,23798
+1392,Athletic Club,10,Villarreal CF,7,10,1,49854
+1393,Athletic Club,5,Villarreal CF,7,12,1,47027
+1394,Athletic Club,6,Villarreal CF,5,8,1,46931
+1395,Athletic Club,11,Villarreal CF,9,3,1,39064
+1396,Athletic Club,11,Villarreal CF,10,10,1,46351
+1397,Athletic Club,10,Villarreal CF,5,8,1,33729
+1398,Athletic Club,9,Villarreal CF,7,6,0,27130
+1399,Athletic Club,7,Villarreal CF,6,5,1,53289
+1400,Athletic Club,10,Valencia CF,7,8,1,38108
+1401,Athletic Club,5,Valencia CF,11,5,1,36627
+1402,Athletic Club,7,Valencia CF,11,12,1,45691
+1403,Athletic Club,7,Valencia CF,10,8,1,35363
+1404,Athletic Club,8,Valencia CF,11,3,1,33129
+1405,Athletic Club,10,Valencia CF,9,2,1,44498
+1406,Athletic Club,11,Valencia CF,12,6,0,22558
+1407,Athletic Club,6,Valencia CF,9,10,1,38123
+1408,Athletic Club,8,Valencia CF,9,5,1,44841
+1409,Athletic Club,10,Valencia CF,9,4,0,37828
+1410,Athletic Club,11,CA Osasuna,9,9,1,51603
+1411,Athletic Club,6,CA Osasuna,7,8,1,45867
+1412,Athletic Club,6,CA Osasuna,7,8,1,43669
+1413,Athletic Club,10,CA Osasuna,9,2,0,33856
+1414,Athletic Club,10,CA Osasuna,9,5,1,51018
+1415,Athletic Club,5,CA Osasuna,8,11,0,25257
+1416,Athletic Club,9,CA Osasuna,8,11,0,35666
+1417,Athletic Club,5,CA Osasuna,10,10,1,35319
+1418,Athletic Club,9,CA Osasuna,11,8,1,44705
+1419,Athletic Club,6,CA Osasuna,10,1,1,48195
+1420,Athletic Club,5,RC Celta de Vigo,12,6,1,44972
+1421,Athletic Club,8,RC Celta de Vigo,10,11,1,40580
+1422,Athletic Club,11,RC Celta de Vigo,8,1,1,46516
+1423,Athletic Club,10,RC Celta de Vigo,8,4,1,44903
+1424,Athletic Club,6,RC Celta de Vigo,8,3,0,29905
+1425,Athletic Club,5,RC Celta de Vigo,12,12,1,40821
+1426,Athletic Club,9,RC Celta de Vigo,13,11,1,44947
+1427,Athletic Club,11,RC Celta de Vigo,10,10,0,29758
+1428,Athletic Club,10,RC Celta de Vigo,12,6,0,33292
+1429,Athletic Club,7,RC Celta de Vigo,8,4,1,44887
+1430,Athletic Club,7,Rayo Vallecano,12,10,1,42133
+1431,Athletic Club,6,Rayo Vallecano,14,12,1,45225
+1432,Athletic Club,8,Rayo Vallecano,14,6,1,31294
+1433,Athletic Club,6,Rayo Vallecano,11,1,1,41442
+1434,Athletic Club,5,Rayo Vallecano,15,2,1,42643
+1435,Athletic Club,11,Rayo Vallecano,13,4,1,40978
+1436,Athletic Club,11,Rayo Vallecano,12,2,1,39271
+1437,Athletic Club,7,Rayo Vallecano,15,1,1,35669
+1438,Athletic Club,10,Rayo Vallecano,13,3,1,35790
+1439,Athletic Club,11,Rayo Vallecano,12,12,1,40937
+1440,Athletic Club,6,Elche CF,13,2,0,42718
+1441,Athletic Club,5,Elche CF,15,2,1,40152
+1442,Athletic Club,11,Elche CF,16,2,1,32710
+1443,Athletic Club,8,Elche CF,16,3,1,42306
+1444,Athletic Club,6,Elche CF,15,11,0,38274
+1445,Athletic Club,8,Elche CF,13,4,1,48989
+1446,Athletic Club,7,Elche CF,15,10,1,34252
+1447,Athletic Club,7,Elche CF,11,8,1,46131
+1448,Athletic Club,10,Elche CF,13,10,0,21753
+1449,Athletic Club,9,Elche CF,11,6,1,42474
+1450,Athletic Club,9,RCD Espanyol,16,2,0,30884
+1451,Athletic Club,11,RCD Espanyol,13,4,1,48204
+1452,Athletic Club,11,RCD Espanyol,17,8,1,40090
+1453,Athletic Club,7,RCD Espanyol,14,9,1,42410
+1454,Athletic Club,5,RCD Espanyol,11,12,0,37646
+1455,Athletic Club,5,RCD Espanyol,15,6,1,43013
+1456,Athletic Club,9,RCD Espanyol,13,2,0,32638
+1457,Athletic Club,9,RCD Espanyol,13,8,1,42823
+1458,Athletic Club,6,RCD Espanyol,14,11,1,49560
+1459,Athletic Club,8,RCD Espanyol,11,5,1,44593
+1460,Athletic Club,5,Getafe CF,18,2,1,31193
+1461,Athletic Club,9,Getafe CF,13,5,1,44245
+1462,Athletic Club,8,Getafe CF,15,4,1,48713
+1463,Athletic Club,6,Getafe CF,17,12,1,42304
+1464,Athletic Club,6,Getafe CF,16,9,1,35513
+1465,Athletic Club,11,Getafe CF,14,6,1,36731
+1466,Athletic Club,9,Getafe CF,15,2,1,44371
+1467,Athletic Club,5,Getafe CF,16,9,1,43437
+1468,Athletic Club,9,Getafe CF,17,11,0,27401
+1469,Athletic Club,8,Getafe CF,17,8,0,19947
+1470,Athletic Club,6,RCD Mallorca,14,6,1,38334
+1471,Athletic Club,8,RCD Mallorca,14,12,1,34845
+1472,Athletic Club,11,RCD Mallorca,19,3,1,31463
+1473,Athletic Club,8,RCD Mallorca,14,9,1,33527
+1474,Athletic Club,8,RCD Mallorca,18,3,1,41651
+1475,Athletic Club,5,RCD Mallorca,16,6,1,39685
+1476,Athletic Club,9,RCD Mallorca,16,3,1,38458
+1477,Athletic Club,7,RCD Mallorca,19,6,0,23969
+1478,Athletic Club,6,RCD Mallorca,16,5,1,35454
+1479,Athletic Club,8,RCD Mallorca,14,4,1,47528
+1480,Athletic Club,7,Cádiz CF,18,10,1,47705
+1481,Athletic Club,7,Cádiz CF,19,8,1,39581
+1482,Athletic Club,9,Cádiz CF,15,10,1,33619
+1483,Athletic Club,6,Cádiz CF,15,3,1,47117
+1484,Athletic Club,9,Cádiz CF,19,4,1,34860
+1485,Athletic Club,7,Cádiz CF,17,11,1,34582
+1486,Athletic Club,6,Cádiz CF,19,11,1,34042
+1487,Athletic Club,9,Cádiz CF,16,1,1,28077
+1488,Athletic Club,7,Cádiz CF,17,6,1,45511
+1489,Athletic Club,10,Cádiz CF,16,9,0,22537
+1490,Athletic Club,11,UD Almería,18,4,0,27814
+1491,Athletic Club,7,UD Almería,17,9,1,40788
+1492,Athletic Club,10,UD Almería,17,10,1,33319
+1493,Athletic Club,6,UD Almería,20,11,1,40181
+1494,Athletic Club,7,UD Almería,20,8,1,50882
+1495,Athletic Club,7,UD Almería,15,10,1,40055
+1496,Athletic Club,11,UD Almería,20,2,1,39440
+1497,Athletic Club,5,UD Almería,18,3,1,36777
+1498,Athletic Club,6,UD Almería,17,3,1,33572
+1499,Athletic Club,7,UD Almería,17,1,1,49011
+1500,Athletic Club,11,Real Valladolid CF,20,4,1,49855
+1501,Athletic Club,11,Real Valladolid CF,20,2,1,37895
+1502,Athletic Club,8,Real Valladolid CF,16,5,1,39188
+1503,Athletic Club,9,Real Valladolid CF,20,5,1,38014
+1504,Athletic Club,9,Real Valladolid CF,19,3,0,27964
+1505,Athletic Club,7,Real Valladolid CF,20,11,0,23629
+1506,Athletic Club,10,Real Valladolid CF,19,6,0,13967
+1507,Athletic Club,8,Real Valladolid CF,20,5,1,48275
+1508,Athletic Club,10,Real Valladolid CF,19,9,1,48681
+1509,Athletic Club,7,Real Valladolid CF,18,10,1,38595
+1510,Athletic Club,11,Girona FC,18,3,0,29226
+1511,Athletic Club,11,Girona FC,20,1,1,29677
+1512,Athletic Club,11,Girona FC,18,1,1,37928
+1513,Athletic Club,11,Girona FC,20,4,1,47833
+1514,Athletic Club,8,Girona FC,18,6,1,41815
+1515,Athletic Club,9,Girona FC,20,11,1,36830
+1516,Athletic Club,9,Girona FC,20,9,1,34705
+1517,Athletic Club,11,Girona FC,20,1,1,36242
+1518,Athletic Club,9,Girona FC,17,1,1,41480
+1519,Athletic Club,7,Girona FC,20,2,0,40792
+1520,Valencia CF,8,Real Madrid CF,3,9,1,39916
+1521,Valencia CF,9,Real Madrid CF,1,4,1,44652
+1522,Valencia CF,12,Real Madrid CF,3,3,0,17144
+1523,Valencia CF,12,Real Madrid CF,4,12,1,38901
+1524,Valencia CF,10,Real Madrid CF,4,9,0,34546
+1525,Valencia CF,9,Real Madrid CF,1,8,1,33736
+1526,Valencia CF,9,Real Madrid CF,4,10,1,30949
+1527,Valencia CF,6,Real Madrid CF,4,2,0,27084
+1528,Valencia CF,11,Real Madrid CF,1,6,1,40983
+1529,Valencia CF,11,Real Madrid CF,3,3,1,39278
+1530,Valencia CF,7,FC Barcelona,3,1,1,31150
+1531,Valencia CF,7,FC Barcelona,1,5,1,37805
+1532,Valencia CF,8,FC Barcelona,5,6,1,32319
+1533,Valencia CF,11,FC Barcelona,1,12,1,27813
+1534,Valencia CF,8,FC Barcelona,1,4,1,45495
+1535,Valencia CF,9,FC Barcelona,1,10,1,35868
+1536,Valencia CF,6,FC Barcelona,4,2,1,42876
+1537,Valencia CF,9,FC Barcelona,1,1,0,20453
+1538,Valencia CF,7,FC Barcelona,2,1,1,38585
+1539,Valencia CF,9,FC Barcelona,1,10,0,24844
+1540,Valencia CF,10,Atlético de Madrid,5,12,1,40491
+1541,Valencia CF,10,Atlético de Madrid,2,5,1,36914
+1542,Valencia CF,11,Atlético de Madrid,4,10,0,22157
+1543,Valencia CF,12,Atlético de Madrid,6,10,1,33850
+1544,Valencia CF,6,Atlético de Madrid,1,10,1,46736
+1545,Valencia CF,7,Atlético de Madrid,4,2,1,32396
+1546,Valencia CF,7,Atlético de Madrid,3,8,1,34003
+1547,Valencia CF,6,Atlético de Madrid,4,1,1,41897
+1548,Valencia CF,8,Atlético de Madrid,3,5,1,40080
+1549,Valencia CF,8,Atlético de Madrid,6,10,1,37584
+1550,Valencia CF,6,Sevilla FC,7,3,0,32596
+1551,Valencia CF,12,Sevilla FC,1,4,1,39072
+1552,Valencia CF,8,Sevilla FC,1,9,1,37426
+1553,Valencia CF,12,Sevilla FC,1,2,1,30520
+1554,Valencia CF,7,Sevilla FC,2,4,1,30623
+1555,Valencia CF,9,Sevilla FC,6,10,1,40764
+1556,Valencia CF,11,Sevilla FC,6,2,1,33630
+1557,Valencia CF,11,Sevilla FC,7,6,0,23840
+1558,Valencia CF,9,Sevilla FC,2,10,1,44008
+1559,Valencia CF,9,Sevilla FC,1,5,1,47183
+1560,Valencia CF,9,Real Betis Balompié,2,8,1,35826
+1561,Valencia CF,8,Real Betis Balompié,2,9,1,42670
+1562,Valencia CF,10,Real Betis Balompié,7,3,0,29151
+1563,Valencia CF,8,Real Betis Balompié,2,10,1,35026
+1564,Valencia CF,8,Real Betis Balompié,5,1,0,30677
+1565,Valencia CF,10,Real Betis Balompié,5,3,1,32924
+1566,Valencia CF,10,Real Betis Balompié,6,6,0,27546
+1567,Valencia CF,9,Real Betis Balompié,4,2,1,38276
+1568,Valencia CF,9,Real Betis Balompié,6,9,1,37024
+1569,Valencia CF,11,Real Betis Balompié,7,2,1,34609
+1570,Valencia CF,7,Real Sociedad,9,11,0,26274
+1571,Valencia CF,10,Real Sociedad,5,11,1,36643
+1572,Valencia CF,12,Real Sociedad,4,12,1,34281
+1573,Valencia CF,8,Real Sociedad,7,1,1,32740
+1574,Valencia CF,6,Real Sociedad,7,8,1,42454
+1575,Valencia CF,12,Real Sociedad,5,12,1,29384
+1576,Valencia CF,12,Real Sociedad,9,4,1,43169
+1577,Valencia CF,12,Real Sociedad,6,3,1,37411
+1578,Valencia CF,7,Real Sociedad,4,4,1,44917
+1579,Valencia CF,12,Real Sociedad,8,1,1,41198
+1580,Valencia CF,12,Villarreal CF,9,3,1,30330
+1581,Valencia CF,11,Villarreal CF,6,11,1,28729
+1582,Valencia CF,7,Villarreal CF,4,6,1,33452
+1583,Valencia CF,10,Villarreal CF,6,5,1,44213
+1584,Valencia CF,12,Villarreal CF,8,6,1,40393
+1585,Valencia CF,10,Villarreal CF,6,9,1,22094
+1586,Valencia CF,12,Villarreal CF,4,1,1,30760
+1587,Valencia CF,9,Villarreal CF,10,6,1,23698
+1588,Valencia CF,11,Villarreal CF,8,10,1,41397
+1589,Valencia CF,8,Villarreal CF,6,8,1,34999
+1590,Valencia CF,8,Athletic Club,7,3,0,27660
+1591,Valencia CF,12,Athletic Club,6,6,1,27015
+1592,Valencia CF,7,Athletic Club,8,5,1,32077
+1593,Valencia CF,8,Athletic Club,7,12,1,40157
+1594,Valencia CF,10,Athletic Club,9,2,1,40958
+1595,Valencia CF,9,Athletic Club,7,2,1,30150
+1596,Valencia CF,12,Athletic Club,5,8,1,33394
+1597,Valencia CF,12,Athletic Club,9,6,1,24820
+1598,Valencia CF,9,Athletic Club,8,4,1,38512
+1599,Valencia CF,8,Athletic Club,9,2,1,48600
+1600,Valencia CF,7,CA Osasuna,12,11,1,31547
+1601,Valencia CF,11,CA Osasuna,13,6,1,27617
+1602,Valencia CF,7,CA Osasuna,11,12,1,35019
+1603,Valencia CF,12,CA Osasuna,13,1,1,34360
+1604,Valencia CF,6,CA Osasuna,9,9,1,34448
+1605,Valencia CF,10,CA Osasuna,8,10,1,43287
+1606,Valencia CF,8,CA Osasuna,12,2,1,39343
+1607,Valencia CF,12,CA Osasuna,9,4,1,38978
+1608,Valencia CF,10,CA Osasuna,12,5,0,30882
+1609,Valencia CF,10,CA Osasuna,8,6,1,32411
+1610,Valencia CF,12,RC Celta de Vigo,14,12,1,32780
+1611,Valencia CF,11,RC Celta de Vigo,14,2,1,31736
+1612,Valencia CF,6,RC Celta de Vigo,14,9,1,33853
+1613,Valencia CF,9,RC Celta de Vigo,13,8,1,32848
+1614,Valencia CF,10,RC Celta de Vigo,8,5,1,33707
+1615,Valencia CF,8,RC Celta de Vigo,12,2,1,38729
+1616,Valencia CF,11,RC Celta de Vigo,9,4,1,44416
+1617,Valencia CF,6,RC Celta de Vigo,9,10,1,34014
+1618,Valencia CF,7,RC Celta de Vigo,9,10,1,28554
+1619,Valencia CF,10,RC Celta de Vigo,12,8,1,33412
+1620,Valencia CF,9,Rayo Vallecano,13,11,1,33182
+1621,Valencia CF,6,Rayo Vallecano,14,2,1,30140
+1622,Valencia CF,11,Rayo Vallecano,10,12,1,37083
+1623,Valencia CF,7,Rayo Vallecano,13,6,0,33750
+1624,Valencia CF,12,Rayo Vallecano,10,1,1,30293
+1625,Valencia CF,7,Rayo Vallecano,12,8,1,35904
+1626,Valencia CF,9,Rayo Vallecano,15,8,1,33283
+1627,Valencia CF,7,Rayo Vallecano,15,9,1,38651
+1628,Valencia CF,9,Rayo Vallecano,14,3,0,20202
+1629,Valencia CF,11,Rayo Vallecano,10,4,1,33136
+1630,Valencia CF,12,Elche CF,16,10,1,40539
+1631,Valencia CF,11,Elche CF,15,11,1,30072
+1632,Valencia CF,10,Elche CF,14,1,1,36216
+1633,Valencia CF,10,Elche CF,14,10,1,26316
+1634,Valencia CF,10,Elche CF,15,8,1,15667
+1635,Valencia CF,8,Elche CF,11,12,1,30076
+1636,Valencia CF,12,Elche CF,14,11,1,32049
+1637,Valencia CF,6,Elche CF,13,5,1,38832
+1638,Valencia CF,8,Elche CF,12,12,1,24899
+1639,Valencia CF,6,Elche CF,12,4,0,33994
+1640,Valencia CF,7,RCD Espanyol,12,3,1,28542
+1641,Valencia CF,12,RCD Espanyol,11,6,0,22114
+1642,Valencia CF,7,RCD Espanyol,15,8,1,23883
+1643,Valencia CF,6,RCD Espanyol,14,9,1,30899
+1644,Valencia CF,11,RCD Espanyol,14,6,1,39011
+1645,Valencia CF,6,RCD Espanyol,14,3,1,28079
+1646,Valencia CF,11,RCD Espanyol,15,11,0,14577
+1647,Valencia CF,6,RCD Espanyol,11,4,1,39537
+1648,Valencia CF,10,RCD Espanyol,11,3,1,35918
+1649,Valencia CF,11,RCD Espanyol,17,5,1,33716
+1650,Valencia CF,10,Getafe CF,18,9,0,22768
+1651,Valencia CF,9,Getafe CF,12,8,1,35502
+1652,Valencia CF,12,Getafe CF,16,3,1,37170
+1653,Valencia CF,8,Getafe CF,14,8,1,30109
+1654,Valencia CF,7,Getafe CF,13,2,1,35034
+1655,Valencia CF,11,Getafe CF,13,8,1,35936
+1656,Valencia CF,11,Getafe CF,16,3,1,28584
+1657,Valencia CF,8,Getafe CF,16,9,1,34554
+1658,Valencia CF,9,Getafe CF,13,4,1,40116
+1659,Valencia CF,7,Getafe CF,18,10,1,35747
+1660,Valencia CF,12,RCD Mallorca,15,4,1,29356
+1661,Valencia CF,9,RCD Mallorca,16,3,0,24304
+1662,Valencia CF,10,RCD Mallorca,16,6,1,18885
+1663,Valencia CF,10,RCD Mallorca,15,3,1,41814
+1664,Valencia CF,10,RCD Mallorca,15,1,1,38387
+1665,Valencia CF,6,RCD Mallorca,19,12,1,34424
+1666,Valencia CF,10,RCD Mallorca,18,2,1,41663
+1667,Valencia CF,12,RCD Mallorca,17,4,1,33653
+1668,Valencia CF,9,RCD Mallorca,14,3,1,39979
+1669,Valencia CF,6,RCD Mallorca,19,12,1,37822
+1670,Valencia CF,12,Cádiz CF,17,1,1,33261
+1671,Valencia CF,8,Cádiz CF,15,3,0,24152
+1672,Valencia CF,9,Cádiz CF,16,3,1,36854
+1673,Valencia CF,6,Cádiz CF,20,12,1,35882
+1674,Valencia CF,6,Cádiz CF,16,6,1,37397
+1675,Valencia CF,12,Cádiz CF,15,4,1,39421
+1676,Valencia CF,7,Cádiz CF,16,1,1,42633
+1677,Valencia CF,12,Cádiz CF,18,5,1,35492
+1678,Valencia CF,7,Cádiz CF,15,2,1,45678
+1679,Valencia CF,7,Cádiz CF,16,2,1,35888
+1680,Valencia CF,8,UD Almería,20,9,0,19160
+1681,Valencia CF,12,UD Almería,20,9,1,25434
+1682,Valencia CF,6,UD Almería,19,9,1,28021
+1683,Valencia CF,12,UD Almería,17,3,0,27205
+1684,Valencia CF,9,UD Almería,16,3,1,29754
+1685,Valencia CF,8,UD Almería,19,3,1,30738
+1686,Valencia CF,7,UD Almería,20,12,1,32004
+1687,Valencia CF,11,UD Almería,20,11,1,31575
+1688,Valencia CF,9,UD Almería,18,10,0,22328
+1689,Valencia CF,8,UD Almería,19,12,1,30185
+1690,Valencia CF,6,Real Valladolid CF,18,9,1,25795
+1691,Valencia CF,8,Real Valladolid CF,19,1,1,35519
+1692,Valencia CF,11,Real Valladolid CF,17,5,1,26090
+1693,Valencia CF,12,Real Valladolid CF,20,5,1,27674
+1694,Valencia CF,8,Real Valladolid CF,20,4,0,21228
+1695,Valencia CF,10,Real Valladolid CF,20,12,1,29268
+1696,Valencia CF,11,Real Valladolid CF,17,4,1,27757
+1697,Valencia CF,8,Real Valladolid CF,16,10,1,33207
+1698,Valencia CF,12,Real Valladolid CF,20,3,1,26406
+1699,Valencia CF,12,Real Valladolid CF,17,3,1,33463
+1700,Valencia CF,7,Girona FC,20,6,1,34282
+1701,Valencia CF,11,Girona FC,20,8,1,26513
+1702,Valencia CF,9,Girona FC,17,6,0,27063
+1703,Valencia CF,12,Girona FC,20,12,0,23138
+1704,Valencia CF,9,Girona FC,20,1,0,24460
+1705,Valencia CF,10,Girona FC,17,4,1,40177
+1706,Valencia CF,8,Girona FC,17,9,1,28825
+1707,Valencia CF,12,Girona FC,17,12,1,28787
+1708,Valencia CF,12,Girona FC,17,3,1,31481
+1709,Valencia CF,6,Girona FC,20,11,1,33353
+1710,CA Osasuna,10,Real Madrid CF,3,12,1,16260
+1711,CA Osasuna,13,Real Madrid CF,1,11,1,20637
+1712,CA Osasuna,7,Real Madrid CF,2,5,1,20468
+1713,CA Osasuna,10,Real Madrid CF,1,3,1,21723
+1714,CA Osasuna,8,Real Madrid CF,4,11,0,13713
+1715,CA Osasuna,7,Real Madrid CF,1,1,1,19936
+1716,CA Osasuna,10,Real Madrid CF,1,5,0,14238
+1717,CA Osasuna,12,Real Madrid CF,3,9,1,19499
+1718,CA Osasuna,11,Real Madrid CF,1,9,0,13077
+1719,CA Osasuna,9,Real Madrid CF,1,6,1,17378
+1720,CA Osasuna,11,FC Barcelona,2,10,0,17718
+1721,CA Osasuna,7,FC Barcelona,1,3,1,19473
+1722,CA Osasuna,10,FC Barcelona,4,10,1,18102
+1723,CA Osasuna,8,FC Barcelona,5,8,1,19176
+1724,CA Osasuna,12,FC Barcelona,4,3,1,21898
+1725,CA Osasuna,12,FC Barcelona,2,10,0,12864
+1726,CA Osasuna,12,FC Barcelona,2,9,1,16040
+1727,CA Osasuna,9,FC Barcelona,3,4,0,17370
+1728,CA Osasuna,10,FC Barcelona,1,5,1,16983
+1729,CA Osasuna,13,FC Barcelona,5,4,1,19367
+1730,CA Osasuna,7,Atlético de Madrid,4,9,1,20135
+1731,CA Osasuna,10,Atlético de Madrid,3,5,0,16040
+1732,CA Osasuna,11,Atlético de Madrid,3,10,1,17695
+1733,CA Osasuna,7,Atlético de Madrid,4,4,1,20567
+1734,CA Osasuna,10,Atlético de Madrid,2,11,1,17109
+1735,CA Osasuna,13,Atlético de Madrid,6,9,0,10498
+1736,CA Osasuna,9,Atlético de Madrid,5,12,1,22432
+1737,CA Osasuna,12,Atlético de Madrid,6,8,1,11926
+1738,CA Osasuna,12,Atlético de Madrid,6,11,1,16283
+1739,CA Osasuna,12,Atlético de Madrid,6,4,0,18804
+1740,CA Osasuna,8,Sevilla FC,6,6,1,20591
+1741,CA Osasuna,13,Sevilla FC,3,4,1,14995
+1742,CA Osasuna,12,Sevilla FC,5,9,1,15678
+1743,CA Osasuna,12,Sevilla FC,5,2,1,20231
+1744,CA Osasuna,8,Sevilla FC,5,12,0,14114
+1745,CA Osasuna,13,Sevilla FC,7,9,1,16492
+1746,CA Osasuna,13,Sevilla FC,4,2,1,18499
+1747,CA Osasuna,9,Sevilla FC,2,1,1,19854
+1748,CA Osasuna,9,Sevilla FC,6,8,0,10906
+1749,CA Osasuna,12,Sevilla FC,2,11,1,23576
+1750,CA Osasuna,13,Real Betis Balompié,2,5,1,21914
+1751,CA Osasuna,12,Real Betis Balompié,4,5,1,15237
+1752,CA Osasuna,12,Real Betis Balompié,5,4,1,18791
+1753,CA Osasuna,11,Real Betis Balompié,2,1,1,18734
+1754,CA Osasuna,11,Real Betis Balompié,6,4,1,22998
+1755,CA Osasuna,8,Real Betis Balompié,5,10,1,20557
+1756,CA Osasuna,12,Real Betis Balompié,3,9,1,21108
+1757,CA Osasuna,8,Real Betis Balompié,7,2,1,16950
+1758,CA Osasuna,10,Real Betis Balompié,3,3,1,23576
+1759,CA Osasuna,8,Real Betis Balompié,5,3,1,22897
+1760,CA Osasuna,9,Real Sociedad,7,4,1,17447
+1761,CA Osasuna,7,Real Sociedad,5,9,1,19175
+1762,CA Osasuna,9,Real Sociedad,6,9,0,10185
+1763,CA Osasuna,10,Real Sociedad,8,8,1,14129
+1764,CA Osasuna,7,Real Sociedad,8,5,0,18824
+1765,CA Osasuna,12,Real Sociedad,5,1,1,18694
+1766,CA Osasuna,12,Real Sociedad,5,4,1,15615
+1767,CA Osasuna,8,Real Sociedad,9,12,1,14183
+1768,CA Osasuna,7,Real Sociedad,9,3,1,19869
+1769,CA Osasuna,8,Real Sociedad,4,8,1,20016
+1770,CA Osasuna,10,Villarreal CF,6,8,1,18989
+1771,CA Osasuna,7,Villarreal CF,9,1,1,19400
+1772,CA Osasuna,12,Villarreal CF,10,4,0,14949
+1773,CA Osasuna,10,Villarreal CF,6,2,1,16787
+1774,CA Osasuna,7,Villarreal CF,10,9,1,15883
+1775,CA Osasuna,13,Villarreal CF,4,2,1,22559
+1776,CA Osasuna,9,Villarreal CF,8,8,1,17838
+1777,CA Osasuna,10,Villarreal CF,7,2,0,13091
+1778,CA Osasuna,9,Villarreal CF,5,4,1,18448
+1779,CA Osasuna,10,Villarreal CF,7,6,1,17611
+1780,CA Osasuna,13,Athletic Club,9,9,1,16713
+1781,CA Osasuna,8,Athletic Club,9,2,1,16855
+1782,CA Osasuna,9,Athletic Club,10,6,1,20578
+1783,CA Osasuna,13,Athletic Club,5,3,0,16525
+1784,CA Osasuna,10,Athletic Club,6,9,1,15877
+1785,CA Osasuna,12,Athletic Club,10,1,1,14661
+1786,CA Osasuna,8,Athletic Club,5,10,0,9004
+1787,CA Osasuna,13,Athletic Club,7,6,1,17989
+1788,CA Osasuna,12,Athletic Club,5,8,1,16021
+1789,CA Osasuna,7,Athletic Club,8,11,1,19877
+1790,CA Osasuna,11,Valencia CF,9,1,1,17759
+1791,CA Osasuna,12,Valencia CF,10,5,1,20961
+1792,CA Osasuna,12,Valencia CF,8,6,1,15788
+1793,CA Osasuna,10,Valencia CF,8,5,1,22663
+1794,CA Osasuna,13,Valencia CF,10,9,1,18473
+1795,CA Osasuna,8,Valencia CF,10,5,0,15992
+1796,CA Osasuna,12,Valencia CF,6,9,1,16124
+1797,CA Osasuna,7,Valencia CF,10,8,1,16894
+1798,CA Osasuna,9,Valencia CF,7,12,1,19026
+1799,CA Osasuna,11,Valencia CF,9,3,1,14663
+1800,CA Osasuna,7,RC Celta de Vigo,12,1,1,19010
+1801,CA Osasuna,7,RC Celta de Vigo,8,9,1,19927
+1802,CA Osasuna,9,RC Celta de Vigo,8,2,1,18441
+1803,CA Osasuna,12,RC Celta de Vigo,14,4,1,11075
+1804,CA Osasuna,8,RC Celta de Vigo,11,11,1,19230
+1805,CA Osasuna,7,RC Celta de Vigo,9,10,1,15266
+1806,CA Osasuna,11,RC Celta de Vigo,9,12,1,14291
+1807,CA Osasuna,10,RC Celta de Vigo,8,5,1,18234
+1808,CA Osasuna,13,RC Celta de Vigo,12,12,1,14776
+1809,CA Osasuna,13,RC Celta de Vigo,11,11,0,12056
+1810,CA Osasuna,9,Rayo Vallecano,12,12,1,15659
+1811,CA Osasuna,7,Rayo Vallecano,9,2,0,13722
+1812,CA Osasuna,13,Rayo Vallecano,14,1,1,17965
+1813,CA Osasuna,10,Rayo Vallecano,11,4,1,16969
+1814,CA Osasuna,8,Rayo Vallecano,12,4,1,18222
+1815,CA Osasuna,13,Rayo Vallecano,11,9,1,6969
+1816,CA Osasuna,8,Rayo Vallecano,9,1,1,20014
+1817,CA Osasuna,11,Rayo Vallecano,12,4,1,19451
+1818,CA Osasuna,10,Rayo Vallecano,13,11,1,18242
+1819,CA Osasuna,10,Rayo Vallecano,14,1,1,14005
+1820,CA Osasuna,8,Elche CF,11,3,1,18989
+1821,CA Osasuna,13,Elche CF,11,8,1,16075
+1822,CA Osasuna,13,Elche CF,16,8,1,17291
+1823,CA Osasuna,13,Elche CF,14,1,0,11212
+1824,CA Osasuna,9,Elche CF,11,11,1,17965
+1825,CA Osasuna,11,Elche CF,14,10,1,13128
+1826,CA Osasuna,8,Elche CF,13,6,1,18302
+1827,CA Osasuna,11,Elche CF,15,12,1,18125
+1828,CA Osasuna,7,Elche CF,12,3,1,16926
+1829,CA Osasuna,7,Elche CF,11,4,1,21968
+1830,CA Osasuna,10,RCD Espanyol,11,5,1,14640
+1831,CA Osasuna,7,RCD Espanyol,12,5,1,18800
+1832,CA Osasuna,11,RCD Espanyol,12,8,1,15788
+1833,CA Osasuna,8,RCD Espanyol,14,12,1,18058
+1834,CA Osasuna,9,RCD Espanyol,17,8,1,15880
+1835,CA Osasuna,12,RCD Espanyol,13,9,1,20889
+1836,CA Osasuna,7,RCD Espanyol,11,4,0,14645
+1837,CA Osasuna,10,RCD Espanyol,16,1,1,14280
+1838,CA Osasuna,11,RCD Espanyol,17,10,0,11518
+1839,CA Osasuna,12,RCD Espanyol,11,2,0,12689
+1840,CA Osasuna,11,Getafe CF,12,10,1,15251
+1841,CA Osasuna,9,Getafe CF,18,3,1,15613
+1842,CA Osasuna,12,Getafe CF,16,4,1,16503
+1843,CA Osasuna,10,Getafe CF,14,6,0,9944
+1844,CA Osasuna,13,Getafe CF,14,1,1,13808
+1845,CA Osasuna,9,Getafe CF,12,12,1,14368
+1846,CA Osasuna,7,Getafe CF,15,9,0,11812
+1847,CA Osasuna,11,Getafe CF,15,2,1,17488
+1848,CA Osasuna,8,Getafe CF,18,1,1,19415
+1849,CA Osasuna,13,Getafe CF,12,4,1,18756
+1850,CA Osasuna,11,RCD Mallorca,14,10,1,14624
+1851,CA Osasuna,7,RCD Mallorca,17,2,1,12575
+1852,CA Osasuna,11,RCD Mallorca,14,5,1,19110
+1853,CA Osasuna,9,RCD Mallorca,19,6,1,15718
+1854,CA Osasuna,11,RCD Mallorca,17,3,1,17101
+1855,CA Osasuna,9,RCD Mallorca,18,10,1,15229
+1856,CA Osasuna,13,RCD Mallorca,19,1,1,19227
+1857,CA Osasuna,7,RCD Mallorca,14,2,0,17333
+1858,CA Osasuna,7,RCD Mallorca,14,8,1,16895
+1859,CA Osasuna,8,RCD Mallorca,17,2,0,9255
+1860,CA Osasuna,9,Cádiz CF,17,12,1,12969
+1861,CA Osasuna,9,Cádiz CF,19,6,1,13840
+1862,CA Osasuna,10,Cádiz CF,14,9,0,13155
+1863,CA Osasuna,8,Cádiz CF,16,9,1,14444
+1864,CA Osasuna,11,Cádiz CF,14,5,1,17648
+1865,CA Osasuna,8,Cádiz CF,15,2,1,18174
+1866,CA Osasuna,8,Cádiz CF,20,8,1,11145
+1867,CA Osasuna,8,Cádiz CF,14,3,0,17954
+1868,CA Osasuna,11,Cádiz CF,15,2,1,22042
+1869,CA Osasuna,10,Cádiz CF,17,12,1,17960
+1870,CA Osasuna,12,UD Almería,17,8,1,12796
+1871,CA Osasuna,10,UD Almería,18,9,1,14228
+1872,CA Osasuna,9,UD Almería,17,10,1,14974
+1873,CA Osasuna,7,UD Almería,18,3,0,15664
+1874,CA Osasuna,8,UD Almería,20,8,1,15095
+1875,CA Osasuna,7,UD Almería,20,3,1,20734
+1876,CA Osasuna,12,UD Almería,17,9,0,11548
+1877,CA Osasuna,10,UD Almería,18,11,1,20720
+1878,CA Osasuna,12,UD Almería,19,12,1,15700
+1879,CA Osasuna,8,UD Almería,16,8,1,19831
+1880,CA Osasuna,12,Real Valladolid CF,20,9,0,9021
+1881,CA Osasuna,11,Real Valladolid CF,20,4,0,12790
+1882,CA Osasuna,11,Real Valladolid CF,16,2,1,15941
+1883,CA Osasuna,12,Real Valladolid CF,18,1,1,21181
+1884,CA Osasuna,12,Real Valladolid CF,17,4,1,14748
+1885,CA Osasuna,13,Real Valladolid CF,17,9,1,13975
+1886,CA Osasuna,7,Real Valladolid CF,19,12,1,15771
+1887,CA Osasuna,7,Real Valladolid CF,16,12,1,16845
+1888,CA Osasuna,8,Real Valladolid CF,20,6,1,14772
+1889,CA Osasuna,13,Real Valladolid CF,18,2,1,16760
+1890,CA Osasuna,7,Girona FC,18,9,0,5151
+1891,CA Osasuna,7,Girona FC,20,10,1,16926
+1892,CA Osasuna,9,Girona FC,18,4,1,19502
+1893,CA Osasuna,8,Girona FC,20,8,1,12137
+1894,CA Osasuna,11,Girona FC,20,4,1,18366
+1895,CA Osasuna,7,Girona FC,20,5,1,16099
+1896,CA Osasuna,13,Girona FC,20,3,1,14126
+1897,CA Osasuna,12,Girona FC,20,2,1,20058
+1898,CA Osasuna,9,Girona FC,20,9,0,11976
+1899,CA Osasuna,9,Girona FC,20,4,0,15612
+1900,RC Celta de Vigo,10,Real Madrid CF,1,4,0,15977
+1901,RC Celta de Vigo,14,Real Madrid CF,1,11,1,21088
+1902,RC Celta de Vigo,10,Real Madrid CF,1,11,1,22572
+1903,RC Celta de Vigo,12,Real Madrid CF,3,12,1,21832
+1904,RC Celta de Vigo,13,Real Madrid CF,1,6,1,16417
+1905,RC Celta de Vigo,9,Real Madrid CF,2,8,1,20802
+1906,RC Celta de Vigo,12,Real Madrid CF,1,4,0,14254
+1907,RC Celta de Vigo,10,Real Madrid CF,1,1,0,12679
+1908,RC Celta de Vigo,10,Real Madrid CF,4,6,1,27435
+1909,RC Celta de Vigo,12,Real Madrid CF,1,3,1,27547
+1910,RC Celta de Vigo,10,FC Barcelona,1,4,1,23725
+1911,RC Celta de Vigo,13,FC Barcelona,2,4,1,22815
+1912,RC Celta de Vigo,9,FC Barcelona,4,12,1,19515
+1913,RC Celta de Vigo,12,FC Barcelona,2,6,1,24179
+1914,RC Celta de Vigo,11,FC Barcelona,5,8,1,21310
+1915,RC Celta de Vigo,9,FC Barcelona,2,12,1,20790
+1916,RC Celta de Vigo,8,FC Barcelona,1,6,1,19142
+1917,RC Celta de Vigo,9,FC Barcelona,1,8,1,19007
+1918,RC Celta de Vigo,13,FC Barcelona,4,11,1,21162
+1919,RC Celta de Vigo,10,FC Barcelona,5,10,1,21251
+1920,RC Celta de Vigo,8,Atlético de Madrid,3,8,1,20786
+1921,RC Celta de Vigo,11,Atlético de Madrid,1,12,0,12538
+1922,RC Celta de Vigo,11,Atlético de Madrid,5,8,0,12832
+1923,RC Celta de Vigo,12,Atlético de Madrid,2,10,1,21803
+1924,RC Celta de Vigo,12,Atlético de Madrid,1,10,0,17179
+1925,RC Celta de Vigo,12,Atlético de Madrid,5,6,1,22318
+1926,RC Celta de Vigo,10,Atlético de Madrid,6,12,1,23217
+1927,RC Celta de Vigo,12,Atlético de Madrid,3,2,0,17238
+1928,RC Celta de Vigo,11,Atlético de Madrid,2,1,1,24269
+1929,RC Celta de Vigo,9,Atlético de Madrid,1,4,0,15027
+1930,RC Celta de Vigo,9,Sevilla FC,1,8,0,18053
+1931,RC Celta de Vigo,11,Sevilla FC,4,10,1,22664
+1932,RC Celta de Vigo,13,Sevilla FC,3,2,1,24720
+1933,RC Celta de Vigo,12,Sevilla FC,5,8,1,21024
+1934,RC Celta de Vigo,11,Sevilla FC,5,4,1,23746
+1935,RC Celta de Vigo,11,Sevilla FC,6,8,1,23861
+1936,RC Celta de Vigo,10,Sevilla FC,1,11,1,23187
+1937,RC Celta de Vigo,10,Sevilla FC,7,10,1,23497
+1938,RC Celta de Vigo,12,Sevilla FC,7,5,0,17856
+1939,RC Celta de Vigo,8,Sevilla FC,4,12,1,22036
+1940,RC Celta de Vigo,13,Real Betis Balompié,4,9,1,20953
+1941,RC Celta de Vigo,13,Real Betis Balompié,8,5,1,21696
+1942,RC Celta de Vigo,10,Real Betis Balompié,7,2,1,18566
+1943,RC Celta de Vigo,11,Real Betis Balompié,5,5,0,16624
+1944,RC Celta de Vigo,10,Real Betis Balompié,5,8,1,24216
+1945,RC Celta de Vigo,13,Real Betis Balompié,6,3,1,21520
+1946,RC Celta de Vigo,14,Real Betis Balompié,7,2,1,19581
+1947,RC Celta de Vigo,8,Real Betis Balompié,5,5,1,16768
+1948,RC Celta de Vigo,8,Real Betis Balompié,5,12,1,20397
+1949,RC Celta de Vigo,14,Real Betis Balompié,5,1,1,21535
+1950,RC Celta de Vigo,14,Real Sociedad,5,10,1,23521
+1951,RC Celta de Vigo,11,Real Sociedad,8,8,0,16353
+1952,RC Celta de Vigo,10,Real Sociedad,3,11,1,25061
+1953,RC Celta de Vigo,13,Real Sociedad,9,1,0,13649
+1954,RC Celta de Vigo,13,Real Sociedad,3,6,1,21747
+1955,RC Celta de Vigo,10,Real Sociedad,4,5,0,14514
+1956,RC Celta de Vigo,13,Real Sociedad,4,8,1,19212
+1957,RC Celta de Vigo,11,Real Sociedad,9,5,1,15519
+1958,RC Celta de Vigo,11,Real Sociedad,6,11,1,18986
+1959,RC Celta de Vigo,12,Real Sociedad,6,1,1,19833
+1960,RC Celta de Vigo,13,Villarreal CF,5,4,1,26421
+1961,RC Celta de Vigo,9,Villarreal CF,7,12,1,21816
+1962,RC Celta de Vigo,11,Villarreal CF,5,8,0,13580
+1963,RC Celta de Vigo,14,Villarreal CF,8,12,1,21879
+1964,RC Celta de Vigo,11,Villarreal CF,6,12,1,17279
+1965,RC Celta de Vigo,12,Villarreal CF,8,2,1,24056
+1966,RC Celta de Vigo,12,Villarreal CF,8,11,1,14737
+1967,RC Celta de Vigo,13,Villarreal CF,4,6,0,20390
+1968,RC Celta de Vigo,8,Villarreal CF,5,4,1,23600
+1969,RC Celta de Vigo,12,Villarreal CF,8,2,1,25885
+1970,RC Celta de Vigo,11,Athletic Club,9,5,1,22220
+1971,RC Celta de Vigo,9,Athletic Club,5,2,0,19001
+1972,RC Celta de Vigo,14,Athletic Club,5,3,1,21716
+1973,RC Celta de Vigo,10,Athletic Club,5,3,1,19959
+1974,RC Celta de Vigo,14,Athletic Club,11,4,0,14677
+1975,RC Celta de Vigo,14,Athletic Club,8,3,1,21854
+1976,RC Celta de Vigo,13,Athletic Club,5,2,0,21192
+1977,RC Celta de Vigo,10,Athletic Club,8,12,1,20642
+1978,RC Celta de Vigo,11,Athletic Club,9,10,1,19629
+1979,RC Celta de Vigo,8,Athletic Club,7,1,1,25330
+1980,RC Celta de Vigo,14,Valencia CF,12,1,1,19764
+1981,RC Celta de Vigo,14,Valencia CF,7,8,1,29000
+1982,RC Celta de Vigo,10,Valencia CF,6,4,1,19987
+1983,RC Celta de Vigo,14,Valencia CF,10,12,1,15163
+1984,RC Celta de Vigo,12,Valencia CF,11,6,1,23193
+1985,RC Celta de Vigo,13,Valencia CF,8,4,1,23732
+1986,RC Celta de Vigo,10,Valencia CF,11,11,1,22556
+1987,RC Celta de Vigo,9,Valencia CF,8,2,1,20132
+1988,RC Celta de Vigo,14,Valencia CF,11,9,0,17414
+1989,RC Celta de Vigo,8,Valencia CF,7,4,1,21091
+1990,RC Celta de Vigo,11,CA Osasuna,13,10,1,17165
+1991,RC Celta de Vigo,10,CA Osasuna,11,3,1,16933
+1992,RC Celta de Vigo,8,CA Osasuna,12,2,1,20317
+1993,RC Celta de Vigo,8,CA Osasuna,10,6,1,23528
+1994,RC Celta de Vigo,12,CA Osasuna,11,6,1,13560
+1995,RC Celta de Vigo,8,CA Osasuna,11,8,1,21958
+1996,RC Celta de Vigo,13,CA Osasuna,11,8,0,16526
+1997,RC Celta de Vigo,12,CA Osasuna,10,10,1,19767
+1998,RC Celta de Vigo,12,CA Osasuna,7,12,1,24055
+1999,RC Celta de Vigo,8,CA Osasuna,10,10,1,22558
+2000,RC Celta de Vigo,13,Rayo Vallecano,15,11,1,16019
+2001,RC Celta de Vigo,10,Rayo Vallecano,12,9,1,26637
+2002,RC Celta de Vigo,11,Rayo Vallecano,13,8,1,17613
+2003,RC Celta de Vigo,12,Rayo Vallecano,13,3,1,19638
+2004,RC Celta de Vigo,9,Rayo Vallecano,10,11,1,18520
+2005,RC Celta de Vigo,11,Rayo Vallecano,10,4,1,22598
+2006,RC Celta de Vigo,11,Rayo Vallecano,13,10,1,20230
+2007,RC Celta de Vigo,8,Rayo Vallecano,14,3,1,19976
+2008,RC Celta de Vigo,11,Rayo Vallecano,9,8,1,18684
+2009,RC Celta de Vigo,8,Rayo Vallecano,11,6,1,21773
+2010,RC Celta de Vigo,12,Elche CF,16,11,0,10782
+2011,RC Celta de Vigo,10,Elche CF,11,9,1,18230
+2012,RC Celta de Vigo,10,Elche CF,14,12,1,19472
+2013,RC Celta de Vigo,13,Elche CF,11,8,1,19593
+2014,RC Celta de Vigo,11,Elche CF,16,4,1,18769
+2015,RC Celta de Vigo,10,Elche CF,11,11,1,22912
+2016,RC Celta de Vigo,8,Elche CF,16,11,0,10228
+2017,RC Celta de Vigo,10,Elche CF,15,2,0,18175
+2018,RC Celta de Vigo,13,Elche CF,12,3,1,19073
+2019,RC Celta de Vigo,12,Elche CF,15,2,1,24177
+2020,RC Celta de Vigo,8,RCD Espanyol,16,6,1,21944
+2021,RC Celta de Vigo,10,RCD Espanyol,12,1,1,20848
+2022,RC Celta de Vigo,10,RCD Espanyol,17,6,1,23014
+2023,RC Celta de Vigo,9,RCD Espanyol,14,11,0,14626
+2024,RC Celta de Vigo,8,RCD Espanyol,13,4,1,24048
+2025,RC Celta de Vigo,9,RCD Espanyol,13,4,0,17771
+2026,RC Celta de Vigo,9,RCD Espanyol,15,10,1,24197
+2027,RC Celta de Vigo,11,RCD Espanyol,12,3,1,21057
+2028,RC Celta de Vigo,13,RCD Espanyol,15,11,0,11364
+2029,RC Celta de Vigo,13,RCD Espanyol,14,11,0,15222
+2030,RC Celta de Vigo,9,Getafe CF,12,11,0,16573
+2031,RC Celta de Vigo,12,Getafe CF,18,6,0,12773
+2032,RC Celta de Vigo,14,Getafe CF,17,12,1,17978
+2033,RC Celta de Vigo,9,Getafe CF,12,10,1,22849
+2034,RC Celta de Vigo,12,Getafe CF,18,3,0,12229
+2035,RC Celta de Vigo,9,Getafe CF,18,11,1,21978
+2036,RC Celta de Vigo,13,Getafe CF,14,1,1,24458
+2037,RC Celta de Vigo,10,Getafe CF,18,6,1,15068
+2038,RC Celta de Vigo,13,Getafe CF,14,5,1,16415
+2039,RC Celta de Vigo,8,Getafe CF,13,4,1,21604
+2040,RC Celta de Vigo,14,RCD Mallorca,18,1,0,12678
+2041,RC Celta de Vigo,9,RCD Mallorca,17,4,1,20534
+2042,RC Celta de Vigo,8,RCD Mallorca,17,4,1,17449
+2043,RC Celta de Vigo,9,RCD Mallorca,15,9,0,16360
+2044,RC Celta de Vigo,11,RCD Mallorca,13,3,0,15536
+2045,RC Celta de Vigo,10,RCD Mallorca,16,5,0,12747
+2046,RC Celta de Vigo,10,RCD Mallorca,14,6,1,20771
+2047,RC Celta de Vigo,12,RCD Mallorca,13,6,1,19121
+2048,RC Celta de Vigo,8,RCD Mallorca,19,1,0,16833
+2049,RC Celta de Vigo,13,RCD Mallorca,14,9,1,13714
+2050,RC Celta de Vigo,14,Cádiz CF,17,6,0,14037
+2051,RC Celta de Vigo,9,Cádiz CF,16,12,1,16416
+2052,RC Celta de Vigo,12,Cádiz CF,16,12,1,22657
+2053,RC Celta de Vigo,13,Cádiz CF,18,12,1,15509
+2054,RC Celta de Vigo,12,Cádiz CF,18,5,1,17812
+2055,RC Celta de Vigo,13,Cádiz CF,19,1,1,16155
+2056,RC Celta de Vigo,8,Cádiz CF,14,3,1,21818
+2057,RC Celta de Vigo,8,Cádiz CF,15,2,0,11496
+2058,RC Celta de Vigo,10,Cádiz CF,15,12,1,17679
+2059,RC Celta de Vigo,10,Cádiz CF,17,9,1,19341
+2060,RC Celta de Vigo,13,UD Almería,17,5,1,25065
+2061,RC Celta de Vigo,9,UD Almería,15,3,1,17700
+2062,RC Celta de Vigo,11,UD Almería,18,6,0,12622
+2063,RC Celta de Vigo,14,UD Almería,15,5,1,19544
+2064,RC Celta de Vigo,8,UD Almería,20,9,1,18717
+2065,RC Celta de Vigo,9,UD Almería,19,8,1,15614
+2066,RC Celta de Vigo,8,UD Almería,17,8,0,14866
+2067,RC Celta de Vigo,11,UD Almería,18,6,1,15914
+2068,RC Celta de Vigo,14,UD Almería,15,6,1,19506
+2069,RC Celta de Vigo,14,UD Almería,20,11,0,10933
+2070,RC Celta de Vigo,11,Real Valladolid CF,16,9,0,11633
+2071,RC Celta de Vigo,9,Real Valladolid CF,16,8,0,10871
+2072,RC Celta de Vigo,10,Real Valladolid CF,16,8,1,16683
+2073,RC Celta de Vigo,14,Real Valladolid CF,20,3,1,17097
+2074,RC Celta de Vigo,10,Real Valladolid CF,18,12,1,19002
+2075,RC Celta de Vigo,9,Real Valladolid CF,20,10,0,14045
+2076,RC Celta de Vigo,12,Real Valladolid CF,20,6,1,15526
+2077,RC Celta de Vigo,12,Real Valladolid CF,20,2,0,14865
+2078,RC Celta de Vigo,11,Real Valladolid CF,20,2,1,20996
+2079,RC Celta de Vigo,12,Real Valladolid CF,18,4,1,19213
+2080,RC Celta de Vigo,9,Girona FC,20,8,1,18150
+2081,RC Celta de Vigo,11,Girona FC,20,10,1,10719
+2082,RC Celta de Vigo,11,Girona FC,20,12,1,20311
+2083,RC Celta de Vigo,9,Girona FC,20,4,1,21121
+2084,RC Celta de Vigo,12,Girona FC,20,12,1,16199
+2085,RC Celta de Vigo,14,Girona FC,20,10,1,15210
+2086,RC Celta de Vigo,11,Girona FC,20,4,1,22569
+2087,RC Celta de Vigo,14,Girona FC,20,2,1,19943
+2088,RC Celta de Vigo,11,Girona FC,20,11,1,13658
+2089,RC Celta de Vigo,12,Girona FC,18,2,1,20912
+2090,Rayo Vallecano,11,Real Madrid CF,1,4,1,15105
+2091,Rayo Vallecano,15,Real Madrid CF,1,9,1,15105
+2092,Rayo Vallecano,12,Real Madrid CF,1,10,1,14567
+2093,Rayo Vallecano,12,Real Madrid CF,4,12,0,9548
+2094,Rayo Vallecano,12,Real Madrid CF,1,12,1,15105
+2095,Rayo Vallecano,10,Real Madrid CF,4,6,1,15105
+2096,Rayo Vallecano,11,Real Madrid CF,1,6,1,14493
+2097,Rayo Vallecano,10,Real Madrid CF,2,3,0,13286
+2098,Rayo Vallecano,14,Real Madrid CF,1,12,1,14784
+2099,Rayo Vallecano,9,Real Madrid CF,1,9,1,12902
+2100,Rayo Vallecano,12,FC Barcelona,5,5,1,13249
+2101,Rayo Vallecano,13,FC Barcelona,1,9,1,12080
+2102,Rayo Vallecano,12,FC Barcelona,2,9,1,12538
+2103,Rayo Vallecano,9,FC Barcelona,1,3,0,11449
+2104,Rayo Vallecano,10,FC Barcelona,4,1,1,15092
+2105,Rayo Vallecano,15,FC Barcelona,4,12,1,15105
+2106,Rayo Vallecano,9,FC Barcelona,1,10,1,15105
+2107,Rayo Vallecano,9,FC Barcelona,5,4,0,11017
+2108,Rayo Vallecano,12,FC Barcelona,1,4,1,15105
+2109,Rayo Vallecano,11,FC Barcelona,1,2,1,15105
+2110,Rayo Vallecano,9,Atlético de Madrid,5,5,0,10484
+2111,Rayo Vallecano,13,Atlético de Madrid,5,11,1,13731
+2112,Rayo Vallecano,14,Atlético de Madrid,1,11,1,12873
+2113,Rayo Vallecano,9,Atlético de Madrid,1,3,1,13240
+2114,Rayo Vallecano,13,Atlético de Madrid,2,12,0,9333
+2115,Rayo Vallecano,12,Atlético de Madrid,2,5,1,11566
+2116,Rayo Vallecano,10,Atlético de Madrid,4,4,1,14659
+2117,Rayo Vallecano,10,Atlético de Madrid,4,11,1,13637
+2118,Rayo Vallecano,13,Atlético de Madrid,4,6,1,15105
+2119,Rayo Vallecano,14,Atlético de Madrid,3,2,0,8898
+2120,Rayo Vallecano,14,Sevilla FC,3,8,1,14463
+2121,Rayo Vallecano,9,Sevilla FC,2,8,1,15105
+2122,Rayo Vallecano,12,Sevilla FC,6,11,1,12406
+2123,Rayo Vallecano,14,Sevilla FC,5,10,1,13701
+2124,Rayo Vallecano,9,Sevilla FC,4,2,1,15056
+2125,Rayo Vallecano,10,Sevilla FC,6,1,1,11652
+2126,Rayo Vallecano,14,Sevilla FC,3,2,1,12485
+2127,Rayo Vallecano,13,Sevilla FC,2,5,1,12265
+2128,Rayo Vallecano,14,Sevilla FC,4,11,1,14175
+2129,Rayo Vallecano,9,Sevilla FC,4,4,0,12108
+2130,Rayo Vallecano,10,Real Betis Balompié,3,10,1,12586
+2131,Rayo Vallecano,11,Real Betis Balompié,3,10,1,14221
+2132,Rayo Vallecano,15,Real Betis Balompié,8,3,1,14515
+2133,Rayo Vallecano,14,Real Betis Balompié,5,2,1,11588
+2134,Rayo Vallecano,11,Real Betis Balompié,5,9,1,13585
+2135,Rayo Vallecano,12,Real Betis Balompié,5,10,0,8136
+2136,Rayo Vallecano,10,Real Betis Balompié,4,5,1,14431
+2137,Rayo Vallecano,12,Real Betis Balompié,3,3,0,10302
+2138,Rayo Vallecano,13,Real Betis Balompié,7,8,1,12382
+2139,Rayo Vallecano,14,Real Betis Balompié,4,10,1,12814
+2140,Rayo Vallecano,12,Real Sociedad,3,1,0,9593
+2141,Rayo Vallecano,15,Real Sociedad,6,2,1,13440
+2142,Rayo Vallecano,9,Real Sociedad,5,6,1,12592
+2143,Rayo Vallecano,10,Real Sociedad,6,1,0,11413
+2144,Rayo Vallecano,12,Real Sociedad,9,8,0,8605
+2145,Rayo Vallecano,10,Real Sociedad,8,12,1,15105
+2146,Rayo Vallecano,11,Real Sociedad,5,5,1,14393
+2147,Rayo Vallecano,13,Real Sociedad,8,11,0,10755
+2148,Rayo Vallecano,13,Real Sociedad,9,5,1,13176
+2149,Rayo Vallecano,9,Real Sociedad,4,9,1,13317
+2150,Rayo Vallecano,10,Villarreal CF,8,12,1,12328
+2151,Rayo Vallecano,12,Villarreal CF,10,4,1,15105
+2152,Rayo Vallecano,12,Villarreal CF,5,4,1,11800
+2153,Rayo Vallecano,10,Villarreal CF,9,4,1,13885
+2154,Rayo Vallecano,9,Villarreal CF,4,9,1,12804
+2155,Rayo Vallecano,15,Villarreal CF,5,11,1,11906
+2156,Rayo Vallecano,9,Villarreal CF,8,6,0,9065
+2157,Rayo Vallecano,10,Villarreal CF,8,6,1,13090
+2158,Rayo Vallecano,9,Villarreal CF,4,10,1,15105
+2159,Rayo Vallecano,10,Villarreal CF,9,2,0,10562
+2160,Rayo Vallecano,10,Athletic Club,8,11,0,9461
+2161,Rayo Vallecano,10,Athletic Club,7,4,1,14431
+2162,Rayo Vallecano,11,Athletic Club,5,1,1,11297
+2163,Rayo Vallecano,9,Athletic Club,7,3,1,12770
+2164,Rayo Vallecano,12,Athletic Club,7,8,0,10078
+2165,Rayo Vallecano,12,Athletic Club,9,8,1,14637
+2166,Rayo Vallecano,10,Athletic Club,8,1,1,14762
+2167,Rayo Vallecano,15,Athletic Club,9,6,1,13941
+2168,Rayo Vallecano,9,Athletic Club,10,4,0,10964
+2169,Rayo Vallecano,14,Athletic Club,6,5,0,10809
+2170,Rayo Vallecano,9,Valencia CF,10,2,0,12004
+2171,Rayo Vallecano,9,Valencia CF,7,11,1,10465
+2172,Rayo Vallecano,10,Valencia CF,7,9,1,12059
+2173,Rayo Vallecano,13,Valencia CF,12,8,1,12002
+2174,Rayo Vallecano,11,Valencia CF,6,12,0,10656
+2175,Rayo Vallecano,10,Valencia CF,11,6,1,11953
+2176,Rayo Vallecano,9,Valencia CF,8,3,1,15105
+2177,Rayo Vallecano,13,Valencia CF,11,4,1,15105
+2178,Rayo Vallecano,15,Valencia CF,8,10,0,10335
+2179,Rayo Vallecano,12,Valencia CF,10,5,1,13107
+2180,Rayo Vallecano,11,CA Osasuna,7,12,1,15105
+2181,Rayo Vallecano,11,CA Osasuna,9,4,1,15105
+2182,Rayo Vallecano,9,CA Osasuna,8,4,1,11643
+2183,Rayo Vallecano,10,CA Osasuna,7,3,1,11263
+2184,Rayo Vallecano,12,CA Osasuna,7,5,1,14528
+2185,Rayo Vallecano,12,CA Osasuna,11,3,1,10099
+2186,Rayo Vallecano,15,CA Osasuna,13,5,1,15092
+2187,Rayo Vallecano,15,CA Osasuna,9,4,1,12963
+2188,Rayo Vallecano,9,CA Osasuna,11,4,1,14068
+2189,Rayo Vallecano,15,CA Osasuna,12,5,1,13030
+2190,Rayo Vallecano,14,RC Celta de Vigo,10,9,1,15105
+2191,Rayo Vallecano,14,RC Celta de Vigo,9,11,1,12301
+2192,Rayo Vallecano,11,RC Celta de Vigo,12,6,1,13436
+2193,Rayo Vallecano,9,RC Celta de Vigo,8,6,1,13859
+2194,Rayo Vallecano,10,RC Celta de Vigo,12,2,0,10697
+2195,Rayo Vallecano,15,RC Celta de Vigo,13,6,0,9766
+2196,Rayo Vallecano,12,RC Celta de Vigo,13,8,1,11114
+2197,Rayo Vallecano,10,RC Celta de Vigo,8,6,0,11699
+2198,Rayo Vallecano,13,RC Celta de Vigo,9,11,1,10817
+2199,Rayo Vallecano,15,RC Celta de Vigo,11,8,1,14032
+2200,Rayo Vallecano,9,Elche CF,16,8,0,8053
+2201,Rayo Vallecano,11,Elche CF,16,5,1,12876
+2202,Rayo Vallecano,15,Elche CF,14,8,0,7157
+2203,Rayo Vallecano,12,Elche CF,14,9,0,7079
+2204,Rayo Vallecano,15,Elche CF,13,1,1,12943
+2205,Rayo Vallecano,9,Elche CF,12,2,1,11947
+2206,Rayo Vallecano,12,Elche CF,13,1,1,11271
+2207,Rayo Vallecano,11,Elche CF,16,8,1,11079
+2208,Rayo Vallecano,11,Elche CF,14,5,1,13005
+2209,Rayo Vallecano,10,Elche CF,13,6,1,10437
+2210,Rayo Vallecano,11,RCD Espanyol,14,6,0,6212
+2211,Rayo Vallecano,10,RCD Espanyol,13,10,1,12075
+2212,Rayo Vallecano,15,RCD Espanyol,14,6,1,11579
+2213,Rayo Vallecano,15,RCD Espanyol,12,2,1,12673
+2214,Rayo Vallecano,12,RCD Espanyol,11,8,0,8435
+2215,Rayo Vallecano,9,RCD Espanyol,17,6,1,12432
+2216,Rayo Vallecano,14,RCD Espanyol,12,4,0,10953
+2217,Rayo Vallecano,9,RCD Espanyol,14,12,0,8900
+2218,Rayo Vallecano,10,RCD Espanyol,15,12,1,11289
+2219,Rayo Vallecano,9,RCD Espanyol,13,11,1,10464
+2220,Rayo Vallecano,14,Getafe CF,17,12,0,11911
+2221,Rayo Vallecano,15,Getafe CF,18,6,1,15105
+2222,Rayo Vallecano,15,Getafe CF,12,11,1,10948
+2223,Rayo Vallecano,9,Getafe CF,18,2,1,12684
+2224,Rayo Vallecano,13,Getafe CF,14,4,1,14811
+2225,Rayo Vallecano,13,Getafe CF,17,8,1,11821
+2226,Rayo Vallecano,14,Getafe CF,15,9,1,11816
+2227,Rayo Vallecano,14,Getafe CF,17,4,0,10055
+2228,Rayo Vallecano,15,Getafe CF,13,4,1,12286
+2229,Rayo Vallecano,11,Getafe CF,13,8,1,15105
+2230,Rayo Vallecano,9,RCD Mallorca,19,4,1,13518
+2231,Rayo Vallecano,13,RCD Mallorca,18,10,0,7521
+2232,Rayo Vallecano,12,RCD Mallorca,19,1,1,12610
+2233,Rayo Vallecano,15,RCD Mallorca,17,8,1,10929
+2234,Rayo Vallecano,12,RCD Mallorca,18,10,1,13889
+2235,Rayo Vallecano,12,RCD Mallorca,15,4,0,10701
+2236,Rayo Vallecano,14,RCD Mallorca,17,9,1,10636
+2237,Rayo Vallecano,15,RCD Mallorca,18,1,1,11080
+2238,Rayo Vallecano,12,RCD Mallorca,15,10,1,9405
+2239,Rayo Vallecano,12,RCD Mallorca,18,2,0,8846
+2240,Rayo Vallecano,12,Cádiz CF,16,1,1,12874
+2241,Rayo Vallecano,12,Cádiz CF,14,2,1,12870
+2242,Rayo Vallecano,12,Cádiz CF,14,2,1,12873
+2243,Rayo Vallecano,10,Cádiz CF,17,1,1,14892
+2244,Rayo Vallecano,13,Cádiz CF,18,6,1,13657
+2245,Rayo Vallecano,11,Cádiz CF,17,8,1,13126
+2246,Rayo Vallecano,13,Cádiz CF,17,10,0,8967
+2247,Rayo Vallecano,10,Cádiz CF,16,8,1,14305
+2248,Rayo Vallecano,12,Cádiz CF,18,11,0,8517
+2249,Rayo Vallecano,11,Cádiz CF,18,11,1,12135
+2250,Rayo Vallecano,14,UD Almería,19,12,1,10465
+2251,Rayo Vallecano,13,UD Almería,19,9,1,11653
+2252,Rayo Vallecano,9,UD Almería,16,9,1,11880
+2253,Rayo Vallecano,13,UD Almería,19,8,1,13848
+2254,Rayo Vallecano,9,UD Almería,17,3,0,10376
+2255,Rayo Vallecano,10,UD Almería,20,4,1,9268
+2256,Rayo Vallecano,10,UD Almería,16,10,1,14496
+2257,Rayo Vallecano,14,UD Almería,15,5,1,13543
+2258,Rayo Vallecano,9,UD Almería,17,4,1,11939
+2259,Rayo Vallecano,11,UD Almería,20,6,1,10594
+2260,Rayo Vallecano,13,Real Valladolid CF,20,2,1,11918
+2261,Rayo Vallecano,12,Real Valladolid CF,20,9,1,10125
+2262,Rayo Vallecano,10,Real Valladolid CF,20,10,1,9652
+2263,Rayo Vallecano,13,Real Valladolid CF,16,1,1,10563
+2264,Rayo Vallecano,11,Real Valladolid CF,18,8,1,15013
+2265,Rayo Vallecano,9,Real Valladolid CF,19,3,1,12430
+2266,Rayo Vallecano,14,Real Valladolid CF,19,2,1,12757
+2267,Rayo Vallecano,12,Real Valladolid CF,20,3,1,12518
+2268,Rayo Vallecano,10,Real Valladolid CF,19,11,1,12528
+2269,Rayo Vallecano,9,Real Valladolid CF,18,9,1,10548
+2270,Rayo Vallecano,10,Girona FC,17,10,0,7934
+2271,Rayo Vallecano,12,Girona FC,20,10,1,11216
+2272,Rayo Vallecano,14,Girona FC,17,10,1,12279
+2273,Rayo Vallecano,10,Girona FC,20,3,0,9939
+2274,Rayo Vallecano,14,Girona FC,20,1,1,10470
+2275,Rayo Vallecano,10,Girona FC,20,11,1,10541
+2276,Rayo Vallecano,14,Girona FC,20,12,1,8181
+2277,Rayo Vallecano,14,Girona FC,17,10,1,10685
+2278,Rayo Vallecano,15,Girona FC,20,1,1,9430
+2279,Rayo Vallecano,11,Girona FC,19,4,0,10439
+2280,Elche CF,16,Real Madrid CF,1,1,0,22875
+2281,Elche CF,16,Real Madrid CF,1,12,1,27609
+2282,Elche CF,14,Real Madrid CF,1,2,1,30351
+2283,Elche CF,10,Real Madrid CF,1,1,1,29237
+2284,Elche CF,16,Real Madrid CF,1,12,1,20726
+2285,Elche CF,12,Real Madrid CF,4,11,0,14553
+2286,Elche CF,14,Real Madrid CF,1,11,1,24882
+2287,Elche CF,14,Real Madrid CF,1,3,1,29395
+2288,Elche CF,13,Real Madrid CF,1,2,1,21533
+2289,Elche CF,12,Real Madrid CF,3,6,1,25526
+2290,Elche CF,13,FC Barcelona,1,6,0,22494
+2291,Elche CF,16,FC Barcelona,1,9,1,26544
+2292,Elche CF,12,FC Barcelona,3,1,1,27541
+2293,Elche CF,14,FC Barcelona,1,5,1,28724
+2294,Elche CF,14,FC Barcelona,4,3,1,30147
+2295,Elche CF,13,FC Barcelona,1,12,1,31186
+2296,Elche CF,14,FC Barcelona,4,4,0,24138
+2297,Elche CF,16,FC Barcelona,2,9,0,20954
+2298,Elche CF,14,FC Barcelona,3,12,1,28142
+2299,Elche CF,10,FC Barcelona,5,8,1,22985
+2300,Elche CF,16,Atlético de Madrid,6,3,0,18607
+2301,Elche CF,10,Atlético de Madrid,4,3,1,25498
+2302,Elche CF,16,Atlético de Madrid,3,10,1,22547
+2303,Elche CF,10,Atlético de Madrid,6,12,1,30542
+2304,Elche CF,10,Atlético de Madrid,4,8,1,26811
+2305,Elche CF,12,Atlético de Madrid,1,1,1,22382
+2306,Elche CF,15,Atlético de Madrid,6,10,1,28663
+2307,Elche CF,12,Atlético de Madrid,3,1,1,21940
+2308,Elche CF,11,Atlético de Madrid,1,2,1,30272
+2309,Elche CF,10,Atlético de Madrid,6,9,1,24111
+2310,Elche CF,12,Sevilla FC,5,6,1,28531
+2311,Elche CF,11,Sevilla FC,4,4,1,29958
+2312,Elche CF,14,Sevilla FC,1,6,1,30664
+2313,Elche CF,16,Sevilla FC,1,6,1,33732
+2314,Elche CF,11,Sevilla FC,1,3,1,25377
+2315,Elche CF,13,Sevilla FC,5,2,1,28021
+2316,Elche CF,16,Sevilla FC,3,4,1,30129
+2317,Elche CF,15,Sevilla FC,5,12,1,25047
+2318,Elche CF,13,Sevilla FC,4,5,1,30886
+2319,Elche CF,12,Sevilla FC,2,12,1,26483
+2320,Elche CF,16,Real Betis Balompié,3,1,1,30798
+2321,Elche CF,13,Real Betis Balompié,5,5,1,25063
+2322,Elche CF,10,Real Betis Balompié,2,11,1,29802
+2323,Elche CF,13,Real Betis Balompié,6,3,0,23901
+2324,Elche CF,12,Real Betis Balompié,2,5,1,33192
+2325,Elche CF,13,Real Betis Balompié,7,2,1,30933
+2326,Elche CF,14,Real Betis Balompié,5,9,0,20056
+2327,Elche CF,16,Real Betis Balompié,2,3,1,27511
+2328,Elche CF,16,Real Betis Balompié,6,11,0,15509
+2329,Elche CF,16,Real Betis Balompié,2,10,1,29343
+2330,Elche CF,12,Real Sociedad,4,1,1,23723
+2331,Elche CF,16,Real Sociedad,6,10,1,26360
+2332,Elche CF,16,Real Sociedad,4,5,1,32335
+2333,Elche CF,15,Real Sociedad,9,11,1,24577
+2334,Elche CF,12,Real Sociedad,6,3,0,23030
+2335,Elche CF,10,Real Sociedad,6,1,1,30828
+2336,Elche CF,14,Real Sociedad,5,8,1,30075
+2337,Elche CF,12,Real Sociedad,9,10,1,24316
+2338,Elche CF,14,Real Sociedad,3,6,0,19319
+2339,Elche CF,10,Real Sociedad,5,9,0,20294
+2340,Elche CF,16,Villarreal CF,7,9,1,23542
+2341,Elche CF,13,Villarreal CF,4,8,1,24120
+2342,Elche CF,12,Villarreal CF,4,10,1,25946
+2343,Elche CF,10,Villarreal CF,4,5,1,25595
+2344,Elche CF,14,Villarreal CF,10,2,1,25384
+2345,Elche CF,12,Villarreal CF,10,4,0,21465
+2346,Elche CF,10,Villarreal CF,9,3,1,27941
+2347,Elche CF,10,Villarreal CF,9,10,0,23023
+2348,Elche CF,16,Villarreal CF,10,11,1,27681
+2349,Elche CF,16,Villarreal CF,10,6,0,17259
+2350,Elche CF,16,Athletic Club,7,11,1,24913
+2351,Elche CF,14,Athletic Club,9,5,1,28820
+2352,Elche CF,11,Athletic Club,9,6,1,32052
+2353,Elche CF,10,Athletic Club,6,10,1,31065
+2354,Elche CF,13,Athletic Club,9,5,1,22230
+2355,Elche CF,13,Athletic Club,10,3,1,24805
+2356,Elche CF,12,Athletic Club,7,3,0,14961
+2357,Elche CF,16,Athletic Club,5,11,0,20039
+2358,Elche CF,16,Athletic Club,11,1,1,22510
+2359,Elche CF,11,Athletic Club,8,9,1,26108
+2360,Elche CF,10,Valencia CF,11,9,1,28783
+2361,Elche CF,10,Valencia CF,7,2,0,23038
+2362,Elche CF,14,Valencia CF,6,5,1,25788
+2363,Elche CF,12,Valencia CF,6,3,1,29226
+2364,Elche CF,12,Valencia CF,8,6,1,31317
+2365,Elche CF,10,Valencia CF,11,10,1,27146
+2366,Elche CF,12,Valencia CF,10,3,1,28167
+2367,Elche CF,11,Valencia CF,9,2,0,16325
+2368,Elche CF,11,Valencia CF,12,4,0,22113
+2369,Elche CF,14,Valencia CF,11,12,1,24563
+2370,Elche CF,14,CA Osasuna,13,3,0,17115
+2371,Elche CF,15,CA Osasuna,9,10,0,15433
+2372,Elche CF,11,CA Osasuna,13,4,0,25345
+2373,Elche CF,10,CA Osasuna,7,11,1,26741
+2374,Elche CF,16,CA Osasuna,11,6,0,23289
+2375,Elche CF,15,CA Osasuna,7,6,1,21865
+2376,Elche CF,14,CA Osasuna,8,12,1,28554
+2377,Elche CF,10,CA Osasuna,11,4,1,23293
+2378,Elche CF,11,CA Osasuna,9,8,1,17297
+2379,Elche CF,11,CA Osasuna,12,5,1,29044
+2380,Elche CF,12,RC Celta de Vigo,14,8,0,13299
+2381,Elche CF,12,RC Celta de Vigo,13,8,1,26530
+2382,Elche CF,13,RC Celta de Vigo,9,4,1,25518
+2383,Elche CF,16,RC Celta de Vigo,10,3,1,25661
+2384,Elche CF,11,RC Celta de Vigo,13,6,1,23298
+2385,Elche CF,12,RC Celta de Vigo,8,4,0,11843
+2386,Elche CF,12,RC Celta de Vigo,10,11,1,28871
+2387,Elche CF,10,RC Celta de Vigo,8,4,1,29647
+2388,Elche CF,10,RC Celta de Vigo,14,8,1,25249
+2389,Elche CF,10,RC Celta de Vigo,14,2,0,18992
+2390,Elche CF,15,Rayo Vallecano,10,11,1,23455
+2391,Elche CF,12,Rayo Vallecano,9,8,1,24884
+2392,Elche CF,15,Rayo Vallecano,11,3,1,21161
+2393,Elche CF,16,Rayo Vallecano,12,4,0,23419
+2394,Elche CF,14,Rayo Vallecano,11,8,1,23523
+2395,Elche CF,12,Rayo Vallecano,10,10,0,14484
+2396,Elche CF,14,Rayo Vallecano,12,3,1,33732
+2397,Elche CF,14,Rayo Vallecano,12,6,0,16603
+2398,Elche CF,14,Rayo Vallecano,12,8,1,23551
+2399,Elche CF,14,Rayo Vallecano,12,9,0,8241
+2400,Elche CF,14,RCD Espanyol,17,5,1,22693
+2401,Elche CF,10,RCD Espanyol,17,10,0,21906
+2402,Elche CF,15,RCD Espanyol,11,4,1,27962
+2403,Elche CF,15,RCD Espanyol,12,2,1,26598
+2404,Elche CF,13,RCD Espanyol,16,11,1,25439
+2405,Elche CF,11,RCD Espanyol,13,12,1,22151
+2406,Elche CF,16,RCD Espanyol,12,2,1,18248
+2407,Elche CF,14,RCD Espanyol,17,6,1,21886
+2408,Elche CF,14,RCD Espanyol,16,10,1,31144
+2409,Elche CF,10,RCD Espanyol,14,5,1,22635
+2410,Elche CF,13,Getafe CF,14,8,0,15166
+2411,Elche CF,11,Getafe CF,18,3,1,27427
+2412,Elche CF,12,Getafe CF,18,4,1,26683
+2413,Elche CF,10,Getafe CF,12,12,0,19975
+2414,Elche CF,10,Getafe CF,18,6,1,24190
+2415,Elche CF,15,Getafe CF,17,10,1,21337
+2416,Elche CF,11,Getafe CF,15,9,1,25588
+2417,Elche CF,12,Getafe CF,17,10,0,13172
+2418,Elche CF,11,Getafe CF,17,9,1,22970
+2419,Elche CF,15,Getafe CF,17,11,1,23579
+2420,Elche CF,14,RCD Mallorca,16,11,1,22061
+2421,Elche CF,16,RCD Mallorca,19,1,1,17799
+2422,Elche CF,15,RCD Mallorca,13,12,1,22325
+2423,Elche CF,12,RCD Mallorca,16,1,1,23567
+2424,Elche CF,11,RCD Mallorca,17,1,1,25000
+2425,Elche CF,12,RCD Mallorca,13,8,1,23697
+2426,Elche CF,15,RCD Mallorca,13,12,0,8498
+2427,Elche CF,10,RCD Mallorca,15,8,1,29732
+2428,Elche CF,11,RCD Mallorca,15,6,1,29286
+2429,Elche CF,14,RCD Mallorca,17,11,1,21316
+2430,Elche CF,14,Cádiz CF,15,4,1,22374
+2431,Elche CF,13,Cádiz CF,15,9,1,28496
+2432,Elche CF,15,Cádiz CF,19,4,1,21765
+2433,Elche CF,13,Cádiz CF,16,3,0,20733
+2434,Elche CF,16,Cádiz CF,15,9,1,17568
+2435,Elche CF,15,Cádiz CF,20,2,1,20985
+2436,Elche CF,13,Cádiz CF,18,8,1,25930
+2437,Elche CF,11,Cádiz CF,16,3,0,20993
+2438,Elche CF,12,Cádiz CF,19,8,1,19874
+2439,Elche CF,15,Cádiz CF,18,11,1,21860
+2440,Elche CF,11,UD Almería,15,4,1,24965
+2441,Elche CF,16,UD Almería,20,3,0,21400
+2442,Elche CF,12,UD Almería,17,2,1,21003
+2443,Elche CF,10,UD Almería,15,3,0,20157
+2444,Elche CF,14,UD Almería,17,11,1,27845
+2445,Elche CF,15,UD Almería,18,1,1,24505
+2446,Elche CF,16,UD Almería,19,12,0,14131
+2447,Elche CF,14,UD Almería,16,12,1,26398
+2448,Elche CF,16,UD Almería,20,11,0,14674
+2449,Elche CF,10,UD Almería,19,2,0,16947
+2450,Elche CF,11,Real Valladolid CF,20,5,1,26656
+2451,Elche CF,15,Real Valladolid CF,20,9,0,14172
+2452,Elche CF,15,Real Valladolid CF,18,6,1,22952
+2453,Elche CF,11,Real Valladolid CF,19,10,1,24620
+2454,Elche CF,13,Real Valladolid CF,20,5,0,21505
+2455,Elche CF,16,Real Valladolid CF,18,9,1,24821
+2456,Elche CF,15,Real Valladolid CF,18,12,1,24815
+2457,Elche CF,14,Real Valladolid CF,19,4,1,21204
+2458,Elche CF,16,Real Valladolid CF,20,4,0,18586
+2459,Elche CF,13,Real Valladolid CF,20,5,0,15906
+2460,Elche CF,11,Girona FC,17,5,1,23526
+2461,Elche CF,12,Girona FC,19,2,1,25257
+2462,Elche CF,13,Girona FC,20,10,1,22722
+2463,Elche CF,15,Girona FC,20,2,1,27121
+2464,Elche CF,15,Girona FC,20,11,1,23429
+2465,Elche CF,10,Girona FC,17,6,1,22594
+2466,Elche CF,11,Girona FC,19,8,1,27514
+2467,Elche CF,13,Girona FC,20,2,0,14502
+2468,Elche CF,14,Girona FC,19,10,1,20066
+2469,Elche CF,10,Girona FC,17,3,1,20564
+2470,RCD Espanyol,14,Real Madrid CF,1,11,1,29692
+2471,RCD Espanyol,11,Real Madrid CF,1,11,1,35885
+2472,RCD Espanyol,17,Real Madrid CF,1,10,0,23617
+2473,RCD Espanyol,17,Real Madrid CF,2,8,0,24491
+2474,RCD Espanyol,11,Real Madrid CF,3,2,1,31787
+2475,RCD Espanyol,17,Real Madrid CF,1,10,1,24775
+2476,RCD Espanyol,16,Real Madrid CF,1,9,0,24684
+2477,RCD Espanyol,12,Real Madrid CF,2,8,0,27437
+2478,RCD Espanyol,16,Real Madrid CF,1,8,1,29274
+2479,RCD Espanyol,17,Real Madrid CF,4,12,0,18616
+2480,RCD Espanyol,15,FC Barcelona,1,2,1,28881
+2481,RCD Espanyol,16,FC Barcelona,5,1,1,29217
+2482,RCD Espanyol,17,FC Barcelona,1,2,0,16788
+2483,RCD Espanyol,12,FC Barcelona,5,5,0,35271
+2484,RCD Espanyol,13,FC Barcelona,5,11,1,21053
+2485,RCD Espanyol,17,FC Barcelona,2,11,0,19211
+2486,RCD Espanyol,14,FC Barcelona,4,8,1,21178
+2487,RCD Espanyol,14,FC Barcelona,5,3,1,25574
+2488,RCD Espanyol,14,FC Barcelona,1,6,1,28986
+2489,RCD Espanyol,17,FC Barcelona,1,11,1,27965
+2490,RCD Espanyol,12,Atlético de Madrid,3,6,0,26526
+2491,RCD Espanyol,14,Atlético de Madrid,4,5,1,25102
+2492,RCD Espanyol,16,Atlético de Madrid,4,9,1,29769
+2493,RCD Espanyol,15,Atlético de Madrid,1,1,1,38194
+2494,RCD Espanyol,17,Atlético de Madrid,1,8,0,15555
+2495,RCD Espanyol,12,Atlético de Madrid,2,12,0,26669
+2496,RCD Espanyol,13,Atlético de Madrid,4,2,1,40014
+2497,RCD Espanyol,16,Atlético de Madrid,6,10,0,22068
+2498,RCD Espanyol,12,Atlético de Madrid,6,2,1,34424
+2499,RCD Espanyol,11,Atlético de Madrid,1,12,1,31653
+2500,RCD Espanyol,17,Sevilla FC,7,9,1,29236
+2501,RCD Espanyol,15,Sevilla FC,3,5,1,37821
+2502,RCD Espanyol,12,Sevilla FC,4,2,1,31023
+2503,RCD Espanyol,14,Sevilla FC,7,12,1,31580
+2504,RCD Espanyol,16,Sevilla FC,6,11,1,29404
+2505,RCD Espanyol,16,Sevilla FC,1,4,0,25453
+2506,RCD Espanyol,16,Sevilla FC,2,5,1,32647
+2507,RCD Espanyol,11,Sevilla FC,3,8,1,29284
+2508,RCD Espanyol,12,Sevilla FC,1,1,1,27106
+2509,RCD Espanyol,13,Sevilla FC,5,10,1,31500
+2510,RCD Espanyol,17,Real Betis Balompié,2,1,0,22305
+2511,RCD Espanyol,11,Real Betis Balompié,5,4,1,27284
+2512,RCD Espanyol,16,Real Betis Balompié,2,5,0,26594
+2513,RCD Espanyol,15,Real Betis Balompié,6,9,1,27948
+2514,RCD Espanyol,17,Real Betis Balompié,2,4,1,29738
+2515,RCD Espanyol,13,Real Betis Balompié,5,6,1,24653
+2516,RCD Espanyol,15,Real Betis Balompié,4,4,0,24231
+2517,RCD Espanyol,12,Real Betis Balompié,6,2,0,23399
+2518,RCD Espanyol,12,Real Betis Balompié,7,12,1,31338
+2519,RCD Espanyol,13,Real Betis Balompié,7,1,1,28352
+2520,RCD Espanyol,15,Real Sociedad,6,11,1,26623
+2521,RCD Espanyol,13,Real Sociedad,7,1,0,22633
+2522,RCD Espanyol,16,Real Sociedad,4,1,0,21767
+2523,RCD Espanyol,13,Real Sociedad,3,12,1,25848
+2524,RCD Espanyol,13,Real Sociedad,9,4,1,28433
+2525,RCD Espanyol,17,Real Sociedad,4,2,0,28434
+2526,RCD Espanyol,13,Real Sociedad,9,2,1,30019
+2527,RCD Espanyol,16,Real Sociedad,4,8,1,25935
+2528,RCD Espanyol,12,Real Sociedad,6,5,1,32700
+2529,RCD Espanyol,15,Real Sociedad,4,3,1,31920
+2530,RCD Espanyol,17,Villarreal CF,8,1,0,25148
+2531,RCD Espanyol,14,Villarreal CF,7,3,1,31952
+2532,RCD Espanyol,17,Villarreal CF,6,3,1,31021
+2533,RCD Espanyol,14,Villarreal CF,5,2,1,31578
+2534,RCD Espanyol,15,Villarreal CF,4,12,1,25810
+2535,RCD Espanyol,13,Villarreal CF,5,5,1,32311
+2536,RCD Espanyol,11,Villarreal CF,8,3,0,25881
+2537,RCD Espanyol,13,Villarreal CF,8,1,1,25562
+2538,RCD Espanyol,14,Villarreal CF,5,8,1,29858
+2539,RCD Espanyol,13,Villarreal CF,9,9,1,24718
+2540,RCD Espanyol,12,Athletic Club,9,10,1,31718
+2541,RCD Espanyol,11,Athletic Club,5,9,0,22576
+2542,RCD Espanyol,11,Athletic Club,6,2,1,29605
+2543,RCD Espanyol,13,Athletic Club,11,2,1,24281
+2544,RCD Espanyol,13,Athletic Club,8,9,1,29264
+2545,RCD Espanyol,11,Athletic Club,7,9,1,25616
+2546,RCD Espanyol,11,Athletic Club,7,10,1,30130
+2547,RCD Espanyol,16,Athletic Club,11,5,1,38030
+2548,RCD Espanyol,14,Athletic Club,11,2,1,33887
+2549,RCD Espanyol,13,Athletic Club,8,3,1,27115
+2550,RCD Espanyol,15,Valencia CF,6,10,0,29246
+2551,RCD Espanyol,14,Valencia CF,10,6,1,18958
+2552,RCD Espanyol,15,Valencia CF,8,4,1,33030
+2553,RCD Espanyol,16,Valencia CF,8,1,1,35181
+2554,RCD Espanyol,15,Valencia CF,10,5,1,35608
+2555,RCD Espanyol,12,Valencia CF,9,10,0,31705
+2556,RCD Espanyol,17,Valencia CF,6,9,1,30719
+2557,RCD Espanyol,12,Valencia CF,10,12,1,29385
+2558,RCD Espanyol,11,Valencia CF,12,11,1,30959
+2559,RCD Espanyol,13,Valencia CF,10,5,1,27086
+2560,RCD Espanyol,13,CA Osasuna,10,5,0,19666
+2561,RCD Espanyol,15,CA Osasuna,13,3,1,33104
+2562,RCD Espanyol,12,CA Osasuna,9,8,0,24738
+2563,RCD Espanyol,12,CA Osasuna,10,5,1,33816
+2564,RCD Espanyol,14,CA Osasuna,13,2,1,28218
+2565,RCD Espanyol,12,CA Osasuna,11,8,1,34918
+2566,RCD Espanyol,16,CA Osasuna,8,6,1,32259
+2567,RCD Espanyol,15,CA Osasuna,8,4,1,31345
+2568,RCD Espanyol,15,CA Osasuna,12,12,1,28884
+2569,RCD Espanyol,15,CA Osasuna,11,11,1,27003
+2570,RCD Espanyol,14,RC Celta de Vigo,13,1,1,29387
+2571,RCD Espanyol,17,RC Celta de Vigo,10,11,1,21819
+2572,RCD Espanyol,13,RC Celta de Vigo,10,3,1,21952
+2573,RCD Espanyol,17,RC Celta de Vigo,9,11,1,23174
+2574,RCD Espanyol,15,RC Celta de Vigo,10,8,1,20513
+2575,RCD Espanyol,17,RC Celta de Vigo,9,4,1,34620
+2576,RCD Espanyol,17,RC Celta de Vigo,14,2,1,26695
+2577,RCD Espanyol,11,RC Celta de Vigo,13,6,1,33464
+2578,RCD Espanyol,12,RC Celta de Vigo,13,10,1,31033
+2579,RCD Espanyol,14,RC Celta de Vigo,13,10,1,21739
+2580,RCD Espanyol,17,Rayo Vallecano,15,11,1,31333
+2581,RCD Espanyol,16,Rayo Vallecano,11,9,1,25257
+2582,RCD Espanyol,12,Rayo Vallecano,13,12,1,34563
+2583,RCD Espanyol,13,Rayo Vallecano,9,8,1,22753
+2584,RCD Espanyol,12,Rayo Vallecano,13,6,1,23244
+2585,RCD Espanyol,13,Rayo Vallecano,11,12,1,26852
+2586,RCD Espanyol,11,Rayo Vallecano,9,9,1,33590
+2587,RCD Espanyol,17,Rayo Vallecano,13,9,1,23308
+2588,RCD Espanyol,13,Rayo Vallecano,10,2,1,25547
+2589,RCD Espanyol,17,Rayo Vallecano,12,11,1,25996
+2590,RCD Espanyol,11,Elche CF,16,6,1,22803
+2591,RCD Espanyol,13,Elche CF,11,5,1,35108
+2592,RCD Espanyol,14,Elche CF,11,6,1,40272
+2593,RCD Espanyol,11,Elche CF,10,10,1,26916
+2594,RCD Espanyol,11,Elche CF,13,3,1,26925
+2595,RCD Espanyol,14,Elche CF,16,4,0,21775
+2596,RCD Espanyol,12,Elche CF,13,5,1,30971
+2597,RCD Espanyol,12,Elche CF,11,11,1,28759
+2598,RCD Espanyol,11,Elche CF,13,11,1,29586
+2599,RCD Espanyol,12,Elche CF,11,9,1,30724
+2600,RCD Espanyol,12,Getafe CF,18,12,0,19921
+2601,RCD Espanyol,13,Getafe CF,12,4,1,22855
+2602,RCD Espanyol,11,Getafe CF,12,6,0,17529
+2603,RCD Espanyol,16,Getafe CF,14,9,1,26751
+2604,RCD Espanyol,13,Getafe CF,12,3,0,19948
+2605,RCD Espanyol,13,Getafe CF,17,11,1,28471
+2606,RCD Espanyol,16,Getafe CF,13,4,1,25919
+2607,RCD Espanyol,15,Getafe CF,16,6,1,29866
+2608,RCD Espanyol,12,Getafe CF,15,10,0,19501
+2609,RCD Espanyol,17,Getafe CF,12,9,0,22393
+2610,RCD Espanyol,12,RCD Mallorca,17,4,1,25734
+2611,RCD Espanyol,16,RCD Mallorca,13,9,1,32577
+2612,RCD Espanyol,13,RCD Mallorca,14,8,1,28385
+2613,RCD Espanyol,15,RCD Mallorca,18,1,1,23387
+2614,RCD Espanyol,17,RCD Mallorca,14,6,1,21828
+2615,RCD Espanyol,17,RCD Mallorca,15,9,0,21002
+2616,RCD Espanyol,14,RCD Mallorca,16,6,1,26425
+2617,RCD Espanyol,13,RCD Mallorca,19,3,1,33026
+2618,RCD Espanyol,11,RCD Mallorca,14,9,1,27839
+2619,RCD Espanyol,17,RCD Mallorca,13,6,0,19974
+2620,RCD Espanyol,14,Cádiz CF,15,6,1,31907
+2621,RCD Espanyol,14,Cádiz CF,16,9,1,24952
+2622,RCD Espanyol,13,Cádiz CF,15,9,1,28547
+2623,RCD Espanyol,17,Cádiz CF,15,9,1,23191
+2624,RCD Espanyol,14,Cádiz CF,19,6,1,22555
+2625,RCD Espanyol,17,Cádiz CF,18,3,1,22949
+2626,RCD Espanyol,16,Cádiz CF,15,10,0,22039
+2627,RCD Espanyol,16,Cádiz CF,18,8,1,31003
+2628,RCD Espanyol,13,Cádiz CF,15,9,1,22012
+2629,RCD Espanyol,16,Cádiz CF,19,5,1,28340
+2630,RCD Espanyol,12,UD Almería,19,12,1,17162
+2631,RCD Espanyol,17,UD Almería,19,4,1,19221
+2632,RCD Espanyol,16,UD Almería,20,6,0,12090
+2633,RCD Espanyol,16,UD Almería,18,12,1,27021
+2634,RCD Espanyol,14,UD Almería,17,5,0,21550
+2635,RCD Espanyol,13,UD Almería,16,5,0,13427
+2636,RCD Espanyol,11,UD Almería,17,5,1,31764
+2637,RCD Espanyol,15,UD Almería,20,4,1,31449
+2638,RCD Espanyol,13,UD Almería,19,6,1,23775
+2639,RCD Espanyol,11,UD Almería,18,11,1,20842
+2640,RCD Espanyol,13,Real Valladolid CF,17,12,0,20611
+2641,RCD Espanyol,13,Real Valladolid CF,20,8,1,28359
+2642,RCD Espanyol,13,Real Valladolid CF,20,6,0,18834
+2643,RCD Espanyol,14,Real Valladolid CF,18,10,1,28839
+2644,RCD Espanyol,13,Real Valladolid CF,20,1,1,31768
+2645,RCD Espanyol,11,Real Valladolid CF,20,11,1,25124
+2646,RCD Espanyol,13,Real Valladolid CF,20,2,0,28419
+2647,RCD Espanyol,11,Real Valladolid CF,19,6,1,25215
+2648,RCD Espanyol,17,Real Valladolid CF,16,1,0,20438
+2649,RCD Espanyol,12,Real Valladolid CF,16,9,1,28464
+2650,RCD Espanyol,15,Girona FC,20,9,0,14236
+2651,RCD Espanyol,14,Girona FC,20,4,1,28668
+2652,RCD Espanyol,13,Girona FC,18,2,1,23634
+2653,RCD Espanyol,13,Girona FC,20,4,1,28788
+2654,RCD Espanyol,17,Girona FC,20,10,1,23668
+2655,RCD Espanyol,11,Girona FC,20,10,0,10455
+2656,RCD Espanyol,12,Girona FC,19,8,0,20850
+2657,RCD Espanyol,15,Girona FC,20,6,1,22040
+2658,RCD Espanyol,12,Girona FC,20,8,1,31065
+2659,RCD Espanyol,16,Girona FC,20,2,0,15660
+2660,Getafe CF,13,Real Madrid CF,1,8,0,12839
+2661,Getafe CF,16,Real Madrid CF,2,3,1,16800
+2662,Getafe CF,15,Real Madrid CF,1,5,1,14870
+2663,Getafe CF,12,Real Madrid CF,1,10,0,13647
+2664,Getafe CF,13,Real Madrid CF,2,10,1,16800
+2665,Getafe CF,14,Real Madrid CF,4,2,1,14592
+2666,Getafe CF,12,Real Madrid CF,3,3,1,16231
+2667,Getafe CF,18,Real Madrid CF,1,3,1,13656
+2668,Getafe CF,14,Real Madrid CF,1,4,0,11076
+2669,Getafe CF,15,Real Madrid CF,3,5,1,15598
+2670,Getafe CF,16,FC Barcelona,2,1,1,15307
+2671,Getafe CF,16,FC Barcelona,5,12,1,12756
+2672,Getafe CF,12,FC Barcelona,5,4,1,12903
+2673,Getafe CF,17,FC Barcelona,5,11,1,13557
+2674,Getafe CF,12,FC Barcelona,3,1,1,16800
+2675,Getafe CF,13,FC Barcelona,2,4,0,11115
+2676,Getafe CF,16,FC Barcelona,5,8,1,10867
+2677,Getafe CF,13,FC Barcelona,4,12,1,16800
+2678,Getafe CF,14,FC Barcelona,3,10,1,14494
+2679,Getafe CF,18,FC Barcelona,1,8,0,9481
+2680,Getafe CF,14,Atlético de Madrid,6,4,1,16800
+2681,Getafe CF,17,Atlético de Madrid,1,12,1,14125
+2682,Getafe CF,16,Atlético de Madrid,5,9,1,15288
+2683,Getafe CF,16,Atlético de Madrid,1,10,0,10051
+2684,Getafe CF,17,Atlético de Madrid,6,10,1,12164
+2685,Getafe CF,17,Atlético de Madrid,2,9,1,15130
+2686,Getafe CF,18,Atlético de Madrid,6,1,1,14157
+2687,Getafe CF,14,Atlético de Madrid,6,8,0,10652
+2688,Getafe CF,13,Atlético de Madrid,6,5,1,16349
+2689,Getafe CF,13,Atlético de Madrid,5,5,0,8600
+2690,Getafe CF,12,Sevilla FC,4,2,0,12753
+2691,Getafe CF,15,Sevilla FC,1,10,1,14462
+2692,Getafe CF,17,Sevilla FC,7,12,0,12563
+2693,Getafe CF,12,Sevilla FC,1,2,1,16800
+2694,Getafe CF,13,Sevilla FC,2,4,1,13312
+2695,Getafe CF,15,Sevilla FC,5,3,0,10936
+2696,Getafe CF,13,Sevilla FC,2,5,1,15891
+2697,Getafe CF,18,Sevilla FC,7,3,1,13728
+2698,Getafe CF,18,Sevilla FC,7,12,0,11330
+2699,Getafe CF,13,Sevilla FC,4,5,1,15820
+2700,Getafe CF,18,Real Betis Balompié,8,6,1,15739
+2701,Getafe CF,12,Real Betis Balompié,8,10,0,10034
+2702,Getafe CF,12,Real Betis Balompié,6,12,1,12923
+2703,Getafe CF,18,Real Betis Balompié,4,1,1,12106
+2704,Getafe CF,15,Real Betis Balompié,5,5,0,8642
+2705,Getafe CF,12,Real Betis Balompié,6,10,1,15600
+2706,Getafe CF,15,Real Betis Balompié,5,10,1,11733
+2707,Getafe CF,18,Real Betis Balompié,2,3,1,16741
+2708,Getafe CF,14,Real Betis Balompié,4,12,1,13702
+2709,Getafe CF,12,Real Betis Balompié,7,8,1,15730
+2710,Getafe CF,18,Real Sociedad,8,5,1,14562
+2711,Getafe CF,15,Real Sociedad,4,2,0,10735
+2712,Getafe CF,16,Real Sociedad,3,12,0,12155
+2713,Getafe CF,15,Real Sociedad,7,10,1,11782
+2714,Getafe CF,16,Real Sociedad,8,1,1,15078
+2715,Getafe CF,16,Real Sociedad,6,6,1,13025
+2716,Getafe CF,17,Real Sociedad,3,5,1,14562
+2717,Getafe CF,17,Real Sociedad,6,6,1,12729
+2718,Getafe CF,18,Real Sociedad,6,1,1,10620
+2719,Getafe CF,18,Real Sociedad,8,9,1,14051
+2720,Getafe CF,18,Villarreal CF,7,4,0,12622
+2721,Getafe CF,18,Villarreal CF,4,4,0,11982
+2722,Getafe CF,16,Villarreal CF,9,8,1,16262
+2723,Getafe CF,12,Villarreal CF,6,12,1,15189
+2724,Getafe CF,14,Villarreal CF,8,5,1,14632
+2725,Getafe CF,16,Villarreal CF,6,9,0,7674
+2726,Getafe CF,14,Villarreal CF,10,6,1,11683
+2727,Getafe CF,17,Villarreal CF,10,2,0,9069
+2728,Getafe CF,14,Villarreal CF,6,8,1,14802
+2729,Getafe CF,16,Villarreal CF,4,9,0,11763
+2730,Getafe CF,18,Athletic Club,7,4,1,14829
+2731,Getafe CF,12,Athletic Club,8,8,1,14606
+2732,Getafe CF,15,Athletic Club,10,9,1,12673
+2733,Getafe CF,17,Athletic Club,8,3,1,12027
+2734,Getafe CF,12,Athletic Club,6,9,1,12515
+2735,Getafe CF,13,Athletic Club,11,4,1,13937
+2736,Getafe CF,13,Athletic Club,6,11,1,12451
+2737,Getafe CF,14,Athletic Club,9,11,0,7262
+2738,Getafe CF,17,Athletic Club,11,10,1,12740
+2739,Getafe CF,18,Athletic Club,10,12,0,14200
+2740,Getafe CF,13,Valencia CF,7,4,1,13577
+2741,Getafe CF,18,Valencia CF,7,4,1,15904
+2742,Getafe CF,16,Valencia CF,9,9,1,14786
+2743,Getafe CF,14,Valencia CF,11,11,1,13738
+2744,Getafe CF,18,Valencia CF,8,11,1,10035
+2745,Getafe CF,16,Valencia CF,6,10,1,13583
+2746,Getafe CF,14,Valencia CF,11,4,0,10018
+2747,Getafe CF,14,Valencia CF,6,3,1,16632
+2748,Getafe CF,13,Valencia CF,9,12,1,11378
+2749,Getafe CF,17,Valencia CF,7,9,1,16574
+2750,Getafe CF,16,CA Osasuna,11,8,1,13107
+2751,Getafe CF,16,CA Osasuna,13,3,1,16800
+2752,Getafe CF,18,CA Osasuna,8,5,1,14781
+2753,Getafe CF,17,CA Osasuna,13,2,1,9554
+2754,Getafe CF,18,CA Osasuna,8,1,1,14891
+2755,Getafe CF,18,CA Osasuna,8,1,0,9199
+2756,Getafe CF,14,CA Osasuna,11,5,1,15351
+2757,Getafe CF,18,CA Osasuna,7,3,1,13578
+2758,Getafe CF,13,CA Osasuna,7,2,1,12733
+2759,Getafe CF,16,CA Osasuna,7,3,1,15153
+2760,Getafe CF,18,RC Celta de Vigo,9,9,1,11558
+2761,Getafe CF,15,RC Celta de Vigo,9,5,1,13435
+2762,Getafe CF,16,RC Celta de Vigo,12,5,1,12137
+2763,Getafe CF,17,RC Celta de Vigo,8,11,1,15019
+2764,Getafe CF,16,RC Celta de Vigo,10,4,1,11766
+2765,Getafe CF,15,RC Celta de Vigo,14,10,1,10816
+2766,Getafe CF,12,RC Celta de Vigo,14,6,1,13883
+2767,Getafe CF,14,RC Celta de Vigo,12,6,1,12119
+2768,Getafe CF,14,RC Celta de Vigo,8,6,1,16719
+2769,Getafe CF,17,RC Celta de Vigo,8,10,1,13294
+2770,Getafe CF,18,Rayo Vallecano,14,10,0,11343
+2771,Getafe CF,16,Rayo Vallecano,10,8,0,11263
+2772,Getafe CF,15,Rayo Vallecano,14,11,1,12478
+2773,Getafe CF,13,Rayo Vallecano,11,10,1,16188
+2774,Getafe CF,15,Rayo Vallecano,13,11,1,13093
+2775,Getafe CF,16,Rayo Vallecano,12,1,1,12655
+2776,Getafe CF,17,Rayo Vallecano,13,12,1,12830
+2777,Getafe CF,17,Rayo Vallecano,12,8,1,16093
+2778,Getafe CF,14,Rayo Vallecano,11,9,0,11422
+2779,Getafe CF,15,Rayo Vallecano,10,8,1,11678
+2780,Getafe CF,12,Elche CF,15,2,1,12329
+2781,Getafe CF,18,Elche CF,11,1,0,8541
+2782,Getafe CF,12,Elche CF,14,12,1,12791
+2783,Getafe CF,17,Elche CF,14,8,0,7538
+2784,Getafe CF,14,Elche CF,12,10,1,14631
+2785,Getafe CF,16,Elche CF,14,5,1,12059
+2786,Getafe CF,12,Elche CF,16,12,1,8944
+2787,Getafe CF,15,Elche CF,12,6,1,15525
+2788,Getafe CF,17,Elche CF,14,2,1,14594
+2789,Getafe CF,16,Elche CF,14,11,1,12529
+2790,Getafe CF,16,RCD Espanyol,17,6,1,9838
+2791,Getafe CF,14,RCD Espanyol,15,6,1,13112
+2792,Getafe CF,17,RCD Espanyol,11,9,0,9446
+2793,Getafe CF,16,RCD Espanyol,12,2,1,13190
+2794,Getafe CF,12,RCD Espanyol,13,12,1,11225
+2795,Getafe CF,15,RCD Espanyol,11,5,1,12488
+2796,Getafe CF,13,RCD Espanyol,17,4,1,16390
+2797,Getafe CF,17,RCD Espanyol,14,5,1,13977
+2798,Getafe CF,14,RCD Espanyol,13,6,1,10911
+2799,Getafe CF,15,RCD Espanyol,12,5,1,13977
+2800,Getafe CF,12,RCD Mallorca,14,4,1,14874
+2801,Getafe CF,16,RCD Mallorca,15,2,1,14204
+2802,Getafe CF,13,RCD Mallorca,19,10,0,12354
+2803,Getafe CF,13,RCD Mallorca,19,3,0,8824
+2804,Getafe CF,15,RCD Mallorca,16,2,1,12546
+2805,Getafe CF,17,RCD Mallorca,18,9,1,10700
+2806,Getafe CF,18,RCD Mallorca,19,6,1,10730
+2807,Getafe CF,14,RCD Mallorca,15,8,1,11056
+2808,Getafe CF,13,RCD Mallorca,19,5,1,11374
+2809,Getafe CF,12,RCD Mallorca,15,6,1,13160
+2810,Getafe CF,14,Cádiz CF,17,6,1,10477
+2811,Getafe CF,14,Cádiz CF,16,8,1,10183
+2812,Getafe CF,17,Cádiz CF,14,1,1,12049
+2813,Getafe CF,17,Cádiz CF,18,6,1,11317
+2814,Getafe CF,17,Cádiz CF,18,9,1,12297
+2815,Getafe CF,14,Cádiz CF,17,5,0,9275
+2816,Getafe CF,17,Cádiz CF,16,4,1,13661
+2817,Getafe CF,17,Cádiz CF,14,2,0,8214
+2818,Getafe CF,18,Cádiz CF,20,9,0,10868
+2819,Getafe CF,12,Cádiz CF,18,12,1,11049
+2820,Getafe CF,18,UD Almería,16,12,1,8971
+2821,Getafe CF,18,UD Almería,15,4,1,12201
+2822,Getafe CF,12,UD Almería,20,4,1,13669
+2823,Getafe CF,15,UD Almería,20,8,1,10050
+2824,Getafe CF,12,UD Almería,18,9,1,11980
+2825,Getafe CF,12,UD Almería,20,1,1,12789
+2826,Getafe CF,16,UD Almería,17,12,1,13921
+2827,Getafe CF,14,UD Almería,20,3,1,14776
+2828,Getafe CF,17,UD Almería,16,12,1,13107
+2829,Getafe CF,13,UD Almería,20,1,1,11822
+2830,Getafe CF,13,Real Valladolid CF,20,3,1,14184
+2831,Getafe CF,15,Real Valladolid CF,17,12,1,10321
+2832,Getafe CF,14,Real Valladolid CF,19,11,1,13854
+2833,Getafe CF,12,Real Valladolid CF,17,4,1,13375
+2834,Getafe CF,16,Real Valladolid CF,20,6,1,13302
+2835,Getafe CF,14,Real Valladolid CF,17,4,0,11254
+2836,Getafe CF,17,Real Valladolid CF,16,11,1,12924
+2837,Getafe CF,18,Real Valladolid CF,17,3,1,13322
+2838,Getafe CF,18,Real Valladolid CF,20,10,1,13748
+2839,Getafe CF,13,Real Valladolid CF,20,10,1,11366
+2840,Getafe CF,18,Girona FC,20,11,1,14185
+2841,Getafe CF,17,Girona FC,20,9,1,12116
+2842,Getafe CF,14,Girona FC,20,8,1,12682
+2843,Getafe CF,14,Girona FC,19,11,1,14352
+2844,Getafe CF,16,Girona FC,17,2,0,8670
+2845,Getafe CF,14,Girona FC,19,10,1,14525
+2846,Getafe CF,13,Girona FC,20,6,1,11398
+2847,Getafe CF,14,Girona FC,17,9,0,10122
+2848,Getafe CF,13,Girona FC,19,8,1,16213
+2849,Getafe CF,12,Girona FC,18,8,1,13363
+2850,RCD Mallorca,17,Real Madrid CF,4,5,1,16663
+2851,RCD Mallorca,14,Real Madrid CF,2,2,1,15152
+2852,RCD Mallorca,16,Real Madrid CF,3,9,1,13948
+2853,RCD Mallorca,18,Real Madrid CF,1,9,1,17269
+2854,RCD Mallorca,17,Real Madrid CF,2,8,1,12614
+2855,RCD Mallorca,16,Real Madrid CF,1,12,1,14372
+2856,RCD Mallorca,19,Real Madrid CF,1,10,0,10748
+2857,RCD Mallorca,18,Real Madrid CF,3,1,1,13635
+2858,RCD Mallorca,16,Real Madrid CF,3,9,1,15785
+2859,RCD Mallorca,18,Real Madrid CF,3,10,1,13291
+2860,RCD Mallorca,18,FC Barcelona,4,4,0,13245
+2861,RCD Mallorca,16,FC Barcelona,3,1,1,14472
+2862,RCD Mallorca,14,FC Barcelona,1,8,1,13627
+2863,RCD Mallorca,18,FC Barcelona,2,1,1,17091
+2864,RCD Mallorca,19,FC Barcelona,2,4,1,16140
+2865,RCD Mallorca,19,FC Barcelona,1,1,1,15051
+2866,RCD Mallorca,19,FC Barcelona,1,11,0,9675
+2867,RCD Mallorca,14,FC Barcelona,1,11,1,17687
+2868,RCD Mallorca,18,FC Barcelona,5,1,1,11226
+2869,RCD Mallorca,13,FC Barcelona,1,3,0,17675
+2870,RCD Mallorca,14,Atlético de Madrid,4,6,1,14281
+2871,RCD Mallorca,17,Atlético de Madrid,6,3,0,10437
+2872,RCD Mallorca,19,Atlético de Madrid,4,4,1,17673
+2873,RCD Mallorca,15,Atlético de Madrid,2,5,0,10793
+2874,RCD Mallorca,16,Atlético de Madrid,6,11,1,12290
+2875,RCD Mallorca,19,Atlético de Madrid,3,6,1,12219
+2876,RCD Mallorca,18,Atlético de Madrid,6,3,1,18381
+2877,RCD Mallorca,18,Atlético de Madrid,1,5,1,12841
+2878,RCD Mallorca,16,Atlético de Madrid,4,5,1,14502
+2879,RCD Mallorca,14,Atlético de Madrid,5,1,1,15949
+2880,RCD Mallorca,16,Sevilla FC,6,11,1,14851
+2881,RCD Mallorca,15,Sevilla FC,7,8,1,11406
+2882,RCD Mallorca,13,Sevilla FC,7,4,1,16293
+2883,RCD Mallorca,19,Sevilla FC,1,4,1,14416
+2884,RCD Mallorca,17,Sevilla FC,5,2,1,16744
+2885,RCD Mallorca,19,Sevilla FC,5,6,1,16486
+2886,RCD Mallorca,14,Sevilla FC,1,10,1,11713
+2887,RCD Mallorca,15,Sevilla FC,5,4,1,20500
+2888,RCD Mallorca,13,Sevilla FC,2,6,1,17190
+2889,RCD Mallorca,15,Sevilla FC,7,2,1,15647
+2890,RCD Mallorca,18,Real Betis Balompié,3,3,1,13703
+2891,RCD Mallorca,13,Real Betis Balompié,4,8,1,15112
+2892,RCD Mallorca,17,Real Betis Balompié,6,12,0,9252
+2893,RCD Mallorca,15,Real Betis Balompié,8,9,1,13642
+2894,RCD Mallorca,15,Real Betis Balompié,3,11,1,13081
+2895,RCD Mallorca,16,Real Betis Balompié,2,2,1,14552
+2896,RCD Mallorca,15,Real Betis Balompié,6,3,0,10982
+2897,RCD Mallorca,17,Real Betis Balompié,5,12,1,16784
+2898,RCD Mallorca,14,Real Betis Balompié,7,4,1,14592
+2899,RCD Mallorca,17,Real Betis Balompié,8,10,1,13968
+2900,RCD Mallorca,17,Real Sociedad,6,2,1,16268
+2901,RCD Mallorca,17,Real Sociedad,8,1,1,15155
+2902,RCD Mallorca,18,Real Sociedad,4,12,1,15132
+2903,RCD Mallorca,17,Real Sociedad,7,5,0,6871
+2904,RCD Mallorca,16,Real Sociedad,7,1,1,14411
+2905,RCD Mallorca,14,Real Sociedad,6,5,1,14738
+2906,RCD Mallorca,18,Real Sociedad,7,2,1,13227
+2907,RCD Mallorca,13,Real Sociedad,6,5,1,17797
+2908,RCD Mallorca,14,Real Sociedad,4,8,1,11649
+2909,RCD Mallorca,17,Real Sociedad,9,10,1,14141
+2910,RCD Mallorca,14,Villarreal CF,8,11,1,15194
+2911,RCD Mallorca,18,Villarreal CF,7,4,0,12472
+2912,RCD Mallorca,15,Villarreal CF,7,2,0,8211
+2913,RCD Mallorca,17,Villarreal CF,8,2,1,14512
+2914,RCD Mallorca,19,Villarreal CF,9,8,1,10146
+2915,RCD Mallorca,16,Villarreal CF,5,1,0,6797
+2916,RCD Mallorca,16,Villarreal CF,6,4,1,15793
+2917,RCD Mallorca,19,Villarreal CF,6,10,0,9433
+2918,RCD Mallorca,18,Villarreal CF,9,8,0,14627
+2919,RCD Mallorca,15,Villarreal CF,5,9,1,15640
+2920,RCD Mallorca,13,Athletic Club,8,8,1,15595
+2921,RCD Mallorca,13,Athletic Club,6,1,1,12233
+2922,RCD Mallorca,16,Athletic Club,11,9,1,13728
+2923,RCD Mallorca,13,Athletic Club,6,8,1,11286
+2924,RCD Mallorca,16,Athletic Club,10,10,1,13140
+2925,RCD Mallorca,13,Athletic Club,9,12,0,8308
+2926,RCD Mallorca,19,Athletic Club,11,10,1,12433
+2927,RCD Mallorca,17,Athletic Club,9,6,1,12229
+2928,RCD Mallorca,13,Athletic Club,9,1,1,14950
+2929,RCD Mallorca,17,Athletic Club,8,2,1,11843
+2930,RCD Mallorca,13,Valencia CF,9,10,1,12004
+2931,RCD Mallorca,18,Valencia CF,11,1,1,11436
+2932,RCD Mallorca,14,Valencia CF,11,3,1,18265
+2933,RCD Mallorca,16,Valencia CF,9,8,1,11148
+2934,RCD Mallorca,19,Valencia CF,6,5,1,16469
+2935,RCD Mallorca,13,Valencia CF,7,5,1,13540
+2936,RCD Mallorca,18,Valencia CF,12,8,1,13011
+2937,RCD Mallorca,14,Valencia CF,9,4,1,16597
+2938,RCD Mallorca,16,Valencia CF,7,4,0,9299
+2939,RCD Mallorca,14,Valencia CF,12,9,0,10020
+2940,RCD Mallorca,14,CA Osasuna,9,3,1,14247
+2941,RCD Mallorca,16,CA Osasuna,9,3,1,16368
+2942,RCD Mallorca,18,CA Osasuna,9,12,1,11549
+2943,RCD Mallorca,15,CA Osasuna,8,10,1,13821
+2944,RCD Mallorca,15,CA Osasuna,10,4,1,19452
+2945,RCD Mallorca,17,CA Osasuna,9,5,1,11977
+2946,RCD Mallorca,18,CA Osasuna,12,9,1,11696
+2947,RCD Mallorca,18,CA Osasuna,9,12,0,6580
+2948,RCD Mallorca,15,CA Osasuna,7,5,1,15919
+2949,RCD Mallorca,13,CA Osasuna,9,6,1,15329
+2950,RCD Mallorca,15,RC Celta de Vigo,12,11,1,10019
+2951,RCD Mallorca,14,RC Celta de Vigo,13,5,1,11528
+2952,RCD Mallorca,13,RC Celta de Vigo,12,4,1,13908
+2953,RCD Mallorca,17,RC Celta de Vigo,14,6,0,8109
+2954,RCD Mallorca,14,RC Celta de Vigo,9,10,1,10557
+2955,RCD Mallorca,15,RC Celta de Vigo,14,12,1,13531
+2956,RCD Mallorca,14,RC Celta de Vigo,12,12,0,12769
+2957,RCD Mallorca,13,RC Celta de Vigo,14,1,1,11208
+2958,RCD Mallorca,18,RC Celta de Vigo,9,1,0,12966
+2959,RCD Mallorca,17,RC Celta de Vigo,12,4,1,15455
+2960,RCD Mallorca,18,Rayo Vallecano,13,3,1,11219
+2961,RCD Mallorca,14,Rayo Vallecano,9,4,1,18173
+2962,RCD Mallorca,19,Rayo Vallecano,14,9,1,10925
+2963,RCD Mallorca,18,Rayo Vallecano,15,2,1,14736
+2964,RCD Mallorca,16,Rayo Vallecano,11,6,1,9436
+2965,RCD Mallorca,13,Rayo Vallecano,9,9,1,17363
+2966,RCD Mallorca,16,Rayo Vallecano,11,1,1,11720
+2967,RCD Mallorca,14,Rayo Vallecano,9,8,0,10332
+2968,RCD Mallorca,14,Rayo Vallecano,9,10,1,12084
+2969,RCD Mallorca,18,Rayo Vallecano,15,1,1,13156
+2970,RCD Mallorca,17,Elche CF,10,10,1,15665
+2971,RCD Mallorca,15,Elche CF,13,2,1,14969
+2972,RCD Mallorca,19,Elche CF,11,11,1,13673
+2973,RCD Mallorca,15,Elche CF,10,1,1,11977
+2974,RCD Mallorca,17,Elche CF,10,5,1,14159
+2975,RCD Mallorca,17,Elche CF,10,8,1,10322
+2976,RCD Mallorca,14,Elche CF,15,8,1,15244
+2977,RCD Mallorca,14,Elche CF,10,8,0,4637
+2978,RCD Mallorca,17,Elche CF,14,8,1,15790
+2979,RCD Mallorca,16,Elche CF,14,1,1,9731
+2980,RCD Mallorca,14,RCD Espanyol,11,4,1,14309
+2981,RCD Mallorca,14,RCD Espanyol,11,9,1,14600
+2982,RCD Mallorca,15,RCD Espanyol,17,6,0,6228
+2983,RCD Mallorca,15,RCD Espanyol,12,8,1,13663
+2984,RCD Mallorca,19,RCD Espanyol,16,2,1,11382
+2985,RCD Mallorca,17,RCD Espanyol,15,5,1,11477
+2986,RCD Mallorca,18,RCD Espanyol,16,4,1,15507
+2987,RCD Mallorca,19,RCD Espanyol,12,1,1,14775
+2988,RCD Mallorca,18,RCD Espanyol,15,6,1,11170
+2989,RCD Mallorca,18,RCD Espanyol,11,6,1,9885
+2990,RCD Mallorca,15,Getafe CF,16,4,1,9696
+2991,RCD Mallorca,15,Getafe CF,14,12,1,10776
+2992,RCD Mallorca,16,Getafe CF,13,10,1,13213
+2993,RCD Mallorca,13,Getafe CF,18,10,1,12860
+2994,RCD Mallorca,19,Getafe CF,12,6,1,12393
+2995,RCD Mallorca,18,Getafe CF,17,12,1,11065
+2996,RCD Mallorca,16,Getafe CF,17,3,1,12783
+2997,RCD Mallorca,18,Getafe CF,12,12,1,12747
+2998,RCD Mallorca,13,Getafe CF,17,3,0,8386
+2999,RCD Mallorca,13,Getafe CF,14,9,1,10704
+3000,RCD Mallorca,18,Cádiz CF,15,10,1,12685
+3001,RCD Mallorca,15,Cádiz CF,16,11,0,11804
+3002,RCD Mallorca,19,Cádiz CF,16,11,1,11079
+3003,RCD Mallorca,14,Cádiz CF,17,9,1,11707
+3004,RCD Mallorca,19,Cádiz CF,15,1,1,14699
+3005,RCD Mallorca,15,Cádiz CF,20,2,1,15424
+3006,RCD Mallorca,17,Cádiz CF,18,10,0,12355
+3007,RCD Mallorca,13,Cádiz CF,20,4,0,5496
+3008,RCD Mallorca,14,Cádiz CF,19,11,1,14304
+3009,RCD Mallorca,18,Cádiz CF,19,10,1,11836
+3010,RCD Mallorca,18,UD Almería,19,10,1,9882
+3011,RCD Mallorca,16,UD Almería,20,1,1,12923
+3012,RCD Mallorca,17,UD Almería,18,4,1,12495
+3013,RCD Mallorca,16,UD Almería,19,1,1,12773
+3014,RCD Mallorca,14,UD Almería,18,3,1,10067
+3015,RCD Mallorca,19,UD Almería,20,2,1,9098
+3016,RCD Mallorca,19,UD Almería,15,1,1,12169
+3017,RCD Mallorca,16,UD Almería,17,2,1,15749
+3018,RCD Mallorca,13,UD Almería,15,10,0,8199
+3019,RCD Mallorca,17,UD Almería,19,4,1,13118
+3020,RCD Mallorca,18,Real Valladolid CF,20,9,0,6630
+3021,RCD Mallorca,17,Real Valladolid CF,18,5,1,13308
+3022,RCD Mallorca,13,Real Valladolid CF,19,12,1,12445
+3023,RCD Mallorca,13,Real Valladolid CF,20,6,1,12914
+3024,RCD Mallorca,13,Real Valladolid CF,17,10,1,15804
+3025,RCD Mallorca,19,Real Valladolid CF,17,11,0,10665
+3026,RCD Mallorca,18,Real Valladolid CF,20,11,0,8558
+3027,RCD Mallorca,15,Real Valladolid CF,20,3,1,14426
+3028,RCD Mallorca,14,Real Valladolid CF,20,5,0,10796
+3029,RCD Mallorca,14,Real Valladolid CF,19,12,1,14787
+3030,RCD Mallorca,17,Girona FC,18,10,1,13591
+3031,RCD Mallorca,14,Girona FC,20,5,1,12662
+3032,RCD Mallorca,14,Girona FC,18,3,1,10717
+3033,RCD Mallorca,16,Girona FC,20,5,1,12483
+3034,RCD Mallorca,13,Girona FC,18,10,1,12881
+3035,RCD Mallorca,17,Girona FC,20,5,1,13148
+3036,RCD Mallorca,19,Girona FC,20,5,1,12015
+3037,RCD Mallorca,14,Girona FC,20,9,1,9664
+3038,RCD Mallorca,19,Girona FC,20,1,1,10670
+3039,RCD Mallorca,16,Girona FC,18,10,1,11460
+3040,Cádiz CF,17,Real Madrid CF,1,10,1,16351
+3041,Cádiz CF,20,Real Madrid CF,1,11,1,15902
+3042,Cádiz CF,18,Real Madrid CF,1,9,1,20083
+3043,Cádiz CF,15,Real Madrid CF,1,2,1,21094
+3044,Cádiz CF,18,Real Madrid CF,4,5,0,15121
+3045,Cádiz CF,17,Real Madrid CF,1,10,1,19234
+3046,Cádiz CF,15,Real Madrid CF,1,4,0,13138
+3047,Cádiz CF,17,Real Madrid CF,1,9,1,18588
+3048,Cádiz CF,16,Real Madrid CF,4,10,1,13892
+3049,Cádiz CF,18,Real Madrid CF,1,3,1,17087
+3050,Cádiz CF,18,FC Barcelona,2,4,0,14093
+3051,Cádiz CF,17,FC Barcelona,2,2,1,18284
+3052,Cádiz CF,15,FC Barcelona,4,12,0,13070
+3053,Cádiz CF,16,FC Barcelona,1,11,1,19799
+3054,Cádiz CF,14,FC Barcelona,1,3,1,13492
+3055,Cádiz CF,17,FC Barcelona,3,2,1,16938
+3056,Cádiz CF,19,FC Barcelona,1,10,1,17678
+3057,Cádiz CF,20,FC Barcelona,2,12,1,19043
+3058,Cádiz CF,18,FC Barcelona,2,10,1,19509
+3059,Cádiz CF,20,FC Barcelona,5,11,1,15221
+3060,Cádiz CF,15,Atlético de Madrid,2,6,1,17785
+3061,Cádiz CF,19,Atlético de Madrid,4,6,0,11553
+3062,Cádiz CF,20,Atlético de Madrid,5,11,1,13156
+3063,Cádiz CF,14,Atlético de Madrid,3,1,1,17346
+3064,Cádiz CF,16,Atlético de Madrid,1,1,1,18507
+3065,Cádiz CF,19,Atlético de Madrid,6,10,0,12998
+3066,Cádiz CF,17,Atlético de Madrid,5,5,0,18199
+3067,Cádiz CF,18,Atlético de Madrid,4,2,1,15571
+3068,Cádiz CF,14,Atlético de Madrid,2,4,1,17814
+3069,Cádiz CF,14,Atlético de Madrid,3,6,1,19682
+3070,Cádiz CF,19,Sevilla FC,7,8,1,13368
+3071,Cádiz CF,14,Sevilla FC,1,4,1,17909
+3072,Cádiz CF,19,Sevilla FC,5,8,1,15423
+3073,Cádiz CF,17,Sevilla FC,3,3,1,18882
+3074,Cádiz CF,18,Sevilla FC,6,5,1,17960
+3075,Cádiz CF,14,Sevilla FC,6,4,1,20869
+3076,Cádiz CF,15,Sevilla FC,1,3,1,19847
+3077,Cádiz CF,17,Sevilla FC,3,5,1,16510
+3078,Cádiz CF,17,Sevilla FC,2,2,1,17284
+3079,Cádiz CF,20,Sevilla FC,2,3,1,16345
+3080,Cádiz CF,15,Real Betis Balompié,5,1,0,12291
+3081,Cádiz CF,17,Real Betis Balompié,7,5,1,16773
+3082,Cádiz CF,14,Real Betis Balompié,4,5,1,17866
+3083,Cádiz CF,19,Real Betis Balompié,3,8,1,14816
+3084,Cádiz CF,16,Real Betis Balompié,6,1,1,14196
+3085,Cádiz CF,15,Real Betis Balompié,5,11,0,9283
+3086,Cádiz CF,15,Real Betis Balompié,6,1,1,15239
+3087,Cádiz CF,15,Real Betis Balompié,2,4,1,17694
+3088,Cádiz CF,14,Real Betis Balompié,4,6,1,18715
+3089,Cádiz CF,14,Real Betis Balompié,8,4,1,16414
+3090,Cádiz CF,17,Real Sociedad,3,10,1,12867
+3091,Cádiz CF,16,Real Sociedad,4,1,0,14925
+3092,Cádiz CF,16,Real Sociedad,9,3,1,13121
+3093,Cádiz CF,18,Real Sociedad,4,9,0,10418
+3094,Cádiz CF,17,Real Sociedad,7,12,1,18804
+3095,Cádiz CF,14,Real Sociedad,4,8,1,16282
+3096,Cádiz CF,15,Real Sociedad,9,8,1,17321
+3097,Cádiz CF,15,Real Sociedad,3,9,1,16124
+3098,Cádiz CF,17,Real Sociedad,3,1,1,18853
+3099,Cádiz CF,16,Real Sociedad,9,10,1,16681
+3100,Cádiz CF,18,Villarreal CF,9,1,1,14877
+3101,Cádiz CF,16,Villarreal CF,9,6,0,10479
+3102,Cádiz CF,14,Villarreal CF,8,5,0,14925
+3103,Cádiz CF,20,Villarreal CF,10,1,1,14255
+3104,Cádiz CF,18,Villarreal CF,10,9,1,9163
+3105,Cádiz CF,14,Villarreal CF,10,2,1,17937
+3106,Cádiz CF,17,Villarreal CF,10,6,1,16340
+3107,Cádiz CF,15,Villarreal CF,7,5,1,18767
+3108,Cádiz CF,17,Villarreal CF,9,12,1,15734
+3109,Cádiz CF,17,Villarreal CF,5,1,1,17575
+3110,Cádiz CF,20,Athletic Club,10,11,0,11606
+3111,Cádiz CF,16,Athletic Club,6,12,0,15007
+3112,Cádiz CF,15,Athletic Club,9,8,1,18128
+3113,Cádiz CF,18,Athletic Club,10,9,1,15254
+3114,Cádiz CF,17,Athletic Club,6,8,1,10327
+3115,Cádiz CF,20,Athletic Club,10,11,1,16296
+3116,Cádiz CF,19,Athletic Club,11,12,1,11589
+3117,Cádiz CF,19,Athletic Club,6,4,1,14664
+3118,Cádiz CF,20,Athletic Club,8,3,1,13295
+3119,Cádiz CF,14,Athletic Club,7,12,1,18883
+3120,Cádiz CF,15,Valencia CF,6,12,0,9948
+3121,Cádiz CF,19,Valencia CF,7,4,1,19594
+3122,Cádiz CF,14,Valencia CF,11,4,1,16538
+3123,Cádiz CF,18,Valencia CF,10,11,1,18078
+3124,Cádiz CF,16,Valencia CF,12,5,1,16343
+3125,Cádiz CF,19,Valencia CF,6,8,1,13633
+3126,Cádiz CF,17,Valencia CF,6,10,1,18550
+3127,Cádiz CF,19,Valencia CF,11,3,1,17531
+3128,Cádiz CF,18,Valencia CF,12,5,1,20518
+3129,Cádiz CF,19,Valencia CF,9,5,1,14388
+3130,Cádiz CF,17,CA Osasuna,11,12,0,12189
+3131,Cádiz CF,18,CA Osasuna,9,2,0,10773
+3132,Cádiz CF,19,CA Osasuna,13,8,1,17441
+3133,Cádiz CF,17,CA Osasuna,13,8,1,12752
+3134,Cádiz CF,20,CA Osasuna,10,6,0,14097
+3135,Cádiz CF,15,CA Osasuna,13,1,1,17722
+3136,Cádiz CF,16,CA Osasuna,13,5,1,17364
+3137,Cádiz CF,18,CA Osasuna,11,1,1,17731
+3138,Cádiz CF,15,CA Osasuna,13,5,0,13794
+3139,Cádiz CF,20,CA Osasuna,13,3,0,11068
+3140,Cádiz CF,20,RC Celta de Vigo,12,2,1,16397
+3141,Cádiz CF,20,RC Celta de Vigo,8,3,1,13608
+3142,Cádiz CF,14,RC Celta de Vigo,8,11,1,16413
+3143,Cádiz CF,15,RC Celta de Vigo,13,11,0,17772
+3144,Cádiz CF,18,RC Celta de Vigo,14,4,1,16494
+3145,Cádiz CF,15,RC Celta de Vigo,10,9,1,14466
+3146,Cádiz CF,20,RC Celta de Vigo,8,2,1,14879
+3147,Cádiz CF,17,RC Celta de Vigo,12,3,1,17121
+3148,Cádiz CF,14,RC Celta de Vigo,13,8,1,15513
+3149,Cádiz CF,18,RC Celta de Vigo,9,5,1,17052
+3150,Cádiz CF,17,Rayo Vallecano,11,10,1,18698
+3151,Cádiz CF,18,Rayo Vallecano,10,8,1,16663
+3152,Cádiz CF,19,Rayo Vallecano,14,6,1,12685
+3153,Cádiz CF,20,Rayo Vallecano,14,1,0,14016
+3154,Cádiz CF,15,Rayo Vallecano,12,5,1,16266
+3155,Cádiz CF,17,Rayo Vallecano,15,5,1,17520
+3156,Cádiz CF,14,Rayo Vallecano,10,5,0,13185
+3157,Cádiz CF,20,Rayo Vallecano,9,6,1,13829
+3158,Cádiz CF,15,Rayo Vallecano,9,1,0,9990
+3159,Cádiz CF,14,Rayo Vallecano,12,4,1,13506
+3160,Cádiz CF,15,Elche CF,16,12,1,11944
+3161,Cádiz CF,17,Elche CF,15,11,1,15541
+3162,Cádiz CF,14,Elche CF,16,12,1,17271
+3163,Cádiz CF,18,Elche CF,16,12,1,15448
+3164,Cádiz CF,14,Elche CF,12,5,0,11695
+3165,Cádiz CF,17,Elche CF,16,11,1,12593
+3166,Cádiz CF,20,Elche CF,12,3,0,10981
+3167,Cádiz CF,18,Elche CF,14,1,1,16820
+3168,Cádiz CF,18,Elche CF,11,10,1,16748
+3169,Cádiz CF,16,Elche CF,15,8,1,15232
+3170,Cádiz CF,20,RCD Espanyol,14,3,1,16756
+3171,Cádiz CF,16,RCD Espanyol,14,6,1,16489
+3172,Cádiz CF,19,RCD Espanyol,15,4,1,14949
+3173,Cádiz CF,15,RCD Espanyol,17,5,1,17436
+3174,Cádiz CF,14,RCD Espanyol,16,4,1,18296
+3175,Cádiz CF,17,RCD Espanyol,11,1,1,18161
+3176,Cádiz CF,18,RCD Espanyol,15,8,1,15152
+3177,Cádiz CF,18,RCD Espanyol,11,3,1,15722
+3178,Cádiz CF,20,RCD Espanyol,17,2,1,15191
+3179,Cádiz CF,20,RCD Espanyol,16,9,1,10449
+3180,Cádiz CF,17,Getafe CF,12,6,1,16612
+3181,Cádiz CF,16,Getafe CF,17,10,1,15933
+3182,Cádiz CF,18,Getafe CF,13,5,1,14108
+3183,Cádiz CF,17,Getafe CF,13,3,0,13254
+3184,Cádiz CF,18,Getafe CF,14,10,1,16413
+3185,Cádiz CF,20,Getafe CF,15,9,0,9301
+3186,Cádiz CF,14,Getafe CF,16,1,1,15534
+3187,Cádiz CF,20,Getafe CF,13,10,1,16312
+3188,Cádiz CF,19,Getafe CF,17,10,1,10343
+3189,Cádiz CF,19,Getafe CF,12,8,1,10914
+3190,Cádiz CF,20,RCD Mallorca,17,6,1,14009
+3191,Cádiz CF,14,RCD Mallorca,18,5,1,17127
+3192,Cádiz CF,15,RCD Mallorca,17,2,1,14544
+3193,Cádiz CF,20,RCD Mallorca,14,4,1,15868
+3194,Cádiz CF,18,RCD Mallorca,13,1,1,21093
+3195,Cádiz CF,14,RCD Mallorca,15,3,1,15216
+3196,Cádiz CF,18,RCD Mallorca,15,10,0,12636
+3197,Cádiz CF,20,RCD Mallorca,15,12,1,15714
+3198,Cádiz CF,20,RCD Mallorca,13,12,1,17961
+3199,Cádiz CF,16,RCD Mallorca,18,10,1,14932
+3200,Cádiz CF,17,UD Almería,18,4,1,12445
+3201,Cádiz CF,16,UD Almería,17,8,0,10848
+3202,Cádiz CF,20,UD Almería,19,4,1,14641
+3203,Cádiz CF,17,UD Almería,20,10,0,11976
+3204,Cádiz CF,18,UD Almería,17,9,1,14201
+3205,Cádiz CF,17,UD Almería,20,12,1,16627
+3206,Cádiz CF,20,UD Almería,19,8,1,15093
+3207,Cádiz CF,18,UD Almería,16,4,1,15447
+3208,Cádiz CF,18,UD Almería,20,12,0,6647
+3209,Cádiz CF,18,UD Almería,17,11,1,15486
+3210,Cádiz CF,16,Real Valladolid CF,17,8,1,15899
+3211,Cádiz CF,14,Real Valladolid CF,17,8,1,17299
+3212,Cádiz CF,19,Real Valladolid CF,16,11,1,14239
+3213,Cádiz CF,19,Real Valladolid CF,18,6,0,9004
+3214,Cádiz CF,14,Real Valladolid CF,20,9,1,15586
+3215,Cádiz CF,15,Real Valladolid CF,20,9,1,15424
+3216,Cádiz CF,14,Real Valladolid CF,18,12,1,12129
+3217,Cádiz CF,14,Real Valladolid CF,19,4,0,11721
+3218,Cádiz CF,20,Real Valladolid CF,17,3,1,13638
+3219,Cádiz CF,14,Real Valladolid CF,20,11,1,14843
+3220,Cádiz CF,14,Girona FC,20,1,0,11564
+3221,Cádiz CF,17,Girona FC,20,9,1,15876
+3222,Cádiz CF,15,Girona FC,18,8,1,17003
+3223,Cádiz CF,19,Girona FC,20,6,1,13122
+3224,Cádiz CF,14,Girona FC,20,2,1,15040
+3225,Cádiz CF,15,Girona FC,18,12,1,16387
+3226,Cádiz CF,14,Girona FC,18,5,0,9005
+3227,Cádiz CF,14,Girona FC,20,11,1,13273
+3228,Cádiz CF,19,Girona FC,18,2,1,19625
+3229,Cádiz CF,16,Girona FC,17,5,1,19701
+3230,UD Almería,18,Real Madrid CF,1,2,1,11798
+3231,UD Almería,20,Real Madrid CF,1,9,1,9273
+3232,UD Almería,15,Real Madrid CF,1,4,0,10646
+3233,UD Almería,19,Real Madrid CF,1,4,1,14464
+3234,UD Almería,19,Real Madrid CF,3,9,1,11058
+3235,UD Almería,15,Real Madrid CF,1,4,1,10601
+3236,UD Almería,18,Real Madrid CF,1,4,1,11792
+3237,UD Almería,20,Real Madrid CF,1,12,1,13469
+3238,UD Almería,15,Real Madrid CF,1,12,1,9078
+3239,UD Almería,18,Real Madrid CF,3,6,1,11348
+3240,UD Almería,17,FC Barcelona,5,3,1,11064
+3241,UD Almería,20,FC Barcelona,1,9,1,8783
+3242,UD Almería,19,FC Barcelona,1,11,1,12948
+3243,UD Almería,20,FC Barcelona,2,4,1,9722
+3244,UD Almería,19,FC Barcelona,3,6,0,6538
+3245,UD Almería,18,FC Barcelona,2,6,0,8758
+3246,UD Almería,20,FC Barcelona,2,6,1,8914
+3247,UD Almería,17,FC Barcelona,1,12,0,9203
+3248,UD Almería,15,FC Barcelona,3,9,1,10837
+3249,UD Almería,17,FC Barcelona,2,2,1,12860
+3250,UD Almería,20,Atlético de Madrid,5,8,1,8577
+3251,UD Almería,20,Atlético de Madrid,3,2,1,11633
+3252,UD Almería,17,Atlético de Madrid,5,10,1,11587
+3253,UD Almería,18,Atlético de Madrid,5,6,1,10028
+3254,UD Almería,20,Atlético de Madrid,5,6,1,12412
+3255,UD Almería,20,Atlético de Madrid,3,2,1,10150
+3256,UD Almería,20,Atlético de Madrid,1,2,1,11294
+3257,UD Almería,17,Atlético de Madrid,3,5,1,9101
+3258,UD Almería,20,Atlético de Madrid,2,10,1,11128
+3259,UD Almería,19,Atlético de Madrid,3,10,0,8059
+3260,UD Almería,16,Sevilla FC,5,4,0,9579
+3261,UD Almería,17,Sevilla FC,2,6,1,10124
+3262,UD Almería,18,Sevilla FC,2,5,1,12313
+3263,UD Almería,20,Sevilla FC,6,3,1,13671
+3264,UD Almería,18,Sevilla FC,4,3,1,7635
+3265,UD Almería,18,Sevilla FC,3,8,1,9798
+3266,UD Almería,20,Sevilla FC,4,8,1,11136
+3267,UD Almería,20,Sevilla FC,3,5,1,11417
+3268,UD Almería,18,Sevilla FC,4,10,1,9056
+3269,UD Almería,17,Sevilla FC,2,10,1,12175
+3270,UD Almería,15,Real Betis Balompié,3,12,1,14154
+3271,UD Almería,15,Real Betis Balompié,8,10,1,8552
+3272,UD Almería,18,Real Betis Balompié,5,2,1,12735
+3273,UD Almería,20,Real Betis Balompié,4,10,1,10230
+3274,UD Almería,15,Real Betis Balompié,2,2,1,8120
+3275,UD Almería,20,Real Betis Balompié,2,12,1,11878
+3276,UD Almería,18,Real Betis Balompié,5,1,1,10464
+3277,UD Almería,20,Real Betis Balompié,3,4,1,12821
+3278,UD Almería,20,Real Betis Balompié,8,6,1,7783
+3279,UD Almería,16,Real Betis Balompié,5,10,1,13164
+3280,UD Almería,20,Real Sociedad,6,9,1,11298
+3281,UD Almería,15,Real Sociedad,5,9,1,10971
+3282,UD Almería,17,Real Sociedad,4,1,1,11101
+3283,UD Almería,16,Real Sociedad,8,11,1,7856
+3284,UD Almería,15,Real Sociedad,6,10,0,8255
+3285,UD Almería,17,Real Sociedad,8,1,1,9917
+3286,UD Almería,17,Real Sociedad,6,9,1,12088
+3287,UD Almería,15,Real Sociedad,7,3,1,11555
+3288,UD Almería,20,Real Sociedad,7,8,1,9271
+3289,UD Almería,15,Real Sociedad,3,8,1,10255
+3290,UD Almería,16,Villarreal CF,9,1,1,12225
+3291,UD Almería,16,Villarreal CF,7,4,0,5644
+3292,UD Almería,16,Villarreal CF,8,6,1,11459
+3293,UD Almería,20,Villarreal CF,7,10,1,9802
+3294,UD Almería,20,Villarreal CF,5,4,1,13553
+3295,UD Almería,15,Villarreal CF,10,2,1,9928
+3296,UD Almería,15,Villarreal CF,8,9,1,10752
+3297,UD Almería,16,Villarreal CF,7,11,1,14560
+3298,UD Almería,17,Villarreal CF,5,11,1,11435
+3299,UD Almería,20,Villarreal CF,10,10,1,7769
+3300,UD Almería,20,Athletic Club,9,1,1,11908
+3301,UD Almería,20,Athletic Club,9,11,1,9336
+3302,UD Almería,15,Athletic Club,6,11,1,7592
+3303,UD Almería,18,Athletic Club,7,10,1,7115
+3304,UD Almería,20,Athletic Club,9,2,1,10488
+3305,UD Almería,19,Athletic Club,11,3,1,10716
+3306,UD Almería,20,Athletic Club,10,5,1,11266
+3307,UD Almería,20,Athletic Club,5,10,1,9598
+3308,UD Almería,15,Athletic Club,6,12,1,11789
+3309,UD Almería,20,Athletic Club,8,12,1,10534
+3310,UD Almería,15,Valencia CF,6,12,0,7814
+3311,UD Almería,19,Valencia CF,9,3,1,12072
+3312,UD Almería,16,Valencia CF,11,9,1,8615
+3313,UD Almería,20,Valencia CF,8,12,1,11960
+3314,UD Almería,19,Valencia CF,10,1,1,10964
+3315,UD Almería,20,Valencia CF,7,3,1,10745
+3316,UD Almería,20,Valencia CF,8,4,0,7681
+3317,UD Almería,16,Valencia CF,11,8,1,5881
+3318,UD Almería,18,Valencia CF,7,4,1,12766
+3319,UD Almería,16,Valencia CF,12,9,1,11153
+3320,UD Almería,19,CA Osasuna,11,12,1,8523
+3321,UD Almería,20,CA Osasuna,11,5,1,10967
+3322,UD Almería,15,CA Osasuna,13,5,0,6193
+3323,UD Almería,15,CA Osasuna,7,1,1,9403
+3324,UD Almería,18,CA Osasuna,10,2,1,10089
+3325,UD Almería,18,CA Osasuna,8,2,1,7870
+3326,UD Almería,15,CA Osasuna,11,4,1,10131
+3327,UD Almería,20,CA Osasuna,8,3,1,11741
+3328,UD Almería,17,CA Osasuna,9,12,1,9302
+3329,UD Almería,16,CA Osasuna,13,1,1,8318
+3330,UD Almería,15,RC Celta de Vigo,11,10,1,12959
+3331,UD Almería,20,RC Celta de Vigo,11,3,0,7482
+3332,UD Almería,20,RC Celta de Vigo,11,11,1,7764
+3333,UD Almería,18,RC Celta de Vigo,13,1,1,9424
+3334,UD Almería,15,RC Celta de Vigo,14,12,1,9049
+3335,UD Almería,19,RC Celta de Vigo,12,3,1,11924
+3336,UD Almería,20,RC Celta de Vigo,10,11,1,10974
+3337,UD Almería,20,RC Celta de Vigo,8,6,1,11365
+3338,UD Almería,20,RC Celta de Vigo,9,4,1,11416
+3339,UD Almería,20,RC Celta de Vigo,9,9,1,8735
+3340,UD Almería,20,Rayo Vallecano,13,2,1,12627
+3341,UD Almería,17,Rayo Vallecano,15,11,1,7637
+3342,UD Almería,18,Rayo Vallecano,11,9,1,8039
+3343,UD Almería,15,Rayo Vallecano,13,3,1,11105
+3344,UD Almería,20,Rayo Vallecano,15,3,1,11628
+3345,UD Almería,17,Rayo Vallecano,14,10,1,7921
+3346,UD Almería,16,Rayo Vallecano,15,2,1,9043
+3347,UD Almería,20,Rayo Vallecano,10,12,1,12535
+3348,UD Almería,15,Rayo Vallecano,14,9,1,9504
+3349,UD Almería,20,Rayo Vallecano,10,2,1,11411
+3350,UD Almería,20,Elche CF,10,8,1,8131
+3351,UD Almería,19,Elche CF,14,4,0,5345
+3352,UD Almería,15,Elche CF,11,6,1,8747
+3353,UD Almería,20,Elche CF,11,6,1,9479
+3354,UD Almería,15,Elche CF,12,3,1,10266
+3355,UD Almería,17,Elche CF,15,2,1,8708
+3356,UD Almería,20,Elche CF,15,10,1,7128
+3357,UD Almería,20,Elche CF,10,5,1,10124
+3358,UD Almería,19,Elche CF,10,8,0,7389
+3359,UD Almería,17,Elche CF,12,8,0,7057
+3360,UD Almería,19,RCD Espanyol,17,6,1,8861
+3361,UD Almería,20,RCD Espanyol,16,2,1,7713
+3362,UD Almería,18,RCD Espanyol,13,9,1,9646
+3363,UD Almería,20,RCD Espanyol,15,10,1,10728
+3364,UD Almería,20,RCD Espanyol,15,12,1,12721
+3365,UD Almería,20,RCD Espanyol,16,2,1,11319
+3366,UD Almería,18,RCD Espanyol,13,5,1,10555
+3367,UD Almería,20,RCD Espanyol,15,6,1,6168
+3368,UD Almería,15,RCD Espanyol,16,4,1,13795
+3369,UD Almería,16,RCD Espanyol,12,10,1,11324
+3370,UD Almería,17,Getafe CF,12,10,1,9767
+3371,UD Almería,20,Getafe CF,14,11,1,8195
+3372,UD Almería,20,Getafe CF,17,5,0,9431
+3373,UD Almería,18,Getafe CF,16,12,1,9634
+3374,UD Almería,20,Getafe CF,17,8,1,9037
+3375,UD Almería,17,Getafe CF,18,8,1,9001
+3376,UD Almería,20,Getafe CF,17,5,1,7819
+3377,UD Almería,19,Getafe CF,13,4,1,11095
+3378,UD Almería,15,Getafe CF,18,1,0,5380
+3379,UD Almería,20,Getafe CF,13,3,1,10794
+3380,UD Almería,20,RCD Mallorca,19,3,1,9322
+3381,UD Almería,17,RCD Mallorca,19,8,1,6653
+3382,UD Almería,20,RCD Mallorca,19,4,0,6114
+3383,UD Almería,18,RCD Mallorca,15,1,0,6759
+3384,UD Almería,15,RCD Mallorca,14,1,1,10402
+3385,UD Almería,19,RCD Mallorca,14,11,1,8906
+3386,UD Almería,15,RCD Mallorca,14,6,0,6855
+3387,UD Almería,16,RCD Mallorca,14,10,1,12459
+3388,UD Almería,20,RCD Mallorca,17,2,0,6401
+3389,UD Almería,18,RCD Mallorca,17,11,1,11147
+3390,UD Almería,20,Cádiz CF,18,6,1,8322
+3391,UD Almería,20,Cádiz CF,18,1,1,9429
+3392,UD Almería,18,Cádiz CF,16,10,0,7152
+3393,UD Almería,19,Cádiz CF,20,2,1,13569
+3394,UD Almería,17,Cádiz CF,16,4,1,15274
+3395,UD Almería,17,Cádiz CF,14,11,1,10092
+3396,UD Almería,20,Cádiz CF,14,11,0,6873
+3397,UD Almería,19,Cádiz CF,17,3,1,10882
+3398,UD Almería,19,Cádiz CF,14,1,1,13660
+3399,UD Almería,20,Cádiz CF,15,1,1,10925
+3400,UD Almería,17,Real Valladolid CF,19,9,0,6262
+3401,UD Almería,18,Real Valladolid CF,16,1,1,10108
+3402,UD Almería,17,Real Valladolid CF,20,8,1,8806
+3403,UD Almería,19,Real Valladolid CF,18,5,1,9080
+3404,UD Almería,16,Real Valladolid CF,19,6,1,10297
+3405,UD Almería,20,Real Valladolid CF,18,3,1,10947
+3406,UD Almería,19,Real Valladolid CF,16,8,1,8272
+3407,UD Almería,15,Real Valladolid CF,20,8,1,9632
+3408,UD Almería,16,Real Valladolid CF,18,11,1,11219
+3409,UD Almería,15,Real Valladolid CF,18,9,0,6027
+3410,UD Almería,16,Girona FC,20,9,1,8915
+3411,UD Almería,16,Girona FC,19,4,1,8739
+3412,UD Almería,19,Girona FC,20,1,1,7755
+3413,UD Almería,16,Girona FC,19,12,0,4588
+3414,UD Almería,15,Girona FC,20,6,1,6706
+3415,UD Almería,18,Girona FC,19,1,0,10012
+3416,UD Almería,20,Girona FC,17,6,1,9541
+3417,UD Almería,18,Girona FC,20,5,1,9805
+3418,UD Almería,15,Girona FC,20,3,1,8495
+3419,UD Almería,15,Girona FC,17,9,1,9896
+3420,Real Valladolid CF,20,Real Madrid CF,2,12,1,17518
+3421,Real Valladolid CF,20,Real Madrid CF,1,9,1,22684
+3422,Real Valladolid CF,17,Real Madrid CF,1,9,1,26370
+3423,Real Valladolid CF,18,Real Madrid CF,1,1,1,20471
+3424,Real Valladolid CF,16,Real Madrid CF,1,6,1,21384
+3425,Real Valladolid CF,16,Real Madrid CF,1,2,0,20206
+3426,Real Valladolid CF,20,Real Madrid CF,1,6,1,17834
+3427,Real Valladolid CF,19,Real Madrid CF,4,10,1,23998
+3428,Real Valladolid CF,16,Real Madrid CF,3,5,1,22645
+3429,Real Valladolid CF,19,Real Madrid CF,1,3,1,24082
+3430,Real Valladolid CF,18,FC Barcelona,2,4,1,21098
+3431,Real Valladolid CF,20,FC Barcelona,2,5,1,20238
+3432,Real Valladolid CF,20,FC Barcelona,3,6,1,18384
+3433,Real Valladolid CF,20,FC Barcelona,4,4,0,20595
+3434,Real Valladolid CF,20,FC Barcelona,5,8,1,15170
+3435,Real Valladolid CF,19,FC Barcelona,4,11,1,14466
+3436,Real Valladolid CF,16,FC Barcelona,3,4,1,22893
+3437,Real Valladolid CF,19,FC Barcelona,1,4,1,22990
+3438,Real Valladolid CF,20,FC Barcelona,2,8,1,18804
+3439,Real Valladolid CF,17,FC Barcelona,1,1,1,24429
+3440,Real Valladolid CF,20,Atlético de Madrid,2,3,1,20274
+3441,Real Valladolid CF,18,Atlético de Madrid,4,9,1,17245
+3442,Real Valladolid CF,19,Atlético de Madrid,1,4,1,22746
+3443,Real Valladolid CF,20,Atlético de Madrid,1,2,1,23010
+3444,Real Valladolid CF,20,Atlético de Madrid,2,6,1,18275
+3445,Real Valladolid CF,16,Atlético de Madrid,5,3,1,18013
+3446,Real Valladolid CF,20,Atlético de Madrid,3,1,1,18478
+3447,Real Valladolid CF,17,Atlético de Madrid,2,8,1,22814
+3448,Real Valladolid CF,19,Atlético de Madrid,5,8,0,15346
+3449,Real Valladolid CF,17,Atlético de Madrid,3,9,1,19502
+3450,Real Valladolid CF,20,Sevilla FC,1,4,0,17253
+3451,Real Valladolid CF,16,Sevilla FC,2,6,0,17919
+3452,Real Valladolid CF,19,Sevilla FC,1,12,1,21769
+3453,Real Valladolid CF,20,Sevilla FC,7,5,1,20801
+3454,Real Valladolid CF,20,Sevilla FC,1,4,1,22446
+3455,Real Valladolid CF,20,Sevilla FC,3,8,0,14862
+3456,Real Valladolid CF,20,Sevilla FC,5,2,1,19961
+3457,Real Valladolid CF,16,Sevilla FC,4,1,1,22314
+3458,Real Valladolid CF,18,Sevilla FC,6,12,1,19519
+3459,Real Valladolid CF,18,Sevilla FC,7,3,1,17893
+3460,Real Valladolid CF,16,Real Betis Balompié,2,8,1,22008
+3461,Real Valladolid CF,20,Real Betis Balompié,5,11,1,21886
+3462,Real Valladolid CF,17,Real Betis Balompié,3,3,1,23691
+3463,Real Valladolid CF,19,Real Betis Balompié,5,8,0,17198
+3464,Real Valladolid CF,20,Real Betis Balompié,4,8,1,17619
+3465,Real Valladolid CF,20,Real Betis Balompié,7,12,0,15743
+3466,Real Valladolid CF,20,Real Betis Balompié,6,3,1,18818
+3467,Real Valladolid CF,19,Real Betis Balompié,3,5,1,23931
+3468,Real Valladolid CF,20,Real Betis Balompié,3,12,0,12593
+3469,Real Valladolid CF,19,Real Betis Balompié,2,4,1,18352
+3470,Real Valladolid CF,20,Real Sociedad,6,10,1,24859
+3471,Real Valladolid CF,20,Real Sociedad,7,9,1,20015
+3472,Real Valladolid CF,20,Real Sociedad,4,11,1,22069
+3473,Real Valladolid CF,19,Real Sociedad,9,9,1,17649
+3474,Real Valladolid CF,16,Real Sociedad,7,6,1,18338
+3475,Real Valladolid CF,17,Real Sociedad,8,5,0,18937
+3476,Real Valladolid CF,17,Real Sociedad,5,12,1,19220
+3477,Real Valladolid CF,16,Real Sociedad,7,2,1,19010
+3478,Real Valladolid CF,16,Real Sociedad,6,2,1,26311
+3479,Real Valladolid CF,20,Real Sociedad,7,8,1,17774
+3480,Real Valladolid CF,17,Villarreal CF,10,10,1,22708
+3481,Real Valladolid CF,20,Villarreal CF,10,12,0,11677
+3482,Real Valladolid CF,20,Villarreal CF,4,10,1,17755
+3483,Real Valladolid CF,18,Villarreal CF,8,8,1,20753
+3484,Real Valladolid CF,16,Villarreal CF,4,1,1,22580
+3485,Real Valladolid CF,20,Villarreal CF,8,12,1,21138
+3486,Real Valladolid CF,20,Villarreal CF,5,12,1,21500
+3487,Real Valladolid CF,17,Villarreal CF,5,10,1,19178
+3488,Real Valladolid CF,18,Villarreal CF,10,12,1,19049
+3489,Real Valladolid CF,20,Villarreal CF,10,1,1,18392
+3490,Real Valladolid CF,19,Athletic Club,9,4,0,10223
+3491,Real Valladolid CF,20,Athletic Club,6,3,1,26281
+3492,Real Valladolid CF,18,Athletic Club,6,1,1,19564
+3493,Real Valladolid CF,16,Athletic Club,11,5,1,24006
+3494,Real Valladolid CF,20,Athletic Club,5,8,1,17463
+3495,Real Valladolid CF,20,Athletic Club,6,4,1,19442
+3496,Real Valladolid CF,19,Athletic Club,11,11,1,20391
+3497,Real Valladolid CF,20,Athletic Club,8,8,1,21362
+3498,Real Valladolid CF,20,Athletic Club,11,2,1,18834
+3499,Real Valladolid CF,20,Athletic Club,11,8,1,24478
+3500,Real Valladolid CF,20,Valencia CF,11,4,1,26737
+3501,Real Valladolid CF,18,Valencia CF,7,8,1,19730
+3502,Real Valladolid CF,20,Valencia CF,9,6,0,12354
+3503,Real Valladolid CF,17,Valencia CF,7,3,1,19181
+3504,Real Valladolid CF,18,Valencia CF,7,6,0,9594
+3505,Real Valladolid CF,20,Valencia CF,11,10,1,20055
+3506,Real Valladolid CF,17,Valencia CF,8,5,0,18408
+3507,Real Valladolid CF,17,Valencia CF,10,10,1,22732
+3508,Real Valladolid CF,17,Valencia CF,6,2,0,13457
+3509,Real Valladolid CF,20,Valencia CF,10,6,1,22290
+3510,Real Valladolid CF,16,CA Osasuna,10,8,0,16187
+3511,Real Valladolid CF,20,CA Osasuna,8,12,1,19039
+3512,Real Valladolid CF,20,CA Osasuna,9,3,0,15828
+3513,Real Valladolid CF,19,CA Osasuna,8,11,1,20114
+3514,Real Valladolid CF,17,CA Osasuna,9,3,1,22646
+3515,Real Valladolid CF,20,CA Osasuna,12,1,0,14920
+3516,Real Valladolid CF,17,CA Osasuna,9,5,1,26196
+3517,Real Valladolid CF,20,CA Osasuna,8,1,1,18397
+3518,Real Valladolid CF,20,CA Osasuna,8,8,1,23008
+3519,Real Valladolid CF,19,CA Osasuna,9,1,1,22687
+3520,Real Valladolid CF,20,RC Celta de Vigo,10,9,0,13117
+3521,Real Valladolid CF,20,RC Celta de Vigo,10,6,1,18721
+3522,Real Valladolid CF,16,RC Celta de Vigo,14,3,1,16923
+3523,Real Valladolid CF,20,RC Celta de Vigo,13,5,0,15401
+3524,Real Valladolid CF,20,RC Celta de Vigo,11,1,0,13568
+3525,Real Valladolid CF,17,RC Celta de Vigo,8,11,1,22329
+3526,Real Valladolid CF,18,RC Celta de Vigo,14,5,1,18376
+3527,Real Valladolid CF,20,RC Celta de Vigo,12,8,1,16509
+3528,Real Valladolid CF,19,RC Celta de Vigo,13,6,1,19190
+3529,Real Valladolid CF,18,RC Celta de Vigo,13,5,1,20829
+3530,Real Valladolid CF,19,Rayo Vallecano,15,1,1,26185
+3531,Real Valladolid CF,20,Rayo Vallecano,11,6,1,17336
+3532,Real Valladolid CF,17,Rayo Vallecano,11,6,1,18032
+3533,Real Valladolid CF,20,Rayo Vallecano,15,6,1,21894
+3534,Real Valladolid CF,17,Rayo Vallecano,10,9,1,18629
+3535,Real Valladolid CF,17,Rayo Vallecano,11,11,1,18815
+3536,Real Valladolid CF,17,Rayo Vallecano,14,3,1,19202
+3537,Real Valladolid CF,16,Rayo Vallecano,10,3,1,23955
+3538,Real Valladolid CF,20,Rayo Vallecano,9,3,1,15670
+3539,Real Valladolid CF,20,Rayo Vallecano,15,2,1,18132
+3540,Real Valladolid CF,17,Elche CF,13,8,1,21630
+3541,Real Valladolid CF,20,Elche CF,13,12,1,17765
+3542,Real Valladolid CF,18,Elche CF,14,1,0,12267
+3543,Real Valladolid CF,20,Elche CF,12,1,1,17607
+3544,Real Valladolid CF,16,Elche CF,13,1,0,10519
+3545,Real Valladolid CF,20,Elche CF,15,9,1,18587
+3546,Real Valladolid CF,18,Elche CF,11,11,1,22083
+3547,Real Valladolid CF,18,Elche CF,15,11,1,23466
+3548,Real Valladolid CF,19,Elche CF,15,11,0,14027
+3549,Real Valladolid CF,17,Elche CF,14,4,1,23884
+3550,Real Valladolid CF,20,RCD Espanyol,15,11,0,13449
+3551,Real Valladolid CF,20,RCD Espanyol,12,10,1,17478
+3552,Real Valladolid CF,19,RCD Espanyol,16,5,0,16459
+3553,Real Valladolid CF,20,RCD Espanyol,13,4,1,20633
+3554,Real Valladolid CF,18,RCD Espanyol,16,1,1,15997
+3555,Real Valladolid CF,17,RCD Espanyol,15,12,1,19671
+3556,Real Valladolid CF,20,RCD Espanyol,17,11,1,17044
+3557,Real Valladolid CF,20,RCD Espanyol,11,12,1,18148
+3558,Real Valladolid CF,16,RCD Espanyol,14,5,1,22907
+3559,Real Valladolid CF,20,RCD Espanyol,14,6,1,22131
+3560,Real Valladolid CF,20,Getafe CF,16,11,1,17573
+3561,Real Valladolid CF,20,Getafe CF,16,4,1,20713
+3562,Real Valladolid CF,18,Getafe CF,15,10,0,11350
+3563,Real Valladolid CF,17,Getafe CF,16,9,1,16410
+3564,Real Valladolid CF,19,Getafe CF,15,12,0,17242
+3565,Real Valladolid CF,20,Getafe CF,17,2,1,23606
+3566,Real Valladolid CF,20,Getafe CF,18,2,1,19973
+3567,Real Valladolid CF,20,Getafe CF,12,12,0,8521
+3568,Real Valladolid CF,16,Getafe CF,14,2,1,26239
+3569,Real Valladolid CF,19,Getafe CF,17,2,1,17877
+3570,Real Valladolid CF,20,RCD Mallorca,16,3,1,18169
+3571,Real Valladolid CF,20,RCD Mallorca,18,4,1,23925
+3572,Real Valladolid CF,17,RCD Mallorca,15,6,1,21800
+3573,Real Valladolid CF,16,RCD Mallorca,13,4,1,21823
+3574,Real Valladolid CF,20,RCD Mallorca,19,10,0,10225
+3575,Real Valladolid CF,20,RCD Mallorca,18,2,1,14912
+3576,Real Valladolid CF,20,RCD Mallorca,19,9,1,21795
+3577,Real Valladolid CF,20,RCD Mallorca,14,9,1,17117
+3578,Real Valladolid CF,20,RCD Mallorca,16,5,1,18195
+3579,Real Valladolid CF,20,RCD Mallorca,14,10,1,14633
+3580,Real Valladolid CF,20,Cádiz CF,14,2,1,18159
+3581,Real Valladolid CF,16,Cádiz CF,20,3,1,20522
+3582,Real Valladolid CF,18,Cádiz CF,14,2,1,20947
+3583,Real Valladolid CF,20,Cádiz CF,19,12,1,14768
+3584,Real Valladolid CF,18,Cádiz CF,20,2,1,20248
+3585,Real Valladolid CF,19,Cádiz CF,20,2,1,17469
+3586,Real Valladolid CF,20,Cádiz CF,15,4,1,22019
+3587,Real Valladolid CF,20,Cádiz CF,15,4,1,21203
+3588,Real Valladolid CF,18,Cádiz CF,19,4,1,19141
+3589,Real Valladolid CF,20,Cádiz CF,19,5,0,16860
+3590,Real Valladolid CF,19,UD Almería,16,1,1,12678
+3591,Real Valladolid CF,20,UD Almería,15,4,1,19159
+3592,Real Valladolid CF,17,UD Almería,18,6,1,11382
+3593,Real Valladolid CF,19,UD Almería,18,2,1,18963
+3594,Real Valladolid CF,20,UD Almería,17,9,1,17087
+3595,Real Valladolid CF,17,UD Almería,19,6,1,21143
+3596,Real Valladolid CF,18,UD Almería,16,8,1,17019
+3597,Real Valladolid CF,18,UD Almería,19,4,1,19432
+3598,Real Valladolid CF,18,UD Almería,15,8,0,10959
+3599,Real Valladolid CF,20,UD Almería,15,8,0,11719
+3600,Real Valladolid CF,17,Girona FC,20,3,1,21148
+3601,Real Valladolid CF,19,Girona FC,20,3,1,19386
+3602,Real Valladolid CF,18,Girona FC,20,3,1,17304
+3603,Real Valladolid CF,20,Girona FC,18,10,1,17321
+3604,Real Valladolid CF,20,Girona FC,17,4,1,24183
+3605,Real Valladolid CF,18,Girona FC,20,12,1,13341
+3606,Real Valladolid CF,16,Girona FC,20,8,1,17321
+3607,Real Valladolid CF,17,Girona FC,20,10,1,14627
+3608,Real Valladolid CF,16,Girona FC,19,5,1,20176
+3609,Real Valladolid CF,20,Girona FC,17,4,1,18983
+3610,Girona FC,20,Real Madrid CF,1,3,0,5843
+3611,Girona FC,20,Real Madrid CF,4,5,1,8628
+3612,Girona FC,20,Real Madrid CF,2,9,1,8243
+3613,Girona FC,19,Real Madrid CF,2,9,0,6336
+3614,Girona FC,17,Real Madrid CF,1,10,1,8327
+3615,Girona FC,20,Real Madrid CF,1,1,1,10668
+3616,Girona FC,20,Real Madrid CF,1,4,1,8292
+3617,Girona FC,20,Real Madrid CF,1,3,1,7179
+3618,Girona FC,19,Real Madrid CF,1,12,1,7202
+3619,Girona FC,20,Real Madrid CF,1,3,1,8338
+3620,Girona FC,20,FC Barcelona,1,11,1,7703
+3621,Girona FC,20,FC Barcelona,4,1,1,8421
+3622,Girona FC,20,FC Barcelona,2,2,1,8081
+3623,Girona FC,17,FC Barcelona,2,2,0,4713
+3624,Girona FC,20,FC Barcelona,1,10,1,9486
+3625,Girona FC,18,FC Barcelona,4,5,0,6102
+3626,Girona FC,17,FC Barcelona,2,11,1,7662
+3627,Girona FC,18,FC Barcelona,2,2,1,9563
+3628,Girona FC,19,FC Barcelona,1,8,0,4764
+3629,Girona FC,18,FC Barcelona,4,2,1,10146
+3630,Girona FC,18,Atlético de Madrid,6,8,1,9802
+3631,Girona FC,20,Atlético de Madrid,2,8,1,7084
+3632,Girona FC,20,Atlético de Madrid,2,11,1,8497
+3633,Girona FC,19,Atlético de Madrid,4,8,0,5414
+3634,Girona FC,20,Atlético de Madrid,2,11,0,6931
+3635,Girona FC,20,Atlético de Madrid,1,1,1,6203
+3636,Girona FC,20,Atlético de Madrid,1,12,1,8677
+3637,Girona FC,20,Atlético de Madrid,1,11,1,9123
+3638,Girona FC,18,Atlético de Madrid,6,8,0,4594
+3639,Girona FC,19,Atlético de Madrid,6,10,1,7426
+3640,Girona FC,18,Sevilla FC,6,11,1,8314
+3641,Girona FC,17,Sevilla FC,4,1,1,10614
+3642,Girona FC,18,Sevilla FC,3,9,1,9907
+3643,Girona FC,20,Sevilla FC,1,12,0,5087
+3644,Girona FC,19,Sevilla FC,2,6,1,7754
+3645,Girona FC,20,Sevilla FC,6,1,1,10104
+3646,Girona FC,20,Sevilla FC,7,11,1,8165
+3647,Girona FC,18,Sevilla FC,6,6,0,5135
+3648,Girona FC,20,Sevilla FC,1,4,0,5711
+3649,Girona FC,20,Sevilla FC,5,4,1,10123
+3650,Girona FC,17,Real Betis Balompié,2,9,1,9116
+3651,Girona FC,20,Real Betis Balompié,2,4,1,6964
+3652,Girona FC,18,Real Betis Balompié,4,12,1,6562
+3653,Girona FC,18,Real Betis Balompié,6,4,0,5384
+3654,Girona FC,20,Real Betis Balompié,5,11,1,7571
+3655,Girona FC,20,Real Betis Balompié,4,6,1,8608
+3656,Girona FC,17,Real Betis Balompié,7,10,1,9094
+3657,Girona FC,20,Real Betis Balompié,2,12,1,8074
+3658,Girona FC,20,Real Betis Balompié,6,12,1,7690
+3659,Girona FC,17,Real Betis Balompié,3,6,1,9252
+3660,Girona FC,20,Real Sociedad,6,5,1,8979
+3661,Girona FC,19,Real Sociedad,7,5,1,8422
+3662,Girona FC,20,Real Sociedad,8,8,0,4374
+3663,Girona FC,17,Real Sociedad,3,6,1,7893
+3664,Girona FC,20,Real Sociedad,4,3,1,8841
+3665,Girona FC,17,Real Sociedad,6,9,0,6826
+3666,Girona FC,19,Real Sociedad,5,3,1,9637
+3667,Girona FC,17,Real Sociedad,5,2,1,8086
+3668,Girona FC,20,Real Sociedad,7,10,0,6802
+3669,Girona FC,20,Real Sociedad,6,9,1,8082
+3670,Girona FC,20,Villarreal CF,8,5,0,8029
+3671,Girona FC,20,Villarreal CF,8,9,1,8269
+3672,Girona FC,20,Villarreal CF,10,1,0,6106
+3673,Girona FC,20,Villarreal CF,5,1,1,8567
+3674,Girona FC,20,Villarreal CF,8,8,0,5681
+3675,Girona FC,20,Villarreal CF,9,6,1,7318
+3676,Girona FC,20,Villarreal CF,8,6,1,6518
+3677,Girona FC,20,Villarreal CF,10,10,1,8282
+3678,Girona FC,20,Villarreal CF,10,11,1,7906
+3679,Girona FC,20,Villarreal CF,8,3,1,6113
+3680,Girona FC,20,Athletic Club,5,4,0,7522
+3681,Girona FC,17,Athletic Club,9,5,1,8947
+3682,Girona FC,20,Athletic Club,7,3,1,8596
+3683,Girona FC,20,Athletic Club,10,2,1,7184
+3684,Girona FC,20,Athletic Club,6,11,1,7205
+3685,Girona FC,20,Athletic Club,7,12,0,7596
+3686,Girona FC,19,Athletic Club,8,9,0,4203
+3687,Girona FC,19,Athletic Club,11,3,1,7760
+3688,Girona FC,20,Athletic Club,5,9,0,6662
+3689,Girona FC,20,Athletic Club,8,1,1,6188
+3690,Girona FC,17,Valencia CF,11,9,0,6445
+3691,Girona FC,19,Valencia CF,12,5,1,4587
+3692,Girona FC,20,Valencia CF,8,2,0,7248
+3693,Girona FC,20,Valencia CF,6,4,1,8778
+3694,Girona FC,20,Valencia CF,9,8,1,8386
+3695,Girona FC,20,Valencia CF,11,2,1,9659
+3696,Girona FC,19,Valencia CF,12,11,1,6711
+3697,Girona FC,20,Valencia CF,9,9,1,7834
+3698,Girona FC,20,Valencia CF,12,12,1,6624
+3699,Girona FC,20,Valencia CF,7,1,0,5653
+3700,Girona FC,18,CA Osasuna,8,9,1,8669
+3701,Girona FC,18,CA Osasuna,11,3,1,9067
+3702,Girona FC,20,CA Osasuna,7,2,1,7685
+3703,Girona FC,20,CA Osasuna,8,9,1,9038
+3704,Girona FC,20,CA Osasuna,13,11,1,7721
+3705,Girona FC,20,CA Osasuna,7,11,0,6878
+3706,Girona FC,20,CA Osasuna,7,2,1,9100
+3707,Girona FC,19,CA Osasuna,13,12,1,8474
+3708,Girona FC,20,CA Osasuna,10,11,1,6583
+3709,Girona FC,18,CA Osasuna,12,11,1,7832
+3710,Girona FC,20,RC Celta de Vigo,14,12,1,6898
+3711,Girona FC,19,RC Celta de Vigo,8,5,1,7269
+3712,Girona FC,19,RC Celta de Vigo,11,11,1,7209
+3713,Girona FC,20,RC Celta de Vigo,10,3,1,5916
+3714,Girona FC,17,RC Celta de Vigo,8,12,0,4578
+3715,Girona FC,20,RC Celta de Vigo,12,5,1,9197
+3716,Girona FC,20,RC Celta de Vigo,14,11,0,4746
+3717,Girona FC,18,RC Celta de Vigo,14,5,1,7099
+3718,Girona FC,19,RC Celta de Vigo,11,10,1,8967
+3719,Girona FC,20,RC Celta de Vigo,14,11,1,8386
+3720,Girona FC,20,Rayo Vallecano,9,4,1,8178
+3721,Girona FC,20,Rayo Vallecano,13,12,1,7423
+3722,Girona FC,19,Rayo Vallecano,13,8,1,7473
+3723,Girona FC,19,Rayo Vallecano,10,6,1,7686
+3724,Girona FC,20,Rayo Vallecano,13,11,1,8249
+3725,Girona FC,17,Rayo Vallecano,12,11,1,8771
+3726,Girona FC,20,Rayo Vallecano,15,6,1,4429
+3727,Girona FC,20,Rayo Vallecano,15,6,1,8261
+3728,Girona FC,20,Rayo Vallecano,9,2,1,8207
+3729,Girona FC,17,Rayo Vallecano,12,10,1,8764
+3730,Girona FC,20,Elche CF,14,3,1,7415
+3731,Girona FC,20,Elche CF,10,11,0,2673
+3732,Girona FC,18,Elche CF,16,10,1,7555
+3733,Girona FC,19,Elche CF,12,11,1,6442
+3734,Girona FC,20,Elche CF,15,3,1,9134
+3735,Girona FC,20,Elche CF,12,5,1,9303
+3736,Girona FC,20,Elche CF,16,11,1,7341
+3737,Girona FC,20,Elche CF,15,10,0,6401
+3738,Girona FC,20,Elche CF,14,1,0,4493
+3739,Girona FC,17,Elche CF,15,11,1,7905
+3740,Girona FC,20,RCD Espanyol,13,8,0,5623
+3741,Girona FC,20,RCD Espanyol,15,4,1,7659
+3742,Girona FC,18,RCD Espanyol,13,10,1,8620
+3743,Girona FC,20,RCD Espanyol,15,12,1,8714
+3744,Girona FC,17,RCD Espanyol,11,2,0,6392
+3745,Girona FC,19,RCD Espanyol,16,12,1,6914
+3746,Girona FC,19,RCD Espanyol,15,3,0,5433
+3747,Girona FC,19,RCD Espanyol,11,10,1,7095
+3748,Girona FC,20,RCD Espanyol,17,9,0,5164
+3749,Girona FC,20,RCD Espanyol,17,6,1,6540
+3750,Girona FC,20,Getafe CF,13,4,0,6886
+3751,Girona FC,17,Getafe CF,18,12,1,7629
+3752,Girona FC,19,Getafe CF,14,2,1,5958
+3753,Girona FC,20,Getafe CF,18,3,1,6839
+3754,Girona FC,19,Getafe CF,12,1,0,6086
+3755,Girona FC,20,Getafe CF,17,6,1,8016
+3756,Girona FC,17,Getafe CF,13,4,1,6905
+3757,Girona FC,17,Getafe CF,14,12,0,5736
+3758,Girona FC,20,Getafe CF,13,5,1,7734
+3759,Girona FC,20,Getafe CF,14,6,1,6535
+3760,Girona FC,20,RCD Mallorca,19,12,1,5121
+3761,Girona FC,18,RCD Mallorca,13,1,1,6961
+3762,Girona FC,20,RCD Mallorca,16,3,1,8804
+3763,Girona FC,20,RCD Mallorca,13,9,0,4059
+3764,Girona FC,20,RCD Mallorca,17,9,1,7286
+3765,Girona FC,20,RCD Mallorca,18,6,1,5088
+3766,Girona FC,20,RCD Mallorca,17,11,1,7323
+3767,Girona FC,17,RCD Mallorca,14,6,1,8397
+3768,Girona FC,18,RCD Mallorca,14,8,1,6747
+3769,Girona FC,20,RCD Mallorca,15,3,1,9048
+3770,Girona FC,18,Cádiz CF,14,5,1,8005
+3771,Girona FC,20,Cádiz CF,17,4,1,8351
+3772,Girona FC,18,Cádiz CF,20,2,1,6971
+3773,Girona FC,20,Cádiz CF,14,6,0,4647
+3774,Girona FC,19,Cádiz CF,14,5,1,8333
+3775,Girona FC,20,Cádiz CF,18,11,1,4308
+3776,Girona FC,20,Cádiz CF,19,5,0,4404
+3777,Girona FC,20,Cádiz CF,14,1,1,6884
+3778,Girona FC,17,Cádiz CF,20,12,0,4819
+3779,Girona FC,20,Cádiz CF,14,8,1,6485
+3780,Girona FC,20,UD Almería,19,1,1,6238
+3781,Girona FC,20,UD Almería,16,10,1,6701
+3782,Girona FC,20,UD Almería,15,9,1,5811
+3783,Girona FC,19,UD Almería,15,5,0,6695
+3784,Girona FC,20,UD Almería,18,1,0,7323
+3785,Girona FC,20,UD Almería,16,9,1,7366
+3786,Girona FC,20,UD Almería,18,11,1,6134
+3787,Girona FC,20,UD Almería,17,8,1,8158
+3788,Girona FC,20,UD Almería,15,3,1,8339
+3789,Girona FC,20,UD Almería,19,4,1,6990
+3790,Girona FC,20,Real Valladolid CF,19,12,1,6844
+3791,Girona FC,20,Real Valladolid CF,18,8,0,4436
+3792,Girona FC,20,Real Valladolid CF,19,6,1,3955
+3793,Girona FC,20,Real Valladolid CF,18,9,1,7647
+3794,Girona FC,18,Real Valladolid CF,20,10,1,7179
+3795,Girona FC,17,Real Valladolid CF,18,10,1,7523
+3796,Girona FC,18,Real Valladolid CF,16,8,1,7563
+3797,Girona FC,17,Real Valladolid CF,20,11,1,4412
+3798,Girona FC,18,Real Valladolid CF,19,3,0,4163
+3799,Girona FC,20,Real Valladolid CF,17,11,1,8292
