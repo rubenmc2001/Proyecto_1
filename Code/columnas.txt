@@ -1,0 +1,53 @@
+fin_de_semana
+publico
+equipo1_Athletic Club
+equipo1_Atlético de Madrid
+equipo1_CA Osasuna
+equipo1_Cádiz CF
+equipo1_Elche CF
+equipo1_FC Barcelona
+equipo1_Getafe CF
+equipo1_Girona FC
+equipo1_RC Celta de Vigo
+equipo1_RCD Espanyol
+equipo1_RCD Mallorca
+equipo1_Rayo Vallecano
+equipo1_Real Betis Balompié
+equipo1_Real Madrid CF
+equipo1_Real Sociedad
+equipo1_Real Valladolid CF
+equipo1_Sevilla FC
+equipo1_UD Almería
+equipo1_Valencia CF
+equipo1_Villarreal CF
+equipo2_Athletic Club
+equipo2_Atlético de Madrid
+equipo2_CA Osasuna
+equipo2_Cádiz CF
+equipo2_Elche CF
+equipo2_FC Barcelona
+equipo2_Getafe CF
+equipo2_Girona FC
+equipo2_RC Celta de Vigo
+equipo2_RCD Espanyol
+equipo2_RCD Mallorca
+equipo2_Rayo Vallecano
+equipo2_Real Betis Balompié
+equipo2_Real Madrid CF
+equipo2_Real Sociedad
+equipo2_Real Valladolid CF
+equipo2_Sevilla FC
+equipo2_UD Almería
+equipo2_Valencia CF
+equipo2_Villarreal CF
+mes_1
+mes_2
+mes_3
+mes_4
+mes_5
+mes_6
+mes_8
+mes_9
+mes_10
+mes_11
+mes_12
